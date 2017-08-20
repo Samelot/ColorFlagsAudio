@@ -1,0 +1,770 @@
+<REAPER_PROJECT 0.1 "4.75/OSX64" 1418007693
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174206 8 1 8 1 0 0
+  TIMEMODE 6 0 -1
+  PANMODE 3
+  CURSOR 0
+  ZOOM 10.81406058173371 0 0
+  VZOOMEX 1
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 27
+  SELECTION2 0 27
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 0 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 303 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 ""
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABCAgAAAQAAAAAAEABDRUdQFAgAAHic5VXfb9owEH7nr7D8tD00iQOFIQEVo2VCGioaTNpbdSTX1JrjMNth7f76
+        OU5CYXSqJ21Puxffnb/78eUU3+jqMRdkj0rzQo4pCyJKriad0VRxWMMej676UUwnHWJltEZjuMw0+VaC4ObJ3lKSiWILYlUIa3ZjSrRRCLmF1WYOj2vnmQpRJMv3Y3rJ
+        rHu5uF7clmZZpOiyQGmKHIwtuRaFGVPbj07sTa86QYD1MHJBsKoc6EQ07hlKg2pM+1HbyKaUrnYURE4oCdvubWLCU5dbQo5VyoCsSoVk9sB3YTyNvoSfVtVB3pRS8Jwb
+        TN9SsgX5dWHjWBQNKUkeQEoUY3ph29452qxPiTmru9veKZAZVsiD01iX3hUaXRt5aWpFf78ToB3vulvX8RK4bDvegyjRTeqU1imQHYBn/E+BsS+w6wvs+QIvfYF9X+DA
+        F/jOFzj0BbLIG+k9G+Y9HOY9HeY9HvbafFagIG/KH3faZb1hn/0W23vGsvjlzBtQGZrm50yKPFiJIisxqF6l4OP8Nig1quM/xEXNSm3fjmswQMzTzkbGcbfqQ/Mf1uhV
+        M28fM1sPZcqhVlMbYpVW5vURR39XTimGNcc/Jc3+E9IbxbMM1dq+8ygTVK/SZoOYDVval4Mj2vFLtFnDupHaHji9OxvMhyckZlF3/g8/xCisNlKj39zfY2LOV9Q03/Lq
+        S/y6hdql9uHzog2AxPA9Lg77s7ZvnvcpClsC0w1s6+Vlc4zCduNPOj8B4v0E3wAAEAAAAA==
+      >
+      FLOATPOS 404 36 871 509
+      FXID {8431A072-55F4-FD4E-8B7D-D2D9F1493C94}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 27
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.090909 0.090909
+      IGUID {FA24AF18-BF0A-9544-B3B3-3E292E8136A1}
+      IID 2
+      NAME "fr. horn(s) - National_Anthems_-_Malta.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E32A02F-FA85-FC40-828F-0574FA0E59D9}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {F160E52A-E559-4140-8227-BDC6390A2410}
+        <X 0 0
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 91 39 41 5
+        e 0 91 3d 39
+        e 0 91 40 41 2
+        e 0 91 45 4a 2
+        e 1041 81 45 01 2
+        e 5 81 3d 3c
+        e 12 81 40 3f 2
+        e 14 81 39 51 5
+        e 848 91 3d 41 -35
+        e 0 91 40 4b -34
+        e 714 81 40 01 -34
+        e 246 91 3e 4f -7
+        e 0 91 42 4d -26
+        e 46 81 3d 17 -35
+        e 397 81 42 3c -26
+        e 37 91 41 4e -41
+        e 351 81 3e 1f -7
+        e 129 91 3e 47 -7
+        e 0 91 40 4a 3
+        e 66 81 41 40 -41
+        e 354 81 3e 01 -7
+        e 60 91 3d 42 -23
+        e 574 81 40 34 3
+        e 146 91 40 4a -36
+        e 10 81 3d 36 -23
+        e 225 81 40 43 -36
+        e 5 91 3d 55 -56
+        e 240 91 40 4b -51
+        e 18 81 3d 38 -56
+        e 222 81 40 2d -40
+        e 0 91 40 4e
+        e 0 91 45 48
+        e 463 81 40 33
+        e 17 91 42 4d -9
+        e 378 81 42 14 -9
+        e 3 81 45 18
+        e 99 91 3e 44 -30
+        e 0 91 42 41 -28
+        e 221 81 42 3b -28
+        e 19 91 40 47 -22
+        e 0 91 45 55 -33
+        e 31 81 3e 3b -30
+        e 209 91 42 4d -15
+        e 21 81 40 27 -22
+        e 10 81 45 4b -33
+        e 440 81 42 01 -15
+        e 9 91 40 47 -9
+        e 0 91 44 37 -23
+        e 460 81 40 2d -9
+        e 17 81 44 38 -23
+        e 3 91 3f 4a -30
+        e 0 91 45 4a -28
+        e 480 91 40 4a -11
+        e 0 91 44 3b -14
+        e 25 81 45 37 -28
+        e 1 81 3f 29 -30
+        e 765 81 40 32 -11
+        e 17 81 44 38 -14
+        e 152 91 39 52
+        e 0 91 40 42 1
+        e 480 91 3d 4a 6
+        e 6 81 39 34
+        e 443 81 3d 07 6
+        e 31 91 3b 4a 6
+        e 480 91 3e 41 15
+        e 2 81 3b 18 6
+        e 388 81 40 3d 1
+        e 2 81 3e 4a 15
+        e 88 91 3d 44
+        e 0 91 45 4a 2
+        e 905 81 3d 25
+        e 24 81 45 25 2
+        e 31 91 3b 47 -11
+        e 0 91 42 4f -11
+        e 397 81 42 32 -11
+        e 83 91 3e 44 -21
+        e 0 91 42 4b -14
+        e 11 81 3b 23 -11
+        e 453 81 42 21 -14
+        e 16 91 40 47 -20
+        e 472 81 3e 01 -21
+        e 8 91 3d 31 -30
+        e 480 91 45 4e -32
+        e 11 81 40 42 -20
+        e 436 81 3d 1e -30
+        e 23 81 45 3c -32
+        e 10 91 42 4d -47
+        e 480 91 40 45 -28
+        e 0 91 44 3b -38
+        e 16 81 42 2b -47
+        e 858 81 40 01 -28
+        e 86 91 3d 42
+        e 0 91 40 47 7
+        e 70 81 44 28 -38
+        e 391 81 3d 3b
+        e 8 81 40 2c 7
+        e 11 91 39 62 -16
+        e 196 81 39 21 -16
+        e 164 91 39 4e -24
+        e 78 81 39 43 -24
+        e 42 91 39 5a -14
+        e 0 91 40 4a 7
+        e 474 81 39 34 -14
+        e 6 91 3d 41 -36
+        e 355 81 40 2d 7
+        e 94 81 3d 2a -36
+        e 31 91 3b 4a -29
+        e 0 91 40 48 -22
+        e 449 81 3b 01 -29
+        e 31 91 3e 44 -13
+        e 418 81 3e 25 -13
+        e 23 81 40 01 -22
+        e 39 91 3d 4a -5
+        e 0 91 45 47 3
+        e 913 81 45 01 3
+        e 33 81 3d 4e -5
+        e 14 91 42 55 -1
+        e 0 91 47 4a 4
+        e 384 81 42 2f -1
+        e 96 91 3e 4b -17
+        e 0 91 42 47 -16
+        e 19 81 47 3c 4
+        e 461 91 40 4a
+        e 12 81 42 20 -16
+        e 467 81 3e 01 -17
+        e 1 91 3d 4d
+        e 471 81 40 36
+        e 9 91 44 4a -30
+        e 204 81 3d 31
+        e 36 91 42 55 -38
+        e 17 81 44 2a -30
+        e 223 91 40 5a -32
+        e 25 81 42 3d -38
+        e 207 81 40 44 -32
+        e 8 91 3e 4f -35
+        e 176 81 3e 33 -35
+        e 64 91 3e 42 -26
+        e 0 91 40 48 -19
+        e 960 91 3d 31 -17
+        e 14 81 3e 3b -26
+        e 1484 81 3d 5c -17
+        e 5 81 40 4f -19
+        E 417 b0 7b 00
+        GUID {9B309E65-1E60-2649-926B-58F4294C6BE3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 403
+        VELLANE -1 86 6
+        CFGEDITVIEW 4308.481709 169.549581 55 26 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 573 405 1837 1120 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 27
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.181818 0.090909
+      IGUID {16739951-C935-C947-8C73-233D389E14AC}
+      IID 3
+      NAME "trombone(s) - National_Anthems_-_Malta.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA8E4FCE-178F-E14D-A3A5-A7F73C5487FB}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {60BB7DAD-4B95-DD4A-9512-D71FDAB5B58B}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 92 39 57
+        e 1073 82 39 66
+        e 847 92 39 55 4
+        e 852 82 39 35 4
+        e 108 92 39 5a -12
+        e 897 82 39 29 -12
+        e 63 92 39 4a 1
+        e 836 82 39 0a 1
+        e 124 92 31 62 -22
+        e 206 82 31 30 -22
+        e 34 92 34 5f -22
+        e 198 82 34 2f -22
+        e 42 92 39 62 -18
+        e 222 82 39 2f -18
+        e 18 92 3b 55 -20
+        e 210 82 3b 28 -20
+        e 30 92 39 57 -16
+        e 436 82 39 01 -16
+        e 44 92 36 62 -16
+        e 472 82 36 01 -16
+        e 8 92 2f 67 -8
+        e 200 82 2f 27 -8
+        e 40 92 31 67 -12
+        e 209 82 31 2e -12
+        e 31 92 32 5d -12
+        e 199 82 32 25 -12
+        e 41 92 33 62 -14
+        e 161 82 33 2c -14
+        e 79 92 34 5d -10
+        e 415 82 34 12 -10
+        e 65 92 36 5f -16
+        e 428 82 36 0d -16
+        e 52 92 38 65 -4
+        e 171 82 38 0c -4
+        e 69 92 36 6a -13
+        e 164 82 36 2a -13
+        e 76 92 34 5a -15
+        e 234 82 34 11 -15
+        e 6 92 32 5a -11
+        e 177 82 32 1f -11
+        e 63 92 31 5f -7
+        e 426 82 31 3e -7
+        e 54 92 39 57 -2
+        e 433 82 39 01 -2
+        e 47 92 38 62 4
+        e 427 82 38 01 4
+        e 53 92 34 65 3
+        e 419 82 34 01 3
+        e 61 92 39 5d 6
+        e 360 82 39 01 6
+        e 120 92 2d 62 3
+        e 380 82 2d 34 3
+        e 100 92 2f 62 4
+        e 400 82 2f 34 4
+        e 80 92 32 55 -3
+        e 397 82 32 13 -3
+        e 83 92 34 5a -9
+        e 872 82 34 01 -9
+        e 88 92 3e 4f -11
+        e 434 82 3e 2c -11
+        e 46 92 3e 4f -3
+        e 472 82 3e 16 -3
+        e 8 92 34 5d -8
+        e 382 82 34 29 -8
+        e 98 92 36 62 -19
+        e 206 82 36 0d -19
+        e 34 92 38 65 -15
+        e 172 82 38 25 -15
+        e 68 92 39 62 -12
+        e 720 82 39 3b -12
+        e 240 92 3d 4d -4
+        e 418 82 3d 1a -4
+        e 62 92 39 5f -3
+        e 399 82 39 1f -3
+        e 81 92 38 62 -4
+        e 418 82 38 01 -4
+        e 62 92 34 5d -12
+        e 465 82 34 01 -12
+        e 15 92 39 5a -5
+        e 370 82 39 01 -5
+        e 110 92 2d 67 -14
+        e 440 82 2d 13 -14
+        e 40 92 2f 67 -11
+        e 461 82 2f 0f -11
+        e 19 92 32 62 -6
+        e 412 82 32 1e -6
+        e 68 92 34 62 -3
+        e 926 82 34 01 -3
+        e 34 92 28 5f -11
+        e 815 82 28 25 -11
+        e 145 92 28 65 -5
+        e 184 82 28 40 -5
+        e 56 92 29 5a -12
+        e 198 82 29 12 -12
+        e 42 92 2a 5f -6
+        e 181 82 2a 01 -6
+        e 59 92 2c 5d -9
+        e 177 82 2c 2b -9
+        e 63 92 2d 5a -1
+        e 1501 82 2d 5d -1
+        E 419 b0 7b 00
+        GUID {0824EAEF-1C15-2442-8BDD-9400D70AADD3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 404
+        VELLANE -1 86 6
+        CFGEDITVIEW 7728.384059 45.251842 64 17 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 589 421 1837 1120 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 27
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.272727 0.090909
+      IGUID {D0D658C4-A334-8D40-9739-238572CA6BF8}
+      IID 4
+      NAME "tuba(s) - National_Anthems_-_Malta.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DFFA260-E8A1-EF41-B528-DE5F61E14BD7}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {D4E4646B-2ACE-9840-8F25-42112B3F0F83}
+        <X 0 0
+          /wN0dWJhKHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 93 2d 52
+        e 1088 83 2d 4d
+        e 832 93 21 6a
+        e 866 83 21 48
+        e 94 93 21 62 -14
+        e 864 83 21 43 -14
+        e 96 93 21 5a -14
+        e 890 83 21 1b -14
+        e 70 93 25 67 -13
+        e 190 83 25 2c -13
+        e 50 93 28 57 -18
+        e 143 83 28 36 -18
+        e 97 93 25 67 -18
+        e 202 83 25 30 -18
+        e 38 93 28 5f -23
+        e 151 83 28 21 -23
+        e 89 93 21 6a -18
+        e 398 83 21 20 -18
+        e 82 93 1e 62 -22
+        e 458 83 1e 22 -22
+        e 22 93 23 67
+        e 198 83 23 19
+        e 42 93 25 6a -9
+        e 199 83 25 33 -9
+        e 41 93 26 65 -13
+        e 200 83 26 32 -13
+        e 40 93 27 6a -11
+        e 177 83 27 49 -11
+        e 63 93 28 62 -15
+        e 400 83 28 01 -15
+        e 80 93 2a 67 -15
+        e 440 83 2a 01 -15
+        e 40 93 2c 62 -8
+        e 186 83 2c 0a -8
+        e 54 93 2a 67 -8
+        e 179 83 2a 35 -8
+        e 61 93 28 65 -13
+        e 190 83 28 30 -13
+        e 50 93 26 67 -15
+        e 191 83 26 44 -15
+        e 49 93 25 62 -5
+        e 460 83 25 39 -5
+        e 20 93 2d 67 -6
+        e 416 83 2d 0e -6
+        e 64 93 2c 6a -4
+        e 408 83 2c 37 -4
+        e 72 93 28 65 -2
+        e 401 83 28 20 -2
+        e 79 93 2d 65 4
+        e 402 83 2d 01 4
+        e 78 93 21 6d 6
+        e 402 83 21 3e 6
+        e 78 93 23 67 -3
+        e 430 83 23 2d -3
+        e 50 93 26 62 -8
+        e 420 83 26 22 -8
+        e 60 93 28 65 -8
+        e 881 83 28 07 -8
+        e 79 93 2a 67 -13
+        e 432 83 2a 2b -13
+        e 48 93 26 65 -16
+        e 418 83 26 2b -16
+        e 62 93 28 62 -8
+        e 429 83 28 29 -8
+        e 51 93 2a 6a -7
+        e 174 83 2a 30 -7
+        e 66 93 2c 67 -15
+        e 195 83 2c 2e -15
+        e 45 93 2d 62 -11
+        e 740 83 2d 1a -11
+        e 220 93 25 6a -10
+        e 398 83 25 31 -10
+        e 82 93 21 6f -10
+        e 457 83 21 0c -10
+        e 23 93 2c 6f -2
+        e 447 83 2c 1a -2
+        e 33 93 28 65 -3
+        e 454 83 28 32 -3
+        e 26 93 2d 62 -7
+        e 405 83 2d 01 -7
+        e 75 93 21 6d -10
+        e 459 83 21 45 -10
+        e 21 93 23 67 -1
+        e 432 83 23 1a -1
+        e 48 93 26 6a -6
+        e 410 83 26 25 -6
+        e 70 93 28 65 -6
+        e 808 83 28 01 -6
+        e 152 93 1c 65 -5
+        e 839 83 1c 01 -5
+        e 121 93 1c 6d -6
+        e 189 83 1c 43 -6
+        e 51 93 1d 5d -8
+        e 189 83 1d 25 -8
+        e 51 93 1e 67 -6
+        e 189 83 1e 23 -6
+        e 51 93 20 6a -6
+        e 161 83 20 4a -6
+        e 79 93 21 73 2
+        e 1526 83 21 5d 2
+        E 394 b0 7b 00
+        GUID {39563FD7-5CA3-4644-BE37-7C37D31B6E2F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 405
+        VELLANE -1 86 6
+        CFGEDITVIEW -1296 28.686869 81 22 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 589 421 1837 1120 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25.000000000005
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0 0.090909
+      IGUID {AC5633DA-F23C-3143-AEF0-D5570FCBA816}
+      IID 1
+      NAME "trumpet(s) - National_Anthems_-_Malta.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.999999999995 3.99999999999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BAB6D07-B3B0-6940-9D23-F993232EFD54}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {6B2DCBA1-B7B6-C84D-8531-C6BE5151F675}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 90 45 6a
+        e 1156 80 45 42
+        e 764 90 45 65 -11
+        e 913 80 45 37 -11
+        e 47 90 45 5d -5
+        e 427 80 45 30 -5
+        e 53 90 45 5a -1
+        e 415 80 45 34 -1
+        e 65 90 45 55 -3
+        e 1258 80 45 26 -3
+        e 182 90 45 5f -16
+        e 233 80 45 22 -16
+        e 7 90 47 4f -14
+        e 228 80 47 28 -14
+        e 12 90 49 5f -18
+        e 442 80 49 4e -18
+        e 38 90 49 62 -10
+        e 423 80 49 47 -10
+        e 57 90 4a 5a -2
+        e 235 80 4a 3b -2
+        e 5 90 49 5a -5
+        e 222 80 49 35 -5
+        e 18 90 47 55 -7
+        e 220 80 47 3c -7
+        e 20 90 45 4d -12
+        e 240 90 47 52 -5
+        e 24 80 45 2b -12
+        e 384 80 47 2d -5
+        e 72 90 47 4d -9
+        e 1033 80 47 42 -9
+        e 407 90 4c 55 -6
+        e 904 80 4c 09 -6
+        e 56 90 4a 5f -2
+        e 449 80 4a 29 -2
+        e 31 90 4e 5d
+        e 459 80 4e 3f
+        e 21 90 4c 5d
+        e 912 80 4c 39
+        e 48 90 4a 65 -8
+        e 469 80 4a 43 -8
+        e 11 90 47 5a -13
+        e 467 80 47 2b -13
+        e 13 90 45 62 -8
+        e 669 80 45 01 -8
+        e 51 90 49 62 -12
+        e 192 80 49 43 -12
+        e 48 90 4c 62 -5
+        e 223 80 4c 38 -5
+        e 17 90 4a 52 -15
+        e 240 90 49 67 -5
+        e 26 80 4a 28 -15
+        e 196 80 49 3c -5
+        e 18 90 47 5a -15
+        e 177 80 47 40 -15
+        e 63 90 47 5d -9
+        e 960 90 45 55 -5
+        e 16 80 47 36 -9
+        e 647 80 45 01 -5
+        e 297 90 4c 5f 5
+        e 915 80 4c 43 5
+        e 45 90 4a 5f -10
+        e 462 80 4a 37 -10
+        e 18 90 4e 67 -8
+        e 466 80 4e 28 -8
+        e 14 90 4c 65 3
+        e 878 80 4c 27 3
+        e 82 90 4a 5d -12
+        e 469 80 4a 2b -12
+        e 11 90 47 5f -11
+        e 462 80 47 40 -11
+        e 18 90 45 65 -11
+        e 707 80 45 01 -11
+        e 13 90 49 62 -7
+        e 182 80 49 32 -7
+        e 58 90 4c 65 -3
+        e 226 80 4c 43 -3
+        e 14 90 4a 52 -8
+        e 240 90 49 5f -4
+        e 9 80 4a 34 -8
+        e 212 80 49 40 -4
+        e 19 90 47 52 -13
+        e 188 80 47 3b -13
+        e 52 90 47 5f -9
+        e 960 90 45 62 -8
+        e 19 80 47 36 -9
+        e 1518 80 45 4e -8
+        E 383 b0 7b 00
+        GUID {CAE9A4B1-FB1F-4642-B1AC-BE7DD260C824}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 402
+        VELLANE -1 86 6
+        CFGEDITVIEW 15865.447994 56.275468 48 38 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 557 389 1837 1120 0 0 2 3 0.25 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {7A4E1952-706D-824A-B62C-40B646BC26CF}
+    NAME "17 Malta"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7A4E1952-706D-824A-B62C-40B646BC26CF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F185780C-7116-B24D-B910-7AED9E9CC84E}
+      IID 15
+      NAME "18 Malta (Olympics).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.55483321502145
+      PLAYRATE 2.30923214708256 1 -0.25 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E4B3433-6544-9841-B6A4-461E79308BD0}
+      <SOURCE MP3
+        FILE "/Users/samenglander/Music/Various Artists - The Complete National Anthems of the World - 2013 Edition (2013) [V0]/CD6/17 Malta.mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 ""
+      {F4CC3575-1D7D-424F-8F4B-C71B325A2484} 0 ""
+      {7A4E1952-706D-824A-B62C-40B646BC26CF} 0 ""
+    >
+    <BR_CURSOR_POS 04
+      0.00000000000000
+    >
+  >
+>

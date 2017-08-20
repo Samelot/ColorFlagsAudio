@@ -1,0 +1,2080 @@
+<REAPER_PROJECT 0.1 "4.77/OSX64" 1423877867
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174206 8 1 8 1 0 0
+  TIMEMODE 6 0 -1 24 2
+  PANMODE 3
+  CURSOR 0
+  ZOOM 8.07790617530431 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 22.5
+  SELECTION2 0 22.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F23F8223-271A-294D-A229-F474D58B7A97}
+    NAME "vst Gladiator"
+    PEAKCOL 27222112
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F23F8223-271A-294D-A229-F474D58B7A97}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 532 389 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Gladiator (Tone2.com)" Gladiator.vst 0 ""
+        TEcyVO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABaBAAAAQAAAAAAEABDY25LAAAAYEZ4Q2sAAAABVDJHTAAAAAEAAAEHSW5pdAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAD3MzM08zMzNPDQ5WD24UfQ9edsjP4AAADvEm6Y9vnbJP4AAADvEm6YAAAAAPqZmZj49cKQ/gAAAPsUeuT8AAAA/AAAAAAAAAD1987Y90OVgPLxqfz9FHrgAAAAA
+        P4AAADw0OVg9kWhzPvXCjztEm6Y9uFHoPr1wpD49cKQ/gAAAPwAAAD8AAAA/AAAAAAAAAAAAAAA/AAAAPwAAAD8AAAA+2ZmaPwAAAAAAAAA75WBCPbhR6wAAAAA+TbXE
+        O0Sbpj9LhR4AAAAAAAAAAD7rhSA+lHrhPWFHsD7PXCg/HrhSPj1wpj8AAAA/AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAA/gAAAP4AAAAAAAAA/EeuFPwAAAD8AAAA/AAAA
+        PwAAAAAAAAA/AAAAPwAAAD8AAAAAAAAAPwAAAD8AAAA/AAAAAAAAADqDEm8/UKPXAAAAAD+AAAAAAAAAOoMSbz8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAD+AAAAAAAAA
+        P4AAAAAAAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8R64Y8o9cKOoMSbzxEm6YAAAAAAAAAAAAAAAA8vGp/AAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwTdLwAAAAAPDQ5WAAAAAA8E3S8AAAAADw0OVgAAAAAPBN0vAAAAAA8NDlY
+        AAAAADwTdLwAAAAAPDQ5WAAAAAA8ZWBCPYcrAjxlYEI7AxJvPYk3TDsDEm88tDlYPItDljyTdLw9VP30PReNUDzMzM0+gAAAP3LCNT8AAAA/Uae5PzCNPj8csI0AAAAA
+        OwMSbzqDEm8AAAAAAAAAAAAAAAA/AAAAOoMSbztEm6Y/gAAAAAAAAD+AAAAAAAAAP4AAAAAAAAAAAAAAAAAAAAAAAAA/gAAAAAAAAD8AAAAAAAAAPwAAAD8FHrg/AAAA
+        P4AAAD8AAAA/AAAAPwAAAD+AAAA/gAAAAAAAAAAAAAAAAAAAPwAAAD+AAAA/AAAAAAAAAD69cKQAAAAAAAAAAD+AAAA/gAAAPyPXCj+AAAAAAAAAAAAAAD+AAAA/AAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAAAAAAAAAAAA/gAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AACqq6ytAAAQAAAA
+      >
+      FLOATPOS 293 0 987 777
+      FXID {532372E3-5B0D-9345-A9C8-98A8EBAF9A7E}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0 0.1
+      IGUID {53780D50-2300-3144-9311-F253D5D9B9D4}
+      IID 1
+      NAME "trumpet(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {1B3E8821-044E-7244-8F0F-018FC0AD6316}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {47101EF4-D135-BE4C-911F-5947B519AC45}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 90 3e 7f
+        e 474 80 3e 26
+        e 6 90 3c 7f -12
+        e 480 90 3e 7f -11
+        e 26 80 3c 1a -12
+        e 454 90 40 7f -7
+        e 24 80 3e 33 -11
+        e 456 90 43 7f -9
+        e 31 80 40 38 -7
+        e 449 90 40 7f -4
+        e 24 80 43 3f -9
+        e 456 90 3e 7f -5
+        e 23 80 40 3d -4
+        e 803 80 3e 19 -5
+        e 134 90 40 7f 6
+        e 462 80 40 17 6
+        e 18 90 43 7f -21
+        e 480 90 45 7f -7
+        e 38 80 43 46 -21
+        e 425 80 45 3a -7
+        e 17 90 43 7f -12
+        e 240 90 45 7f -23
+        e 3 80 43 20 -12
+        e 237 90 4a 7f -22
+        e 33 80 45 0c -23
+        e 447 90 47 7f -17
+        e 18 80 4a 3a -22
+        e 462 90 45 7f -14
+        e 26 80 47 42 -17
+        e 454 90 43 7f -5
+        e 29 80 45 32 -14
+        e 451 90 40 7f 1
+        e 1 80 43 41 -5
+        e 479 90 43 7f 4
+        e 31 80 40 14 1
+        e 441 80 43 49 4
+        e 8 90 45 7f -8
+        e 853 80 45 18 -8
+        e 107 90 4a 7f -10
+        e 466 80 4a 3e -10
+        e 14 90 48 7f -14
+        e 480 90 4a 7f -11
+        e 23 80 48 38 -14
+        e 886 80 4a 01 -11
+        e 51 90 40 7f 3
+        e 468 80 40 08 3
+        e 12 90 43 7f -18
+        e 480 90 45 7f -12
+        e 26 80 43 42 -18
+        e 454 90 43 7f 2
+        e 36 80 45 35 -12
+        e 433 80 43 4d 2
+        e 11 90 40 7f -1
+        e 720 90 43 7f -14
+        e 4 80 40 3b -1
+        e 236 90 3e 7f -3
+        e 46 80 43 47 -14
+        e 715 80 3e 24 -3
+        e 199 90 45 7f 5
+        e 480 90 48 7f -5
+        e 5 80 45 3d 5
+        e 475 90 4a 7f -7
+        e 11 80 48 3c -5
+        e 949 90 48 7f 7
+        e 3 80 4a 0e -7
+        e 477 90 4a 7f 1
+        e 1 80 48 3f 7
+        e 473 80 4a 44 1
+        e 6 90 45 7f -4
+        e 480 90 43 7f -5
+        e 6 80 45 3a -4
+        e 474 90 45 7f 10
+        e 47 80 43 48 -5
+        e 428 80 45 1d 10
+        e 5 90 43 7f -1
+        e 238 80 43 38 -1
+        e 2 90 40 7f -7
+        e 238 80 40 34 -7
+        e 2 90 3e 7f -10
+        e 1178 80 3e 5a -10
+        E 262 b0 7b 00
+        GUID {99F92FF0-F8BF-204D-B739-BE147743AB58}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 443
+        VELLANE -1 86 6
+        CFGEDITVIEW -1080 33.131313 52 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 64 110 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {729C0A55-246A-8540-9543-F1A7C38A6340}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {6249072A-EDC1-194C-B68C-A203047E1B4C}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 90 3e 4b
+        E 468 90 3c 47
+        E 6 80 3e 26
+        E 475 90 3e 49
+        E 25 80 3c 1a
+        E 459 90 40 3f
+        E 20 80 3e 33
+        E 458 90 43 46
+        E 33 80 40 38
+        E 452 90 40 42
+        E 19 80 43 3f
+        E 460 90 3e 47
+        E 24 80 40 3d
+        E 802 80 3e 19
+        E 145 90 40 47
+        E 453 90 43 51
+        E 9 80 40 17
+        E 485 90 45 49
+        E 24 80 43 46
+        E 439 80 45 3a
+        E 12 90 43 59
+        E 229 90 45 4b
+        E 14 80 43 20
+        E 227 90 4a 59
+        E 32 80 45 0c
+        E 453 90 47 45
+        E 13 80 4a 3a
+        E 470 90 45 53
+        E 23 80 47 42
+        E 466 90 43 4f
+        E 20 80 45 32
+        E 461 80 43 41
+        E 5 90 40 4e
+        E 483 90 43 4e
+        E 28 80 40 14
+        E 440 90 45 3f
+        E 4 80 43 49
+        E 849 80 45 18
+        E 105 90 4a 59
+        E 466 80 4a 3e
+        E 10 90 48 4b
+        E 483 90 4a 4a
+        E 20 80 48 38
+        E 889 80 4a 01
+        E 65 90 40 42
+        E 459 90 43 53
+        E 9 80 40 08
+        E 477 90 45 4f
+        E 20 80 43 42
+        E 474 90 43 5b
+        E 22 80 45 35
+        E 447 80 43 4d
+        E 8 90 40 51
+        E 707 90 43 5d
+        E 17 80 40 3b
+        E 234 90 3e 53
+        E 35 80 43 47
+        E 726 80 3e 24
+        E 207 90 45 5b
+        E 470 90 48 49
+        E 15 80 45 3d
+        E 463 90 4a 49
+        E 13 80 48 3c
+        E 950 80 4a 0e
+        E 11 90 48 4d
+        E 474 90 4a 4f
+        E 7 80 48 3f
+        E 467 80 4a 44
+        E 1 90 45 4b
+        E 479 90 43 5b
+        E 7 80 45 3a
+        E 488 90 45 53
+        E 32 80 43 48
+        E 437 90 43 59
+        E 6 80 45 1d
+        E 228 90 40 42
+        E 4 80 43 38
+        E 233 90 3e 47
+        E 1 80 40 34
+        E 1177 80 3e 5a
+        E 272 b0 7b 00
+        GUID {EB841806-4732-EF43-BB00-221F0B7AC98C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13459
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.2 0.1
+      IGUID {31B1D4B2-3D02-6349-A3F2-0EC1CD2EA59A}
+      IID 3
+      NAME "trombone(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {C61AF673-09CF-FC4D-9980-DB6BDFB331E5}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {D5A47624-4F7D-0840-8832-47AF7920502A}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 92 32 7f 3
+        e 480 82 32 0c 3
+        e 0 92 30 7f -5
+        e 480 92 32 7f -19
+        e 10 82 30 01 -5
+        e 456 82 32 43 -19
+        e 14 92 34 7f -17
+        e 480 92 37 7f
+        e 38 82 34 3b -17
+        e 439 82 37 07
+        e 3 92 34 7f -6
+        e 480 92 32 7f -6
+        e 5 82 34 01 -6
+        e 871 82 32 24 -6
+        e 84 92 30 7f 2
+        e 454 82 30 21 2
+        e 26 92 34 7f -15
+        e 480 92 35 7f -13
+        e 2 82 34 44 -15
+        e 452 82 35 32 -13
+        e 26 92 34 7f -12
+        e 209 82 34 28 -12
+        e 31 92 35 7f -25
+        e 240 92 36 7f -17
+        e 5 82 35 37 -25
+        e 453 82 36 29 -17
+        e 22 92 37 7f -28
+        e 480 92 32 7f -23
+        e 16 82 37 21 -28
+        e 221 82 32 01 -23
+        e 3 92 33 7f -17
+        e 178 82 33 0b -17
+        e 62 92 34 7f -23
+        e 467 82 34 33 -23
+        e 13 92 30 7f -14
+        e 471 82 30 31 -14
+        e 9 92 34 7f -21
+        e 457 82 34 1f -21
+        e 23 92 30 7f -16
+        e 480 92 35 7f -19
+        e 6 82 30 1d -16
+        e 436 82 35 11 -19
+        e 38 92 32 7f -14
+        e 468 82 32 01 -14
+        e 12 92 2d 7f -20
+        e 464 82 2d 4f -20
+        e 16 92 32 7f -19
+        e 866 82 32 1d -19
+        e 94 92 39 7f
+        e 466 82 39 16
+        e 14 92 37 7f -5
+        e 473 82 37 30 -5
+        e 7 92 35 7f -12
+        e 470 82 35 3f -12
+        e 10 92 34 7f -16
+        e 480 92 30 7f
+        e 49 82 34 2a -16
+        e 419 82 30 48
+        e 12 92 34 7f -13
+        e 480 92 37 7f -8
+        e 24 82 34 3f -13
+        e 809 82 37 27 -8
+        e 127 92 35 7f -10
+        e 360 82 35 46 -10
+        e 120 92 35 7f -11
+        e 478 82 35 26 -11
+        e 2 92 29 7f -11
+        e 786 82 29 54 -11
+        e 174 92 39 7f -3
+        e 472 82 39 1d -3
+        e 8 92 32 7f -11
+        e 435 82 32 31 -11
+        e 45 92 39 7f -4
+        e 480 92 37 7f
+        e 19 82 39 2d -4
+        e 443 82 37 01
+        e 18 92 39 7f -2
+        e 480 92 37 7f 2
+        e 26 82 39 27 -2
+        e 196 82 37 20 2
+        e 18 92 34 7f -10
+        e 240 92 32 7f
+        e 11 82 34 32 -10
+        e 1044 82 32 60
+        E 385 b0 7b 00
+        GUID {04D3A6A3-3900-4B46-B28E-DB75A6375189}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 445
+        VELLANE -1 86 6
+        CFGEDITVIEW -1080 34.424242 69 23 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 32 78 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "trombone(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7ACFDCC-DAA4-834C-8F9B-71918B92572B}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {B44B16A7-FD45-4542-AB01-E6C0718D74E3}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 3 92 32 3b
+        E 472 92 30 29
+        E 8 82 32 0c
+        E 458 92 32 35
+        E 24 82 30 01
+        E 442 82 32 43
+        E 16 92 34 33
+        E 497 92 37 37
+        E 21 82 34 3b
+        E 453 92 34 39
+        E 3 82 37 07
+        E 477 92 32 3b
+        E 5 82 34 01
+        E 871 82 32 24
+        E 92 92 30 3d
+        E 454 82 30 21
+        E 9 92 34 47
+        E 482 82 34 44
+        E 0 92 35 53
+        E 454 82 35 32
+        E 27 92 34 41
+        E 209 82 34 28
+        E 18 92 35 4f
+        E 245 82 35 37
+        E 3 92 36 47
+        E 458 82 36 29
+        E 11 92 37 3b
+        E 485 92 32 51
+        E 11 82 37 21
+        E 226 82 32 01
+        E 9 92 33 4e
+        E 178 82 33 0b
+        E 56 92 34 53
+        E 467 82 34 33
+        E 22 92 30 39
+        E 471 82 30 31
+        E 2 92 34 42
+        E 457 82 34 1f
+        E 28 92 30 2c
+        E 477 92 35 4d
+        E 9 82 30 1d
+        E 433 82 35 11
+        E 43 92 32 55
+        E 468 82 32 01
+        E 6 92 2d 55
+        E 464 82 2d 4f
+        E 17 92 32 4f
+        E 866 82 32 1d
+        E 113 92 39 45
+        E 466 82 39 16
+        E 9 92 37 3d
+        E 473 82 37 30
+        E 0 92 35 49
+        E 470 82 35 3f
+        E 6 92 34 45
+        E 496 92 30 43
+        E 33 82 34 2a
+        E 434 92 34 4a
+        E 1 82 30 48
+        E 484 92 37 3f
+        E 19 82 34 3f
+        E 814 82 37 27
+        E 125 92 35 59
+        E 360 82 35 46
+        E 119 92 35 5b
+        E 478 82 35 26
+        E 2 92 29 4e
+        E 786 82 29 54
+        E 182 92 39 4f
+        E 472 82 39 1d
+        E 0 92 32 4e
+        E 435 82 32 31
+        E 52 92 39 3f
+        E 484 92 37 39
+        E 15 82 39 2d
+        E 447 82 37 01
+        E 16 92 39 3f
+        E 484 92 37 3b
+        E 22 82 39 27
+        E 200 82 37 20
+        E 6 92 34 46
+        E 250 92 32 43
+        E 1 82 34 32
+        E 1054 82 32 60
+        E 385 b0 7b 00
+        GUID {25FF9F7D-0E80-264C-9AB6-469327C85CE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13461
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 69 23 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 166 130 1414 829 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {A26B8C2D-9EE6-0440-AA6B-121F89FB50DD}
+    NAME "16th pulse (mix w/ send?)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {A26B8C2D-9EE6-0440-AA6B-121F89FB50DD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 36 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 ""
+        T0dMUO5e7f4AAAAABAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAIwMAAAEAAAAAABAAQ0VHUNMTAAB4nO1YXW+bMBR976+weNoeSmy+kZJUbdJMkZY1
+        Gtlz5RA3RTOQgcna/fpdIDTQpOB23aSp9Uv8cXzvPfeCOXH/7C7kaMuSNIijgUJUrKCz4Un/PAmoR7estmRhTRmeIGh9jwkRROsU/cgoD8Q9rCpozeMl5fOYw1DXFJSK
+        hNEQYOUwpHdeMXPOeezPLgaKSWB6Nh1PrzIxi1essEIzEYdUgEuPx2KgQDypDyumaeQ9yinMEXSKWO5bTX2+mx6xSLBkoFi4CmWRRYV3rOKiKahXxQ+mUbAqrEc0ZLlJ
+        Fc2zhKHRbbDpedNxzzIdgj58WXijjwpa0uj7FPAEY1dB/i2NIsYHyikEvCkIQ3DiwN1meZ3QaM1y4MOkgKl0E6es8B5mouSd/rzmNAXC9i7JRaAzGkRVoFvKM1aUqMmm
+        CSQPwAPaTaAmC9RlgYYs0JQFWrJAWxboyAJdWSDB0kjp2hDp4hDp6hDp8pCu+sxpQkOph2iP7PK+R9Zr6ZhmC7KResNtg9r13BO91b/RgLZarT+gxGmFNp+8NqhTt6q3
+        5spxpaFuPVnEbYMSY19Xoh2v14ImayZ2p6cfh+qcx+uMqfmHQ/08uVKzlCW4dpYVu0ZZCsf7mAqKxP0GdmqabuWnX/ALBkaeo+p7A/5YtApo2V3BFuhUbVL+aPh1W5Ni
+        r+T4XNLkLZH+CuGyBL57HktzCmoq2OatlH2RBOs1SzyQIizyWdJJm9gacSvapl2jrR2jTXasd60c20VfH9kTt0FihPXJX0xEv5eLpsf6ibyWftL2+om8QEDhmoCy3gXU
+        u4D6XwRUkxGxLFtGarnYLP48dUstzTYsbHVLreMvxRNSy2yF2l31fEKVmUarfmrUqV3r1ROg260B1CtltsvCrnfpRQJORmrVNdw+t1pnxbDWUd53DffWNdyfKRiCyXMl
+        THF02JCFyeWhhClTY+sXjYkJCJsc6xxAYXZ8zALWmhb+pTS6vLlhvji8YDoPl0Ge4sdaqLqS+vRtWm2gvgi2bFref5FqfLm/D2McXLDVgi6LdTDR71UXdsOT31UqxfwA
+        ABAAAAA=
+      >
+      FLOATPOS 409 269 871 509
+      FXID {DC79668B-30D1-964C-A162-F245DBE294B0}
+      WAK 0
+      BYPASS 1 0 0
+      <JS Delay/time_adjustment ""
+        -10.000000 0.000000 -120.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 1254 834 554 157
+      FXID {40721658-5454-1743-9C6A-517A806DB8F9}
+      WAK 0
+    >
+  >
+  <TRACK {D84D9A18-9EB2-B147-888B-8DACBA3BBEF6}
+    NAME "Bass Return (global)"
+    PEAKCOL 0
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D84D9A18-9EB2-B147-888B-8DACBA3BBEF6}
+    PERF 0
+    AUXRECV 0 0 1 0 1 0 0 0 0 -1 0 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 4 0 -1 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: 8-Bit Shaper (Xfer Records)" 8BitShaper.vst 0 ""
+        clN1RO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAANAIAAAEAAAAAABAAZmaGP20MlT7dQQw/AAAAPyQAAAAAAIA/AAAAAAAAAAAXAAAA
+        MAAAABkAAAAaAAAAGgAAABoAAAAbAAAAGwAAABwAAAAcAAAAHAAAAB0AAAAdAAAAHgAAAB4AAAAfAAAAHwAAACAAAAAgAAAAIAAAACEAAAAhAAAAIQAAACIAAAAiAAAA
+        IgAAACMAAAAjAAAAIwAAACQAAAAkAAAAJAAAACUAAAAlAAAAKAAAACgAAAApAAAAKQAAACoAAAA1AAAAKgAAACoAAAA2AAAAKgAAACoAAAAqAAAAKgAAACoAAAAqAAAA
+        KgAAACsAAAArAAAAOQAAAC0AAAA0AAAAOgAAAC0AAAAtAAAAPAAAAC4AAAAuAAAALwAAADAAAAAwAAAAMQAAADEAAAAxAAAAMgAAADMAAAAzAAAAMwAAADcAAAA3AAAA
+        NwAAADgAAAA4AAAAOAAAADkAAAA5AAAAOQAAADoAAAA6AAAAOgAAADoAAAA6AAAAOwAAADsAAAA7AAAAPAAAADsAAAA7AAAAOwAAADwAAAA8AAAAPAAAADwAAAA9AAAA
+        PQAAAD0AAAA9AAAAPQAAAD4AAAA+AAAAPwAAAEkAAABAAAAAQAAAAEgAAABAAAAAQQAAAEIAAABCAAAAQgAAAEMAAABDAAAAQwAAAEQAAABEAAAARQAAAE0AAABGAAAA
+        RwAAAEYAAABHAAAASAAAAEgAAABJAAAATwAAAAAAgD+rqqo+q6qqPh0Fwz6OAm0/AEluaXQgMQAQAAAA
+      >
+      FLOATPOS 32 39 278 389
+      FXID {19A94086-1737-784E-A733-2897FDD09534}
+      WAK 0
+    >
+  >
+  <TRACK {2E103EAF-0FA2-9942-87A1-30E1663A9F4B}
+    NAME "--- 0 --- 0 --- 0 "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.565574 0 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2E103EAF-0FA2-9942-87A1-30E1663A9F4B}
+    PERF 0
+    LAYOUTS "" Separator
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {D4259754-8A5D-ED42-9EF0-7FA3B62785A4}
+    NAME "vst Plogue"
+    PEAKCOL 26779488
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 1 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 8
+    FX 1
+    TRACKID {D4259754-8A5D-ED42-9EF0-7FA3B62785A4}
+    PERF 0
+    AUXRECV 1 0 1 0 0 0 0 0 4 -1 0 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1 32 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1 96 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1 64 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1 128 -1 ''
+    AUXRECV 8 0 1 0 0 0 0 0 0 -1 160 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Multi) (Plogue Art et Technologie, Inc) (32 out)" "chipsounds Multi.vst" 0 ""
+        T0dNUO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAA
+        AABAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAADrBQAAAQAAAAAAEABDRUdQ
+        ij8AAHic7Ztdc6M2FIbv8ysYrtqLNUggMDNOdvwRdz3TdDO1d3qZUWytQ8uHi0Q26a+vABOjGAsRkrbbwEUC8suRjo4sPeiY0ceHMNDuSUL9ODrXwcDUtY8XZ6Nx4uMl
+        vieVjxwT6hdnGj9GS8KYH22p9meKA5898k91bRvEtzi4jgN+aUFdoywhOOSy4jLED8u8ZBwE8fpqcq4jwIuvFrPF55RdxRuSW8Epi0PMeJXLIGbnOm8PXWdaKzvBAeZF
+        QPugkazqAV0H++IpiRhJznXHLFuySqO8cnNg5oeuGWXzuWXN3+TGIxySzORAu04Tok3v/J2xXMwMBw2B9sMvq+X0R127xdEfC64Hpunp2voORxEJ8tt3ubu2rrGj2na3
+        NwmOttz6B/BUyHgR3cWU5HeHKStO6LebAFOWWSramLfzCvtR2c57HKQkD5DojCgET8Ijr0UhVBVaqkJbVYhUhY6q0FUVDlWFnqoQmMpK5dgA5eAA5egA5fCApvhc4wSH
+        SoPooGyq/aCsxnKIkEQpdL3tyaRute+BJa3fFqRSq9UBCoZSqTjyZNJh1aol7auhpyz1qp0FPJkUWGJc3WHWJye09kELYH1sVzjZErafaNdxOLgO4m1KBtkSM/h5/nmQ
+        UpKYlXkvv2uaUr4QzDDDGnvc8TshtBweRur/xS/srD/LlYnXR6KNj4vTDb+Fn5THvPgHzdc9RBeNwse2ToN34vQq8bdbkiz5mk2iNUka3QYuBF7pNnIrbsM6t8He6/1R
+        XLv5uTV1557gxNS05v9WR+TR/5U7QBIOC0tCM6cGlJHd/2j8j4yMr56jFuiGWqAGtYY9avWo9U5QS/QIOI6rAmWeifKHrGYog67tmM4rQxmSuiRAGbKl+FRtquVKrTYN
+        5ReRlshEtmOj0wFQYaIqmB16DDYNAj6PN0xPPWz1sNUFtoAJ2tJW/i13eS/ML49pq+ga15oIBXPOYJl2eCTlpbM6CyYULbwxxdUzDOzGMHbJMODAMHY3hjEbGKZpAWrP
+        MA1U1DOMvMN7hmnLMBay0NA6pax6BKT7KlWPXCltCB4BmUduw9fi1GaVdK+o0veNVoUdqAxhwElpi7ZWh7MtxT23aTzX4l5TA1whqrZUWg2rI29rNa6WdKwIEImgTCps
+        rHlQ2q8vBkOrUds0QVe16puxnum0sKs+wjzTa/HNaeEcAIJ3ljR0PAbVKSnXysRN/dazd8/endgbWm3ZO38ULtjbhHAyOfLkmMhnOXubZi1719I7mop2JwV7uy6ols6L
+        0qlYuj+mKtr5CaZvzelWN06H/3xaV5nTG/C732uUCntO/87Sug1G+7RutbP6tG7no6edPq37wui/z7Su3Q21rBrUQj1q9aj1TlDrO0zrNm7e9WndPq2rdPSw1ad1/wtp
+        XfeJYeBAK/pR+w3fk69xElLjE0422vIxWp+EGPSU13U6bhi9Erm8/g/SGlioJ5f3TS7StJfgkfRn+kI3cW6Bnnd65a5ShjyfKmCOPEMnDBIpkAhJUvneE1SHJ6ie6nqj
+        1KsQLUdKb8IAdKRWkXoDxJS25VmniUygN0eKmm9Hb9Xca9NPHt8u9zpsoVXPvXpAPXC8V9VHJBc3LS4nU6+W/EkFmk1rRw/TPUx3gWmIUEuYLtaHYuvSnLhzlTxteZQ5
+        Uoc/9CM0RmLmtFI6cdGx3XYWnJoMcksLoKsF5Ha1YM86WqgvhXBcmwc3n2e8VR9ALr9+JWt2/DLyOLz1s2H5/IFjb3X005dFeQNeM/+eLIpXpUF5fXl4dZoEvAqyWeHb
+        bKRWZ8yEUMKuSJRqPi1vZ3lT5V8VjZEHLlnxv2lCNtonn1H+kIPZ3blujHe7wF/nr29To7DAn5P8HY3TaMNL8kqpIbFv7B/AxsmObLd+TA2hpgHm89Xu2eR/5Aps5UqI
+        f3fZ3ZMPX/hESA3KQxFtA5xt6hs364RgRowlDncBocZl+Yk297ProoLpwdGyDprdgtjd83aPDB7Ei7ORUb5nf3H2N614K5QAABAAAAA=
+      >
+      FLOATPOS 129 269 871 509
+      FXID {C804D762-B992-A540-81BF-3D6C0F7FF19B}
+      WAK 0
+    >
+  >
+  <TRACK {33AD5A6D-2EE0-8449-9F1A-2F36FB5D6DDB}
+    NAME "midi "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 4
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {33AD5A6D-2EE0-8449-9F1A-2F36FB5D6DDB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F21395F9-F67E-E94E-A650-3CA2FF3EBDD0}
+    NAME "ch1,3 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F21395F9-F67E-E94E-A650-3CA2FF3EBDD0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.1
+      IGUID {838D3D7B-06E9-404D-8D35-F47818151253}
+      IID 1
+      NAME "trumpet(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {0DBAE7A3-5BA3-5846-AA00-07AD044AF54B}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {A0ECF145-037A-EA41-BDDF-38A70176784B}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 90 3e 7f
+        e 474 80 3e 26
+        e 6 90 3c 7f -12
+        e 480 90 3e 7f -11
+        e 26 80 3c 1a -12
+        e 454 90 40 7f -7
+        e 24 80 3e 33 -11
+        e 456 90 43 7f -9
+        e 31 80 40 38 -7
+        e 449 90 40 7f -4
+        e 24 80 43 3f -9
+        e 456 90 3e 7f -5
+        e 23 80 40 3d -4
+        e 803 80 3e 19 -5
+        e 134 90 40 7f 6
+        e 462 80 40 17 6
+        e 18 90 43 7f -21
+        e 480 90 45 7f -7
+        e 38 80 43 46 -21
+        e 425 80 45 3a -7
+        e 17 90 43 7f -12
+        e 240 90 45 7f -23
+        e 3 80 43 20 -12
+        e 237 90 4a 7f -22
+        e 33 80 45 0c -23
+        e 447 90 47 7f -17
+        e 18 80 4a 3a -22
+        e 462 90 45 7f -14
+        e 26 80 47 42 -17
+        e 454 90 43 7f -5
+        e 29 80 45 32 -14
+        e 451 90 40 7f 1
+        e 1 80 43 41 -5
+        e 479 90 43 7f 4
+        e 31 80 40 14 1
+        e 441 80 43 49 4
+        e 8 90 45 7f -8
+        e 853 80 45 18 -8
+        e 107 90 4a 7f -10
+        e 466 80 4a 3e -10
+        e 14 90 48 7f -14
+        e 480 90 4a 7f -11
+        e 23 80 48 38 -14
+        e 886 80 4a 01 -11
+        e 51 90 40 7f 3
+        e 468 80 40 08 3
+        e 12 90 43 7f -18
+        e 480 90 45 7f -12
+        e 26 80 43 42 -18
+        e 454 90 43 7f 2
+        e 36 80 45 35 -12
+        e 433 80 43 4d 2
+        e 11 90 40 7f -1
+        e 720 90 43 7f -14
+        e 4 80 40 3b -1
+        e 236 90 3e 7f -3
+        e 46 80 43 47 -14
+        e 715 80 3e 24 -3
+        e 199 90 45 7f 5
+        e 480 90 48 7f -5
+        e 5 80 45 3d 5
+        e 475 90 4a 7f -7
+        e 11 80 48 3c -5
+        e 949 90 48 7f 7
+        e 3 80 4a 0e -7
+        e 477 90 4a 7f 1
+        e 1 80 48 3f 7
+        e 473 80 4a 44 1
+        e 6 90 45 7f -4
+        e 480 90 43 7f -5
+        e 6 80 45 3a -4
+        e 474 90 45 7f 10
+        e 47 80 43 48 -5
+        e 428 80 45 1d 10
+        e 5 90 43 7f -1
+        e 238 80 43 38 -1
+        e 2 90 40 7f -7
+        e 238 80 40 34 -7
+        e 2 90 3e 7f -10
+        e 1178 80 3e 5a -10
+        E 262 b0 7b 00
+        GUID {99F92FF0-F8BF-204D-B739-BE147743AB58}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 443
+        VELLANE -1 86 6
+        CFGEDITVIEW -1080 33.131313 52 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 64 110 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E2991F0-9989-FE4F-A465-280C0A8EB7A2}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {F8488E28-3009-DB42-8738-B94CDC4FC0EE}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 90 3e 4b
+        E 468 90 3c 47
+        E 6 80 3e 26
+        E 475 90 3e 49
+        E 25 80 3c 1a
+        E 459 90 40 3f
+        E 20 80 3e 33
+        E 458 90 43 46
+        E 33 80 40 38
+        E 452 90 40 42
+        E 19 80 43 3f
+        E 460 90 3e 47
+        E 24 80 40 3d
+        E 802 80 3e 19
+        E 145 90 40 47
+        E 453 90 43 51
+        E 9 80 40 17
+        E 485 90 45 49
+        E 24 80 43 46
+        E 439 80 45 3a
+        E 12 90 43 59
+        E 229 90 45 4b
+        E 14 80 43 20
+        E 227 90 4a 59
+        E 32 80 45 0c
+        E 453 90 47 45
+        E 13 80 4a 3a
+        E 470 90 45 53
+        E 23 80 47 42
+        E 466 90 43 4f
+        E 20 80 45 32
+        E 461 80 43 41
+        E 5 90 40 4e
+        E 483 90 43 4e
+        E 28 80 40 14
+        E 440 90 45 3f
+        E 4 80 43 49
+        E 849 80 45 18
+        E 105 90 4a 59
+        E 466 80 4a 3e
+        E 10 90 48 4b
+        E 483 90 4a 4a
+        E 20 80 48 38
+        E 889 80 4a 01
+        E 65 90 40 42
+        E 459 90 43 53
+        E 9 80 40 08
+        E 477 90 45 4f
+        E 20 80 43 42
+        E 474 90 43 5b
+        E 22 80 45 35
+        E 447 80 43 4d
+        E 8 90 40 51
+        E 707 90 43 5d
+        E 17 80 40 3b
+        E 234 90 3e 53
+        E 35 80 43 47
+        E 726 80 3e 24
+        E 207 90 45 5b
+        E 470 90 48 49
+        E 15 80 45 3d
+        E 463 90 4a 49
+        E 13 80 48 3c
+        E 950 80 4a 0e
+        E 11 90 48 4d
+        E 474 90 4a 4f
+        E 7 80 48 3f
+        E 467 80 4a 44
+        E 1 90 45 4b
+        E 479 90 43 5b
+        E 7 80 45 3a
+        E 488 90 45 53
+        E 32 80 43 48
+        E 437 90 43 59
+        E 6 80 45 1d
+        E 228 90 40 42
+        E 4 80 43 38
+        E 233 90 3e 47
+        E 1 80 40 34
+        E 1177 80 3e 5a
+        E 272 b0 7b 00
+        GUID {EB841806-4732-EF43-BB00-221F0B7AC98C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13459
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.2 0.1
+      IGUID {29025ADF-C132-FD4C-A4E2-700C77EE1FC9}
+      IID 3
+      NAME "trombone(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {656E2E35-799D-0E41-8A63-0E56C23D56A3}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {246E96E5-85D6-6347-8A4C-411977FB2FD7}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 92 32 7f 3
+        e 480 82 32 0c 3
+        e 0 92 30 7f -5
+        e 480 92 32 7f -19
+        e 10 82 30 01 -5
+        e 456 82 32 43 -19
+        e 14 92 34 7f -17
+        e 480 92 37 7f
+        e 38 82 34 3b -17
+        e 439 82 37 07
+        e 3 92 34 7f -6
+        e 480 92 32 7f -6
+        e 5 82 34 01 -6
+        e 871 82 32 24 -6
+        e 84 92 30 7f 2
+        e 454 82 30 21 2
+        e 26 92 34 7f -15
+        e 480 92 35 7f -13
+        e 2 82 34 44 -15
+        e 452 82 35 32 -13
+        e 26 92 34 7f -12
+        e 209 82 34 28 -12
+        e 31 92 35 7f -25
+        e 240 92 36 7f -17
+        e 5 82 35 37 -25
+        e 453 82 36 29 -17
+        e 22 92 37 7f -28
+        e 480 92 32 7f -23
+        e 16 82 37 21 -28
+        e 221 82 32 01 -23
+        e 3 92 33 7f -17
+        e 178 82 33 0b -17
+        e 62 92 34 7f -23
+        e 467 82 34 33 -23
+        e 13 92 30 7f -14
+        e 471 82 30 31 -14
+        e 9 92 34 7f -21
+        e 457 82 34 1f -21
+        e 23 92 30 7f -16
+        e 480 92 35 7f -19
+        e 6 82 30 1d -16
+        e 436 82 35 11 -19
+        e 38 92 32 7f -14
+        e 468 82 32 01 -14
+        e 12 92 2d 7f -20
+        e 464 82 2d 4f -20
+        e 16 92 32 7f -19
+        e 866 82 32 1d -19
+        e 94 92 39 7f
+        e 466 82 39 16
+        e 14 92 37 7f -5
+        e 473 82 37 30 -5
+        e 7 92 35 7f -12
+        e 470 82 35 3f -12
+        e 10 92 34 7f -16
+        e 480 92 30 7f
+        e 49 82 34 2a -16
+        e 419 82 30 48
+        e 12 92 34 7f -13
+        e 480 92 37 7f -8
+        e 24 82 34 3f -13
+        e 809 82 37 27 -8
+        e 127 92 35 7f -10
+        e 360 82 35 46 -10
+        e 120 92 35 7f -11
+        e 478 82 35 26 -11
+        e 2 92 29 7f -11
+        e 786 82 29 54 -11
+        e 174 92 39 7f -3
+        e 472 82 39 1d -3
+        e 8 92 32 7f -11
+        e 435 82 32 31 -11
+        e 45 92 39 7f -4
+        e 480 92 37 7f
+        e 19 82 39 2d -4
+        e 443 82 37 01
+        e 18 92 39 7f -2
+        e 480 92 37 7f 2
+        e 26 82 39 27 -2
+        e 196 82 37 20 2
+        e 18 92 34 7f -10
+        e 240 92 32 7f
+        e 11 82 34 32 -10
+        e 1044 82 32 60
+        E 385 b0 7b 00
+        GUID {04D3A6A3-3900-4B46-B28E-DB75A6375189}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 445
+        VELLANE -1 86 6
+        CFGEDITVIEW -1080 34.424242 69 23 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 1 0 "{04D3A6A3-3900-4B46-B28E-DB75A6375189}"
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 32 78 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "trombone(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6892288C-23D4-3B46-BFDB-659D57A24186}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {E31892F3-3403-1241-88A9-6AD6447CF5E7}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 3 92 32 3b
+        E 472 92 30 29
+        E 8 82 32 0c
+        E 458 92 32 35
+        E 24 82 30 01
+        E 442 82 32 43
+        E 16 92 34 33
+        E 497 92 37 37
+        E 21 82 34 3b
+        E 453 92 34 39
+        E 3 82 37 07
+        E 477 92 32 3b
+        E 5 82 34 01
+        E 871 82 32 24
+        E 92 92 30 3d
+        E 454 82 30 21
+        E 9 92 34 47
+        E 482 82 34 44
+        E 0 92 35 53
+        E 454 82 35 32
+        E 27 92 34 41
+        E 209 82 34 28
+        E 18 92 35 4f
+        E 245 82 35 37
+        E 3 92 36 47
+        E 458 82 36 29
+        E 11 92 37 3b
+        E 485 92 32 51
+        E 11 82 37 21
+        E 226 82 32 01
+        E 9 92 33 4e
+        E 178 82 33 0b
+        E 56 92 34 53
+        E 467 82 34 33
+        E 22 92 30 39
+        E 471 82 30 31
+        E 2 92 34 42
+        E 457 82 34 1f
+        E 28 92 30 2c
+        E 477 92 35 4d
+        E 9 82 30 1d
+        E 433 82 35 11
+        E 43 92 32 55
+        E 468 82 32 01
+        E 6 92 2d 55
+        E 464 82 2d 4f
+        E 17 92 32 4f
+        E 866 82 32 1d
+        E 113 92 39 45
+        E 466 82 39 16
+        E 9 92 37 3d
+        E 473 82 37 30
+        E 0 92 35 49
+        E 470 82 35 3f
+        E 6 92 34 45
+        E 496 92 30 43
+        E 33 82 34 2a
+        E 434 92 34 4a
+        E 1 82 30 48
+        E 484 92 37 3f
+        E 19 82 34 3f
+        E 814 82 37 27
+        E 125 92 35 59
+        E 360 82 35 46
+        E 119 92 35 5b
+        E 478 82 35 26
+        E 2 92 29 4e
+        E 786 82 29 54
+        E 182 92 39 4f
+        E 472 82 39 1d
+        E 0 92 32 4e
+        E 435 82 32 31
+        E 52 92 39 3f
+        E 484 92 37 39
+        E 15 82 39 2d
+        E 447 82 37 01
+        E 16 92 39 3f
+        E 484 92 37 3b
+        E 22 82 39 27
+        E 200 82 37 20
+        E 6 92 34 46
+        E 250 92 32 43
+        E 1 82 34 32
+        E 1054 82 32 60
+        E 385 b0 7b 00
+        GUID {25FF9F7D-0E80-264C-9AB6-469327C85CE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13461
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 69 23 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 166 130 1414 829 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {6CCBCBB4-02B5-3C4F-AE95-8DD80AEC4A17}
+    NAME "ch2,4 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6CCBCBB4-02B5-3C4F-AE95-8DD80AEC4A17}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.1 0.1
+      IGUID {15CE50FB-CE89-104A-BD51-55DFA21050EB}
+      IID 2
+      NAME "fr. horn(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {6F3B9698-815F-BC4E-84B5-7C28B56B2BAA}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {74EC6B14-59EB-E644-B44D-5E603BEE7222}
+        <X 0 0
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 0 91 3e 7f
+        e 480 91 3c 7f 1
+        e 13 81 3e 24
+        e 446 81 3c 2b 1
+        e 21 91 3e 7f -21
+        e 480 91 40 7f -14
+        e 39 81 3e 1a -21
+        e 441 91 43 7f -20
+        e 22 81 40 35 -14
+        e 458 91 40 7f -13
+        e 10 81 43 41 -20
+        e 470 91 3e 7f -6
+        e 31 81 40 2f -13
+        e 854 81 3e 26 -6
+        e 75 91 3c 7f -7
+        e 0 91 40 7f -9
+        e 334 81 3c 01 -7
+        e 140 81 40 29 -9
+        e 6 91 3c 7f -20
+        e 0 91 43 7f -21
+        e 372 81 3c 0b -20
+        e 98 81 43 2c -21
+        e 10 91 3c 7f -19
+        e 0 91 45 7f -18
+        e 464 81 45 35 -18
+        e 16 91 43 7f -12
+        e 224 81 43 49 -12
+        e 16 91 45 7f -15
+        e 150 81 45 30 -15
+        e 15 81 3c 28 -19
+        e 75 91 3e 7f -11
+        e 0 91 45 7f -11
+        e 480 91 43 7f -11
+        e 15 81 45 4c -11
+        e 277 81 3e 19 -11
+        e 180 81 43 45 -11
+        e 8 91 3c 7f -23
+        e 0 91 3e 7f -26
+        e 240 91 3f 7f -26
+        e 35 81 3e 3e -26
+        e 80 81 3c 2b -23
+        e 125 91 3b 7f -20
+        e 0 91 40 7f -19
+        e 35 81 3f 3e -26
+        e 307 81 3b 33 -20
+        e 48 81 40 43 -19
+        e 90 91 37 7f -12
+        e 0 91 3c 7f -11
+        e 389 81 37 27 -12
+        e 11 81 3c 46 -11
+        e 80 91 37 7f -14
+        e 0 91 3c 7f -18
+        e 351 81 37 12 -14
+        e 47 81 3c 3e -18
+        e 82 91 39 7f -13
+        e 0 91 3c 7f -15
+        e 0 91 41 7f -15
+        e 716 81 3c 3f -15
+        e 3 81 39 01 -13
+        e 92 81 41 41 -15
+        e 149 91 3e 7f -20
+        e 0 91 41 7f -20
+        e 0 91 45 7f -18
+        e 386 81 45 2d -18
+        e 5 81 3e 28 -20
+        e 69 81 41 3b -20
+        e 20 91 3c 7f -11
+        e 0 91 40 7f -13
+        e 0 91 45 7f -8
+        e 368 81 45 01 -8
+        e 10 81 3c 2a -11
+        e 87 81 40 3b -13
+        e 15 91 3e 7f -12
+        e 0 91 41 7f -15
+        e 0 91 45 7f -8
+        e 724 81 41 3e -15
+        e 11 81 3e 3e -12
+        e 11 81 45 27 -8
+        e 214 91 39 7f -5
+        e 0 91 3c 7f -6
+        e 338 81 3c 1d -6
+        e 142 91 3c 7f -11
+        e 0 91 40 7f -11
+        e 18 81 39 01 -5
+        e 325 81 3c 01 -11
+        e 85 81 40 3b -11
+        e 52 91 39 7f -10
+        e 0 91 3c 7f -15
+        e 0 91 41 7f -15
+        e 401 81 39 23 -10
+        e 16 81 3c 29 -15
+        e 40 81 41 3a -15
+        e 23 91 37 7f 16
+        e 0 91 3c 7f -4
+        e 0 91 40 7f -2
+        e 352 81 37 09 16
+        e 32 81 40 2d -2
+        e 2 81 3c 23 -4
+        e 94 91 37 7f 3
+        e 0 91 3c 7f
+        e 0 91 40 7f 1
+        e 778 81 3c 35
+        e 141 81 40 3c 1
+        e 41 91 3b 7f -15
+        e 0 91 3e 7f -13
+        e 661 81 37 01 3
+        e 48 81 3b 1a -15
+        e 65 81 3e 38 -13
+        e 186 91 3c 7f -6
+        e 0 91 41 7f -6
+        e 418 81 3c 31 -6
+        e 21 81 41 32 -6
+        e 41 91 3c 7f -10
+        e 0 91 41 7f -12
+        e 0 91 45 7f -10
+        e 386 81 45 07 -10
+        e 26 81 3c 30 -10
+        e 8 81 41 30 -12
+        e 60 91 3e 7f -12
+        e 0 91 41 7f -14
+        e 0 91 45 7f -13
+        e 753 81 45 27 -13
+        e 46 81 3e 1d -12
+        e 104 81 41 01 -14
+        e 57 91 3c 7f -5
+        e 0 91 40 7f -8
+        e 0 91 45 7f -6
+        e 366 81 3c 21 -5
+        e 5 81 45 0f -6
+        e 109 91 3e 7f -1
+        e 0 91 41 7f
+        e 0 91 45 7f 5
+        e 1 81 40 3b -8
+        e 424 81 45 2b 5
+        e 23 81 3e 3d -1
+        e 1 81 41 42
+        e 31 91 45 7f -2
+        e 449 81 45 38 -2
+        e 31 91 43 7f -13
+        e 480 91 45 7f -2
+        e 42 81 43 43 -13
+        e 426 81 45 32 -2
+        e 12 91 43 7f -4
+        e 211 81 43 3a -4
+        e 29 91 40 7f -10
+        e 240 91 3e 7f -7
+        e 12 81 40 27 -10
+        e 1083 81 3e 51 -7
+        E 345 b0 7b 00
+        GUID {4905BE4C-5049-ED45-8352-42719024932B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 444
+        VELLANE -1 86 6
+        CFGEDITVIEW -1080 33.777778 57 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 48 94 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "fr. horn(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA3DA050-C3D9-2744-82F8-E76C43F5B4E2}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {5BC402D5-F521-2142-AA16-F80A17A9FA05}
+        <X 0 0
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 91 3e 3f
+        E 481 91 3c 43
+        E 12 81 3e 24
+        E 446 91 3e 4a
+        E 1 81 3c 2b
+        E 486 91 40 3d
+        E 32 81 3e 1a
+        E 442 91 43 4a
+        E 28 81 40 35
+        E 459 91 40 3d
+        E 3 81 43 41
+        E 484 91 3e 3f
+        E 24 81 40 2f
+        E 861 81 3e 26
+        E 72 91 40 41
+        E 2 91 3c 41
+        E 334 81 3c 01
+        E 132 91 43 4d
+        E 1 91 3c 35
+        E 5 81 40 29
+        E 367 81 3c 0b
+        E 97 81 43 2c
+        E 12 91 3c 3d
+        E 1 91 45 43
+        E 464 81 45 35
+        E 22 91 43 53
+        E 224 81 43 49
+        E 13 91 45 41
+        E 150 81 45 30
+        E 11 81 3c 28
+        E 83 91 3e 37
+        E 0 91 45 47
+        E 480 91 43 33
+        E 15 81 45 4c
+        E 277 81 3e 19
+        E 173 91 3e 4b
+        E 3 91 3c 2e
+        E 4 81 43 45
+        E 233 91 3f 4b
+        E 35 81 3e 3e
+        E 83 81 3c 2b
+        E 128 91 3b 31
+        E 1 91 40 4d
+        E 28 81 3f 3e
+        E 313 81 3b 33
+        E 49 81 40 43
+        E 97 91 37 3b
+        E 1 91 3c 45
+        E 388 81 37 27
+        E 12 81 3c 46
+        E 73 91 3c 46
+        E 4 91 37 33
+        E 351 81 37 12
+        E 43 81 3c 3e
+        E 85 91 41 45
+        E 0 91 3c 35
+        E 2 91 39 3d
+        E 714 81 3c 3f
+        E 5 81 39 01
+        E 90 81 41 41
+        E 144 91 3e 3f
+        E 0 91 41 3f
+        E 2 91 45 3b
+        E 386 81 45 2d
+        E 3 81 3e 28
+        E 69 81 41 3b
+        E 27 91 40 47
+        E 2 91 3c 2f
+        E 3 91 45 39
+        E 368 81 45 01
+        E 7 81 3c 2a
+        E 85 81 40 3b
+        E 13 91 41 39
+        E 3 91 3e 31
+        E 4 91 45 2f
+        E 717 81 41 3e
+        E 14 81 3e 3e
+        E 15 81 45 27
+        E 216 91 3c 41
+        E 1 91 39 3f
+        E 337 81 3c 1d
+        E 137 91 3c 42
+        E 0 91 40 49
+        E 24 81 39 01
+        E 319 81 3c 01
+        E 85 81 40 3b
+        E 48 91 3c 3b
+        E 0 91 41 45
+        E 5 91 39 2c
+        E 401 81 39 23
+        E 11 81 3c 29
+        E 40 81 41 3a
+        E 34 91 3c 33
+        E 2 91 40 2e
+        E 18 91 37 1f
+        E 352 81 37 09
+        E 14 81 3c 23
+        E 0 81 40 2d
+        E 98 91 3c 39
+        E 1 91 40 3b
+        E 2 91 37 1d
+        E 775 81 3c 35
+        E 142 81 40 3c
+        E 25 91 3b 47
+        E 2 91 3e 4f
+        E 677 81 37 01
+        E 30 81 3b 1a
+        E 67 81 3e 38
+        E 193 91 41 5f
+        E 0 91 3c 47
+        E 418 81 3c 31
+        E 21 81 41 32
+        E 35 91 41 35
+        E 2 91 45 4d
+        E 0 91 3c 41
+        E 386 81 45 07
+        E 26 81 3c 30
+        E 6 81 41 30
+        E 58 91 41 43
+        E 1 91 45 47
+        E 1 91 3e 43
+        E 752 81 45 27
+        E 47 81 3e 1d
+        E 102 81 41 01
+        E 63 91 40 46
+        E 2 91 45 3d
+        E 1 91 3c 41
+        E 366 81 3c 21
+        E 4 81 45 0f
+        E 108 81 40 3b
+        E 6 91 3e 35
+        E 1 91 41 45
+        E 5 91 45 39
+        E 425 81 45 2b
+        E 17 81 3e 3d
+        E 2 81 41 42
+        E 29 91 45 41
+        E 449 81 45 38
+        E 20 91 43 41
+        E 491 91 45 4b
+        E 31 81 43 43
+        E 437 81 45 32
+        E 10 91 43 4b
+        E 211 81 43 3a
+        E 23 91 40 41
+        E 243 91 3e 42
+        E 9 81 40 27
+        E 1086 81 3e 51
+        E 352 b0 7b 00
+        GUID {80C24018-E92F-3D4D-9894-7DC8AE30EBD2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13460
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 57 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 182 146 1414 829 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.8 0.1
+      IGUID {6B91E77D-2E47-A042-BF57-8BCC3A22AF74}
+      IID 4
+      NAME "tuba(s) - National_Anthems_-_Japan.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599
+      GUID {09C166D9-E580-6041-B17C-9579C01347B1}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {0F60EB61-C2F4-A740-BE20-D7AED6DAB52C}
+        <X 0 0
+          /wN0dWJhKHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        e 3840 93 24 7f 2
+        e 440 83 24 33 2
+        e 40 93 28 7f -24
+        e 448 83 28 1c -24
+        e 32 93 29 7f -35
+        e 480 93 28 7f -12
+        e 9 83 29 28 -35
+        e 194 83 28 1a -12
+        e 37 93 29 7f -19
+        e 217 83 29 29 -19
+        e 23 93 2a 7f -14
+        e 438 83 2a 01 -14
+        e 42 93 2b 7f -30
+        e 417 83 2b 09 -30
+        e 63 93 26 7f -27
+        e 233 83 26 33 -27
+        e 7 93 27 7f -25
+        e 228 83 27 11 -25
+        e 12 93 28 7f -18
+        e 389 83 28 01 -18
+        e 91 93 24 7f -19
+        e 472 83 24 34 -19
+        e 8 93 28 7f -26
+        e 393 83 28 1e -26
+        e 87 93 24 7f -13
+        e 480 93 29 7f -10
+        e 19 83 24 34 -13
+        e 450 83 29 01 -10
+        e 11 93 26 7f -9
+        e 441 83 26 2e -9
+        e 39 93 21 7f -13
+        e 431 83 21 21 -13
+        e 49 93 26 7f -25
+        e 854 83 26 39 -25
+        e 106 93 2d 7f -4
+        e 444 83 2d 1b -4
+        e 36 93 2b 7f -16
+        e 480 93 29 7f -24
+        e 5 83 2b 01 -16
+        e 475 93 28 7f -22
+        e 6 83 29 07 -24
+        e 474 93 24 7f -4
+        e 29 83 28 3f -22
+        e 451 93 28 7f -5
+        e 16 83 24 34 -4
+        e 464 93 2b 7f -9
+        e 5 83 28 1a -5
+        e 763 83 2b 0e -9
+        e 192 93 29 7f -4
+        e 398 83 29 2e -4
+        e 82 93 29 7f -11
+        e 479 83 29 01 -11
+        e 1 93 1d 7f -12
+        e 818 83 1d 1a -12
+        E 142 b0 7b 00
+        GUID {05FE4DF4-7653-D949-A550-0F933C1F4F74}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 446
+        VELLANE -1 86 6
+        CFGEDITVIEW -864 43.838384 81 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 16 62 1280 777 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+      TAKE
+      NAME "tuba(s) - National_Anthems_-_Japan.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B9279D9-0A8A-6B49-B848-DD53ED016C35}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {6248C43D-5542-DE41-A0C9-55E1BFA99470}
+        <X 0 0
+          /wN0dWJhKHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 3842 93 24 41
+        E 440 83 24 33
+        E 14 93 28 42
+        E 448 83 28 1c
+        E 21 93 29 51
+        E 489 83 29 28
+        E 14 93 28 3d
+        E 203 83 28 1a
+        E 30 93 29 53
+        E 217 83 29 29
+        E 28 93 2a 4f
+        E 438 83 2a 01
+        E 26 93 2b 42
+        E 417 83 2b 09
+        E 66 93 26 43
+        E 233 83 26 33
+        E 9 93 27 41
+        E 228 83 27 11
+        E 19 93 28 53
+        E 389 83 28 01
+        E 90 93 24 3f
+        E 472 83 24 34
+        E 1 93 28 3b
+        E 393 83 28 1e
+        E 100 93 24 43
+        E 483 93 29 4d
+        E 16 83 24 34
+        E 453 83 29 01
+        E 12 93 26 4d
+        E 441 83 26 2e
+        E 35 93 21 5d
+        E 431 83 21 21
+        E 37 93 26 57
+        E 854 83 26 39
+        E 127 93 2d 3f
+        E 444 83 2d 1b
+        E 24 93 2b 33
+        E 472 93 29 3f
+        E 13 83 2b 01
+        E 469 93 28 2e
+        E 4 83 29 07
+        E 494 93 24 31
+        E 11 83 28 3f
+        E 468 93 28 47
+        E 17 83 24 34
+        E 459 93 2b 35
+        E 9 83 28 1a
+        E 759 83 2b 0e
+        E 197 93 29 51
+        E 398 83 29 2e
+        E 75 93 29 51
+        E 479 83 29 01
+        E 0 93 1d 3f
+        E 818 83 1d 1a
+        E 154 b0 7b 00
+        GUID {03F32034-DB57-B946-B944-A72F84546638}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13462
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 81 24 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 150 114 1414 829 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {BE34EA7E-2789-BE43-9D9C-227AFB60631D}
+    NAME "ch5 (send bass)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE34EA7E-2789-BE43-9D9C-227AFB60631D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {B91E5163-8C2B-404F-8C78-0605AAF52936}
+    NAME ChipFront
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {B91E5163-8C2B-404F-8C78-0605AAF52936}
+    PERF 0
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 ""
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAADcCwAAAAAAAAAAEADvvq3e
+        DfCt3gAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAAAAAAD+rqqo+rb5oPwAAAD+KDTI8zczMPQAAAAAAAAAAAAAAAAAAgD8AAIA/Qix2PwAAAD9tsOA9mpkZPwAAAAAAAAAA
+        56/fPAAAgD8AAAAAAACAPwAAAD8AAAAAmpkZPwAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAAD8AAAAAmpkZPwAAAAAAAAAAAAAAAAAAgD8AAAAAq6qqPgBOsj4AAAA/
+        AAAAAMHKST9ddFE/AAAAAImIiD0AAIA/qheIPgAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAfBkQPgAAAD8oo7c9
+        AACAPwAAAAAAAAAAiYiIPfLSJT8AAAAAAACAPwAAAAB0aNE9AAAAAAAAgD8AAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/AAAAAAAAAACJiIg9
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAACamZk+AAAAAAAAAAAAAAAAAACAPwAAAACamZk+
+        AAAAAAAAAAAAAAAAAACAPwAAAACamZk+AAAAAAAAAAAAAAAAAACAPwAAAACamZk+AAAAAAAAAAAAAAAAAACAPwAAAACamZk+AAAAAAAAAAAAAAAAAACAPwAAAACamZk+
+        AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq6oqPdmJnT2BKFY+AAAAAAAAAAC/55Y9
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/AAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDaGlwRnJvbnQAQ2hpcEZyb250ABAAAAA=
+      >
+      FLOATPOS 36 32 641 529
+      FXID {4C5A6810-F3ED-0645-A06D-6758F70CB097}
+      WAK 0
+    >
+  >
+  <TRACK {4E9F66C4-38E7-4946-B39F-214CBB1CFB8B}
+    NAME ChipSide
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.698113 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {4E9F66C4-38E7-4946-B39F-214CBB1CFB8B}
+    PERF 0
+    AUXRECV 4 0 1.03113579563571 0 0 0 0 2 0 -1 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 ""
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAANwLAAAAAAAAAAAQAO++rd4N8K3eAAAAPwAAAD8AAAA/AAAAPwAAgD8AAAAAAACAP6uqqj7KZRQ/AAAAP08aoD3NzMw9AAAAAAAAAABChiI/
+        AACAPwAAgD9CLHY/AAAAP22w4D2amRk/AAAAAAAAAADnr988AACAPwAAAAAAAIA/AAAAPwAAAACamRk/AAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAPwAAAACamRk/
+        AAAAAAAAAAAAAAAAAACAPwAAAACrqqo+gnQAPRDmyT2YJ/o+AACAPwAAAAAAAAAAiYgIPgAAgD+zw7Q+AACAPwAAAAAAAAAAAAAAAKuqqj4AAAAAnhUdPwAAAAAAAIA/
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAB8GRA+AAAAPyijtz0AAIA/AAAAAAAAAACJiIg98tIlPwAAAAAAAIA/AAAAAHRo0T0AAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAAAAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAL70fT4AAAA/AAAAPwAAAD8AAAAAAAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/
+        AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/AAAAAJqZmT4AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAACrqqo92YmdPYEoVj4AAIA/AAAAAL/nlj3ZiR09FrMxPwAAAAAAAAAAknYsPAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAENoaXBTaWRl
+        AENoaXBTaWRlABAAAAA=
+      >
+      FLOATPOS 36 32 641 529
+      FXID {20356A84-5CFD-6E4A-AA26-2A8A49CE7A76}
+      WAK 0
+    >
+  >
+  <TRACK {98D5FAF3-7BF2-294C-8D4D-88F4EDD85EE8}
+    NAME "20 Japan"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {98D5FAF3-7BF2-294C-8D4D-88F4EDD85EE8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25.65798623153146
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F55D8EA4-892E-D046-9AF2-CB9C6A71CA33}
+      IID 12
+      NAME "20 Japan.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.42814058956916
+      PLAYRATE 2.52864739323416 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B371ABFE-A738-A145-A975-951F185D20FA}
+      <SOURCE MP3
+        FILE "20 Japan.mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 ""
+      {98D5FAF3-7BF2-294C-8D4D-88F4EDD85EE8} 0 ""
+    >
+    <XENAKIOSCOMMANDS
+      REFTRACK 0 5 1 "000000000000"
+    >
+    <BR_CURSOR_POS 04
+      0.00000000000000
+    >
+  >
+>

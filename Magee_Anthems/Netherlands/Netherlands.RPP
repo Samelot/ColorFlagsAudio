@@ -1,0 +1,1534 @@
+<REAPER_PROJECT 0.1 "4.731/OSX64" 1413818618
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174206 8 1 8 1 0 0
+  TIMEMODE 6 0 -1
+  PANMODE 3
+  CURSOR 0
+  ZOOM 23.5246522243534 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 30 0
+  SELECTION2 30 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 104 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 ""
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABDAgAAAQAAAAAAEABDRUdQFAgAAHic5VVLbxoxEL7zKyyf2kN218tjgwRElIQKqSioUKm3aNidbKx6vdT20iS/
+        vt4XgZIqrtSeOhd7xt88Po/sGV09ZoLsUWmeyzFlXkDJ1aQzmioOa9jj0dEgCOmkQ6yM1mgMl6km3wsQ3DzZU0pSkW9BrHJh1W5IiTYKIbOwWs3gcV1ZpkLk8fLDmPaZ
+        NS8X14vbwizzBKsoUJg8A2NTrkVuxtTWo2N7clmuIMBaGLkgWGb2dCwa8wylQTWmg6AtZFPIKnfgBZVQ4rfV28CEJ1VsCRmWIT2yKhSS2QPf+eE0+Op/XpULeVdIwTNu
+        MHlPyRbkt4X1Y0EwpCR+AClRjOmFLXtX0WYDSsxZ3t32ToFMsUQejMaa9C7XWJWRFabe6B93AnTFu662qngJXLYV70EUWHXqlNYpkB2AZ/xPgaErsOsK7LkC+67AgSsw
+        cgVeugKHrkAWOCOde8Ocm8Ocu8Oc28Pe6s8KFGRN+uNK+2HU7w9/i+29YFn4euQNqBRN8zjjPPNWIk8L9Mpfyfs0v/UKjer4hVRes0Lbv+MaDBDztLOeYdgd2MvW/Nkq
+        vbLn7Wdm86FMONTbxLrYTSvzegmDvyunFP2a45+SZv8J6Y3iaYpqbf95lDGqN2mzKGTDlnY/OqIdvkabNawbqfWo2ndn0Xx4QmIWdOf/8CJGfjmRmv3N/T3G5nxETbMt
+        L2/i1ynUDrWPXxatA8SG73FxmJ+1fvMyT1HYFJhsYFsPLxtj5LcTf9L5CSJZBOwAABAAAAA=
+      >
+      FLOATPOS 404 36 871 509
+      FXID {8431A072-55F4-FD4E-8B7D-D2D9F1493C94}
+      WAK 0
+    >
+  >
+  <TRACK {65BF5D08-DF3D-EA42-ADEF-5C04FE4BCE10}
+    NAME melody
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 104 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {65BF5D08-DF3D-EA42-ADEF-5C04FE4BCE10}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 29.99999999999976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0 0.090909
+      IGUID {9F2588E2-3261-1947-9D8D-E97A52AE6E1E}
+      IID 1
+      NAME "trumpet(s) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E76016B8-1DF0-CE4F-B51E-6CB20B0A7736}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {A16C3337-0E3D-3348-8F32-919B13A25911}
+        <X 0 0
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 90 3e 55
+        E 406 80 3e 01
+        E 79 90 43 65
+        E 375 80 43 37
+        E 94 90 43 4d
+        E 399 80 43 28
+        E 81 90 45 52
+        E 235 90 47 4d
+        E 15 80 45 01
+        E 135 80 47 20
+        E 93 90 48 48
+        E 243 90 45 4e
+        E 8 80 48 32
+        E 151 80 45 1b
+        E 84 90 47 48
+        E 406 80 47 21
+        E 73 90 45 4f
+        E 203 80 45 01
+        E 28 90 47 55
+        E 164 80 47 22
+        E 80 90 48 4f
+        E 380 80 48 22
+        E 100 90 47 55
+        E 443 80 47 01
+        E 47 90 45 55
+        E 186 80 45 2c
+        E 42 90 43 47
+        E 136 80 43 23
+        E 109 90 45 4e
+        E 413 80 45 25
+        E 68 90 43 5f
+        E 1288 80 43 40
+        E 163 90 3e 52
+        E 428 80 3e 01
+        E 48 90 43 62
+        E 392 80 43 39
+        E 85 90 43 62
+        E 394 80 43 33
+        E 82 90 45 5f
+        E 237 90 47 55
+        E 9 80 45 04
+        E 156 80 47 19
+        E 77 90 48 5a
+        E 231 80 48 37
+        E 11 90 45 57
+        E 178 80 45 20
+        E 60 90 47 5a
+        E 443 80 47 28
+        E 36 90 45 57
+        E 221 80 45 29
+        E 14 90 47 5f
+        E 150 80 47 26
+        E 91 90 48 55
+        E 432 80 48 0b
+        E 53 90 47 55
+        E 420 80 47 01
+        E 69 90 45 55
+        E 179 80 45 29
+        E 52 90 43 5f
+        E 166 80 43 1e
+        E 76 90 45 5a
+        E 454 80 45 01
+        E 37 90 43 5f
+        E 1328 80 43 17
+        E 112 90 47 5a
+        E 208 80 47 2f
+        E 17 90 48 55
+        E 156 80 48 18
+        E 86 90 4a 55
+        E 919 80 4a 01
+        E 39 90 4c 55
+        E 469 80 4c 04
+        E 19 90 4a 57
+        E 944 80 4a 1c
+        E 19 90 48 52
+        E 465 80 48 01
+        E 18 90 47 4e
+        E 407 80 47 36
+        E 63 90 45 4b
+        E 224 80 45 1d
+        E 7 90 47 55
+        E 177 80 47 17
+        E 68 90 48 55
+        E 458 80 48 1f
+        E 32 90 47 5a
+        E 465 80 47 3b
+        E 7 90 45 57
+        E 449 80 45 13
+        E 31 90 43 5a
+        E 446 80 43 0d
+        E 43 90 45 5f
+        E 867 80 45 2a
+        E 85 90 3e 55
+        E 419 80 3e 01
+        E 62 90 43 62
+        E 223 80 43 2f
+        E 17 90 42 4e
+        E 219 80 42 0e
+        E 22 90 43 57
+        E 232 80 43 1c
+        E 2 90 45 5d
+        E 188 80 45 01
+        E 56 90 47 57
+        E 489 90 45 55
+        E 3 80 47 29
+        E 936 80 45 30
+        E 17 90 43 5d
+        E 463 80 43 33
+        E 10 90 42 4d
+        E 478 90 3e 4f
+        E 12 80 42 26
+        E 468 90 40 5a
+        E 2 80 3e 02
+        E 227 90 42 55
+        E 5 80 40 23
+        E 239 80 42 3c
+        E 7 90 43 65
+        E 416 80 43 2f
+        E 70 90 43 65
+        E 452 80 43 0e
+        E 27 90 42 5f
+        E 466 80 42 30
+        E 22 90 43 65
+        E 1615 80 43 56
+        E 300 b0 7b 00
+        GUID {0DDD582C-E1E3-4C43-B42E-E7881501EFDF}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 372
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+  >
+  <TRACK {533E5558-895F-AD41-AFED-94D097E72BF2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 232 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {533E5558-895F-AD41-AFED-94D097E72BF2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.272727 0.090909
+      IGUID {A4327878-97BB-7247-BC63-E29059144473}
+      IID 4
+      NAME "tuba(s) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {782E310A-3D22-6A48-B843-4DDBB65D2F05}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {E228AB1D-7460-B14D-BF40-9B5E3B4CB5F5}
+        <X 0 0
+          /wN0dWJhKHMp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 93 26 65
+        E 420 83 26 05
+        E 73 93 2b 4a
+        E 435 83 2b 26
+        E 26 93 28 5f
+        E 412 83 28 26
+        E 70 93 24 65
+        E 429 83 24 2c
+        E 47 93 26 62
+        E 440 83 26 2f
+        E 28 93 2b 52
+        E 441 83 2b 01
+        E 40 93 2a 65
+        E 459 83 2a 13
+        E 25 93 28 5a
+        E 403 83 28 21
+        E 76 93 26 5a
+        E 439 83 26 0b
+        E 49 93 24 62
+        E 436 83 24 3b
+        E 40 93 26 5a
+        E 269 93 24 2d
+        E 112 83 24 2e
+        E 27 83 26 2f
+        E 78 93 1f 6a
+        E 1338 83 1f 1a
+        E 94 93 26 65
+        E 457 83 26 01
+        E 35 93 2b 55
+        E 461 83 2b 01
+        E 24 93 28 5d
+        E 422 83 28 0c
+        E 55 93 24 5f
+        E 438 83 24 02
+        E 37 93 26 5d
+        E 453 83 26 36
+        E 25 93 2b 55
+        E 480 93 2a 65
+        E 4 83 2b 27
+        E 400 83 2a 18
+        E 68 93 28 5f
+        E 472 83 28 01
+        E 14 93 26 5d
+        E 465 83 26 23
+        E 18 93 24 55
+        E 480 83 24 45
+        E 1 93 26 62
+        E 453 83 26 20
+        E 22 93 1f 62
+        E 1295 83 1f 3a
+        E 157 93 1f 67
+        E 218 83 1f 2d
+        E 19 93 21 65
+        E 183 83 21 2b
+        E 56 93 23 5f
+        E 944 83 23 27
+        E 13 93 24 5f
+        E 465 83 24 08
+        E 11 93 26 5d
+        E 881 83 26 29
+        E 82 93 28 5a
+        E 240 93 2a 5d
+        E 9 83 28 08
+        E 219 83 2a 01
+        E 19 93 2b 57
+        E 964 93 24 57
+        E 18 83 2b 42
+        E 400 83 24 58
+        E 57 93 1f 67
+        E 424 83 1f 41
+        E 51 93 21 67
+        E 440 83 21 40
+        E 42 93 23 65
+        E 224 83 23 2b
+        E 13 93 24 5a
+        E 203 83 24 24
+        E 42 93 26 65
+        E 869 83 26 47
+        E 85 93 26 65
+        E 426 83 26 1b
+        E 57 93 28 5f
+        E 930 83 28 0d
+        E 26 93 26 62
+        E 461 83 26 3f
+        E 13 93 24 5f
+        E 965 93 21 65
+        E 25 83 24 33
+        E 460 93 26 62
+        E 9 83 21 4f
+        E 899 83 26 17
+        E 48 93 24 5a
+        E 408 83 24 25
+        E 66 93 23 65
+        E 451 83 23 19
+        E 32 93 21 6a
+        E 472 83 21 3f
+        E 12 93 26 65
+        E 452 83 26 16
+        E 35 93 1f 6a
+        E 1519 83 1f 64
+        E 401 b0 7b 00
+        GUID {9B6BA9E3-B723-3840-AEE3-226E976B043A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 375
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 1 0 "{BF81F4E2-9CDA-4041-B024-7B11FE5FCF9A}"
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.454545 0.090909
+      IGUID {6E924007-84DD-D840-A66A-D71CA78C4C65}
+      IID 6
+      NAME "strings (mid) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E7930D1-3F3C-8A40-8E0F-15B2C63A6632}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {9F90A9E2-6420-0E4B-A80E-563A757BF1F5}
+        <X 0 0
+          /wNzdHJpbmdzIChtaWQp
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 95 3e 4a
+        E 351 85 3e 27
+        E 119 95 3e 4d
+        E 0 95 3b 47
+        E 382 85 3b 05
+        E 85 85 3e 32
+        E 16 95 3b 3d
+        E 1 95 40 44
+        E 360 85 40 11
+        E 121 95 40 44
+        E 39 85 3b 2c
+        E 391 85 40 2e
+        E 42 95 42 45
+        E 9 95 3e 41
+        E 395 85 3e 1f
+        E 40 85 42 1d
+        E 44 95 43 52
+        E 1 95 3e 44
+        E 362 85 3e 23
+        E 106 95 3e 4f
+        E 20 85 43 33
+        E 422 85 3e 22
+        E 34 95 3c 35
+        E 2 95 43 47
+        E 345 85 43 01
+        E 39 85 3c 1f
+        E 88 95 3e 41
+        E 3 95 43 45
+        E 426 85 43 1e
+        E 11 85 3e 1d
+        E 39 95 40 4e
+        E 449 85 40 13
+        E 42 95 3e 4a
+        E 1 95 42 55
+        E 223 85 3e 1a
+        E 14 95 3c 47
+        E 227 85 3c 01
+        E 7 85 42 03
+        E 23 95 3e 48
+        E 1 95 3b 47
+        E 1257 85 3b 40
+        E 20 85 3e 2b
+        E 177 95 3e 2d
+        E 352 85 3e 2b
+        E 104 95 3e 4a
+        E 1 95 3b 44
+        E 409 85 3b 16
+        E 43 85 3e 12
+        E 35 95 40 4a
+        E 3 95 3b 3d
+        E 367 85 40 47
+        E 90 85 3b 01
+        E 16 95 40 44
+        E 439 85 40 02
+        E 31 95 42 48
+        E 9 95 3e 37
+        E 394 85 3e 1c
+        E 46 85 42 41
+        E 35 95 43 3d
+        E 4 95 3e 4e
+        E 379 85 3e 18
+        E 100 95 3e 45
+        E 8 85 43 43
+        E 450 85 3e 19
+        E 18 95 3c 45
+        E 10 95 43 47
+        E 351 85 43 2b
+        E 123 95 3e 47
+        E 3 95 43 45
+        E 11 85 3c 25
+        E 445 85 3e 12
+        E 5 85 43 46
+        E 20 95 40 4b
+        E 400 85 40 2c
+        E 74 95 42 48
+        E 4 95 3e 4a
+        E 231 85 3e 39
+        E 10 95 3c 44
+        E 236 85 3c 37
+        E 6 85 42 3a
+        E 1 95 3b 39
+        E 3 95 3e 4d
+        E 1137 85 3e 44
+        E 1 85 3b 37
+        E 307 95 43 4b
+        E 328 85 43 30
+        E 145 95 43 47
+        E 833 85 43 1a
+        E 117 95 43 42
+        E 2 95 48 45
+        E 424 85 43 14
+        E 21 85 48 01
+        E 35 95 42 41
+        E 4 95 45 44
+        E 811 85 45 37
+        E 93 85 42 01
+        E 59 95 45 44
+        E 1 95 3e 41
+        E 389 85 3e 23
+        E 6 85 45 29
+        E 93 95 43 52
+        E 5 95 3e 48
+        E 724 85 3e 01
+        E 14 85 43 28
+        E 199 95 43 4a
+        E 0 95 40 42
+        E 342 85 43 2e
+        E 46 85 40 36
+        E 107 95 43 41
+        E 1 95 3e 44
+        E 298 85 3e 36
+        E 168 95 3c 44
+        E 2 95 40 45
+        E 9 85 43 3c
+        E 458 85 40 1c
+        E 21 95 3e 4d
+        E 31 85 3c 01
+        E 363 85 3e 1c
+        E 86 95 42 4d
+        E 1 95 3e 45
+        E 852 85 3e 11
+        E 30 85 42 01
+        E 83 95 3e 4a
+        E 424 85 3e 2d
+        E 36 95 40 45
+        E 4 95 3b 3d
+        E 815 85 3b 01
+        E 52 85 40 01
+        E 97 95 42 41
+        E 5 95 3b 47
+        E 306 85 3b 31
+        E 157 85 42 33
+        E 12 95 40 44
+        E 3 95 3c 35
+        E 812 85 3c 24
+        E 28 85 40 26
+        E 115 95 40 41
+        E 3 95 3c 39
+        E 310 85 3c 35
+        E 179 95 39 33
+        E 1 95 3e 4a
+        E 10 85 40 31
+        E 332 85 39 1d
+        E 87 85 3e 32
+        E 39 95 36 4a
+        E 6 95 39 44
+        E 371 85 39 2c
+        E 109 95 3e 4a
+        E 2 95 39 48
+        E 1 85 36 55
+        E 339 85 3e 11
+        E 32 85 39 29
+        E 107 95 3e 47
+        E 1 95 37 31
+        E 391 85 3e 22
+        E 42 85 37 14
+        E 39 95 3c 52
+        E 2 95 40 45
+        E 418 85 3c 01
+        E 52 95 39 4a
+        E 2 95 3e 52
+        E 5 85 40 1d
+        E 378 85 3e 2c
+        E 106 95 3e 47
+        E 2 95 3b 48
+        E 7 85 39 07
+        E 1662 85 3b 4f
+        E 15 85 3e 50
+        E 238 b0 7b 00
+        GUID {6E7408BB-07DC-114B-81CC-41203C93DA47}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 377
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+  >
+  <TRACK {065B3DA0-4B3F-2C43-94DD-89C0517D6715}
+    NAME "06 Netherlands"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {065B3DA0-4B3F-2C43-94DD-89C0517D6715}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 60.82666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {69083B9E-BF0D-504B-A737-4A5DB4C2EE6E}
+      IID 8
+      NAME "06 Netherlands.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.71292517006803
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE5B5079-D8DA-6B4F-9B58-D82A7157A431}
+      <SOURCE MP3
+        FILE "06 Netherlands.mp3" 1
+      >
+      SM 0 0.71292517 + 7 12.578142226 + 14 24.21292517 + 21.5 36.777406623 + 22 37.69815198 + 26.126455167 44.734146878 + 27.5 47.372644965 + 27.915746906 48.883151179 + 60.826666667 61.539591837
+    >
+  >
+  <TRACK {721D2A29-2FCD-FE49-A478-90A0224D58AB}
+    NAME "duplicates? octaves?"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 24 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {721D2A29-2FCD-FE49-A478-90A0224D58AB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.545455 0.090909
+      IGUID {53DAD42A-0231-DC4C-A0AA-DC336ABDAC8F}
+      IID 7
+      NAME "strings (bass) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EC78CAC-ADAF-4E46-990D-4A5AA11FF6C4}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {268319E0-7BD7-AB4C-8949-7F0035DAB0F8}
+        <X 0 0
+          /wNzdHJpbmdzIChiYXNzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 96 26 52
+        E 488 96 2b 48
+        E 33 86 26 39
+        E 432 96 28 57
+        E 6 86 2b 24
+        E 475 86 28 25
+        E 2 96 24 4a
+        E 485 96 26 52
+        E 6 86 24 3f
+        E 464 86 26 41
+        E 3 96 2b 4d
+        E 467 86 2b 20
+        E 6 96 2a 5a
+        E 458 86 2a 34
+        E 18 96 28 4a
+        E 465 86 28 04
+        E 20 96 26 4f
+        E 470 86 26 30
+        E 2 96 24 52
+        E 488 96 26 57
+        E 7 86 24 43
+        E 470 86 26 25
+        E 6 96 1f 55
+        E 1186 86 1f 3d
+        E 266 96 26 5f
+        E 469 86 26 46
+        E 0 96 2b 4e
+        E 475 96 28 5a
+        E 1 86 2b 20
+        E 474 96 24 57
+        E 14 86 28 10
+        E 449 86 24 31
+        E 18 96 26 5a
+        E 479 86 26 3b
+        E 5 96 2b 4f
+        E 460 86 2b 2d
+        E 9 96 2a 5f
+        E 489 96 28 4f
+        E 24 86 2a 0c
+        E 423 86 28 03
+        E 31 96 26 55
+        E 476 96 24 4b
+        E 2 86 26 2a
+        E 490 96 26 5a
+        E 27 86 24 35
+        E 462 96 1f 5a
+        E 8 86 26 20
+        E 1160 86 1f 44
+        E 256 96 1f 65
+        E 234 86 1f 30
+        E 7 96 21 5f
+        E 245 86 21 41
+        E 3 96 23 5f
+        E 952 86 23 44
+        E 12 96 24 4d
+        E 473 96 26 57
+        E 7 86 24 30
+        E 754 86 26 3f
+        E 189 96 28 5f
+        E 226 86 28 01
+        E 9 96 2a 62
+        E 259 96 2b 55
+        E 14 86 2a 5b
+        E 935 86 2b 01
+        E 5 96 24 5a
+        E 470 86 24 13
+        E 10 96 1f 62
+        E 441 86 1f 2c
+        E 29 96 21 65
+        E 485 86 21 3a
+        E 3 96 23 62
+        E 232 86 23 1a
+        E 9 96 24 4d
+        E 250 96 26 62
+        E 3 86 24 44
+        E 854 86 26 3b
+        E 111 96 26 52
+        E 473 86 26 49
+        E 2 96 28 5f
+        E 952 86 28 0a
+        E 5 96 26 65
+        E 446 86 26 01
+        E 23 96 24 57
+        E 894 86 24 19
+        E 70 96 21 5f
+        E 484 96 26 5f
+        E 3 86 21 29
+        E 951 96 24 4d
+        E 1 86 26 01
+        E 486 96 23 5f
+        E 17 86 24 01
+        E 462 96 21 5f
+        E 16 86 23 01
+        E 421 86 21 01
+        E 51 96 26 62
+        E 482 96 1f 62
+        E 18 86 26 2b
+        E 1688 86 1f 68
+        E 210 b0 7b 00
+        GUID {642AF203-CE83-BD4C-B641-B2A2DFF26DFC}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 378
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.181818 0.090909
+      IGUID {A9B01478-2FC5-3A4C-ADC0-42720846F7CC}
+      IID 3
+      NAME "trombone(s) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBAE07F0-C3BB-6E4E-AD61-34E86D53BFAB}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {1BCA22DE-D516-914A-8BA4-EF263E1809E4}
+        <X 0 0
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 92 32 57
+        E 478 82 32 1a
+        E 10 92 37 42
+        E 455 82 37 0d
+        E 3 92 34 4a
+        E 433 82 34 01
+        E 47 92 30 3f
+        E 446 82 30 0e
+        E 41 92 32 4b
+        E 441 82 32 1a
+        E 32 92 37 4a
+        E 466 82 37 01
+        E 12 92 36 4b
+        E 447 82 36 12
+        E 32 92 34 4b
+        E 443 82 34 01
+        E 37 92 32 4a
+        E 451 82 32 01
+        E 33 92 30 4a
+        E 487 92 32 4a
+        E 4 82 30 1e
+        E 451 82 32 21
+        E 23 92 2b 4a
+        E 1302 82 2b 12
+        E 149 92 32 5d
+        E 451 82 32 45
+        E 16 92 37 48
+        E 460 82 37 17
+        E 8 92 34 4d
+        E 449 82 34 07
+        E 50 92 30 44
+        E 421 82 30 27
+        E 51 92 32 4b
+        E 485 92 37 44
+        E 1 82 32 20
+        E 462 82 37 10
+        E 10 92 36 4f
+        E 430 82 36 11
+        E 44 92 34 48
+        E 455 82 34 01
+        E 27 92 32 4d
+        E 464 82 32 2c
+        E 20 92 30 4a
+        E 479 92 32 4f
+        E 6 82 30 18
+        E 445 82 32 01
+        E 36 92 2b 55
+        E 1274 82 2b 2f
+        E 163 92 2b 52
+        E 210 82 2b 26
+        E 21 92 2d 5f
+        E 247 82 2d 0d
+        E 5 92 2f 5a
+        E 939 82 2f 0f
+        E 25 92 30 47
+        E 472 82 30 26
+        E 2 92 32 4b
+        E 841 82 32 34
+        E 113 92 34 55
+        E 238 92 36 55
+        E 11 82 34 01
+        E 238 92 37 48
+        E 5 82 36 1e
+        E 950 92 30 52
+        E 3 82 37 01
+        E 481 92 2b 5f
+        E 1 82 30 0f
+        E 430 82 2b 23
+        E 42 92 2d 5f
+        E 449 82 2d 19
+        E 36 92 2f 5d
+        E 237 92 30 4a
+        E 1 82 2f 2c
+        E 237 82 30 30
+        E 6 92 32 57
+        E 889 82 32 19
+        E 75 92 32 4b
+        E 396 82 32 01
+        E 81 92 34 57
+        E 961 82 34 01
+        E 2 92 32 4a
+        E 391 82 32 1a
+        E 89 92 30 4b
+        E 970 92 2d 57
+        E 29 82 30 2b
+        E 336 82 2d 27
+        E 112 92 32 4f
+        E 932 82 32 01
+        E 26 92 30 4d
+        E 383 82 30 01
+        E 85 92 2f 5f
+        E 441 82 2f 01
+        E 40 92 2d 55
+        E 467 82 2d 4a
+        E 17 92 32 5d
+        E 481 82 32 21
+        E 5 92 2b 5d
+        E 1644 82 2b 5d
+        E 278 b0 7b 00
+        GUID {393AFA7A-E2EA-D341-B3EF-37503AF38D3C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 374
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.363636 0.090909
+      IGUID {A3FF7B6F-3761-3742-873B-E2E0EA698A9E}
+      IID 5
+      NAME "strings (hi) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DAC8C59-5038-1747-B908-4CAF3D008416}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {3776E1B5-E74C-AF45-96A0-6CD1A859ECF9}
+        <X 0 0
+          /wNzdHJpbmdzIChoaSk=
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 94 4a 52
+        E 6 94 3e 52
+        E 424 84 3e 32
+        E 6 84 4a 01
+        E 26 94 43 4d
+        E 1 94 4f 45
+        E 375 84 43 3d
+        E 39 84 4f 2e
+        E 67 94 43 4f
+        E 4 94 4f 4b
+        E 477 94 51 4f
+        E 4 94 45 4a
+        E 8 84 43 40
+        E 11 84 4f 1e
+        E 204 84 45 12
+        E 4 94 47 3f
+        E 2 94 53 47
+        E 18 84 51 01
+        E 194 84 47 47
+        E 15 94 48 4e
+        E 6 94 54 4b
+        E 12 84 53 44
+        E 225 94 45 55
+        E 2 94 51 4a
+        E 9 84 48 1d
+        E 7 84 54 3d
+        E 234 94 47 4a
+        E 4 94 53 4b
+        E 2 84 45 0f
+        E 25 84 51 3a
+        E 435 84 53 31
+        E 5 84 47 01
+        E 7 94 51 4a
+        E 1 94 45 44
+        E 225 84 45 2b
+        E 9 94 53 4d
+        E 1 94 47 47
+        E 25 84 51 25
+        E 207 84 47 3a
+        E 8 94 48 42
+        E 1 94 54 4a
+        E 7 84 53 32
+        E 461 84 48 01
+        E 0 94 53 48
+        E 2 94 47 4b
+        E 2 84 54 42
+        E 498 94 45 4f
+        E 2 94 51 4b
+        E 11 84 53 4c
+        E 19 84 47 33
+        E 153 84 45 2d
+        E 14 84 51 2e
+        E 21 94 43 4b
+        E 7 94 4f 4f
+        E 228 84 43 32
+        E 10 94 45 4b
+        E 4 84 4f 2b
+        E 3 94 51 47
+        E 493 84 45 01
+        E 2 94 4f 4d
+        E 1 94 43 3b
+        E 28 84 51 29
+        E 1244 84 43 39
+        E 9 84 4f 43
+        E 159 94 4a 4a
+        E 3 94 3e 57
+        E 458 84 3e 2d
+        E 12 84 4a 01
+        E 3 94 4f 52
+        E 2 94 43 4f
+        E 417 84 4f 38
+        E 2 84 43 38
+        E 59 94 43 5a
+        E 3 94 4f 4b
+        E 463 84 43 3d
+        E 8 84 4f 20
+        E 3 94 51 4f
+        E 1 94 45 4a
+        E 226 94 47 42
+        E 2 84 45 18
+        E 4 94 53 4f
+        E 25 84 51 03
+        E 198 84 47 40
+        E 4 84 53 39
+        E 6 94 48 48
+        E 2 94 54 4f
+        E 238 84 48 23
+        E 2 94 45 4d
+        E 5 94 51 4e
+        E 19 84 54 39
+        E 219 84 45 25
+        E 8 94 47 45
+        E 6 94 53 4b
+        E 18 84 51 2e
+        E 388 84 53 30
+        E 13 84 47 17
+        E 53 94 51 4f
+        E 1 94 45 48
+        E 225 84 45 25
+        E 8 94 53 4d
+        E 0 94 47 47
+        E 26 84 51 2d
+        E 210 84 47 3e
+        E 7 94 54 4d
+        E 0 94 48 44
+        E 8 84 53 29
+        E 458 94 47 4b
+        E 2 94 53 4e
+        E 4 84 48 01
+        E 4 84 54 37
+        E 487 84 47 1d
+        E 3 94 45 55
+        E 2 94 51 4f
+        E 34 84 53 26
+        E 192 84 51 39
+        E 3 84 45 0e
+        E 2 94 43 47
+        E 4 94 4f 48
+        E 234 84 43 41
+        E 8 94 45 41
+        E 4 94 51 4f
+        E 5 84 4f 24
+        E 470 84 51 41
+        E 8 94 4f 4a
+        E 0 94 43 4d
+        E 14 84 45 2a
+        E 1257 84 43 44
+        E 11 84 4f 1c
+        E 158 94 53 55
+        E 3 94 47 4e
+        E 231 94 54 55
+        E 2 94 48 45
+        E 2 84 47 0d
+        E 6 84 53 26
+        E 221 84 48 41
+        E 9 84 54 3e
+        E 2 94 4a 4b
+        E 2 94 56 4d
+        E 965 94 4c 48
+        E 3 94 58 4e
+        E 7 84 4a 2f
+        E 21 84 56 15
+        E 449 94 4a 4d
+        E 3 94 56 47
+        E 5 84 4c 2d
+        E 13 84 58 49
+        E 937 94 54 55
+        E 1 94 48 52
+        E 3 84 56 33
+        E 5 84 4a 18
+        E 468 94 47 4f
+        E 4 94 53 4a
+        E 2 84 48 25
+        E 4 84 54 3d
+        E 442 84 53 4d
+        E 21 84 47 3c
+        E 3 94 45 4a
+        E 1 94 51 4d
+        E 226 84 45 2a
+        E 4 94 53 4e
+        E 0 94 47 4f
+        E 7 84 51 1b
+        E 220 84 47 3e
+        E 8 84 53 01
+        E 9 94 48 4d
+        E 4 94 54 55
+        E 403 84 48 4c
+        E 2 84 54 4b
+        E 90 94 53 48
+        E 2 94 47 4d
+        E 479 94 45 55
+        E 5 94 51 4d
+        E 28 84 47 21
+        E 2 84 53 3d
+        E 433 84 51 36
+        E 9 94 4f 4b
+        E 6 94 43 57
+        E 14 84 45 3c
+        E 466 94 45 4f
+        E 1 94 51 4b
+        E 9 84 43 3b
+        E 11 84 4f 21
+        E 810 84 45 08
+        E 5 84 51 20
+        E 107 94 4a 4b
+        E 3 94 3e 5a
+        E 470 94 4f 4b
+        E 1 84 4a 01
+        E 2 94 43 57
+        E 26 84 3e 01
+        E 203 84 4f 14
+        E 13 94 4e 4e
+        E 3 94 42 5d
+        E 26 84 43 45
+        E 194 84 4e 48
+        E 6 94 43 55
+        E 4 94 4f 4d
+        E 1 84 42 10
+        E 237 94 45 55
+        E 4 84 43 43
+        E 2 94 51 55
+        E 29 84 4f 11
+        E 212 84 45 2c
+        E 8 94 47 42
+        E 5 94 53 48
+        E 12 84 51 31
+        E 465 94 51 4b
+        E 3 94 45 48
+        E 10 84 53 24
+        E 19 84 47 42
+        E 926 94 43 5a
+        E 2 84 51 40
+        E 0 94 4f 4b
+        E 3 84 45 26
+        E 471 94 42 5a
+        E 3 94 4e 4d
+        E 4 84 43 29
+        E 2 84 4f 27
+        E 474 94 4a 4b
+        E 6 94 3e 57
+        E 17 84 4e 25
+        E 11 84 42 10
+        E 420 84 3e 34
+        E 2 84 4a 1c
+        E 29 94 40 5f
+        E 2 94 4c 4d
+        E 224 94 4e 4e
+        E 4 94 42 4d
+        E 3 84 4c 2e
+        E 1 84 40 27
+        E 235 94 4f 57
+        E 1 94 43 57
+        E 6 84 4e 36
+        E 14 84 42 16
+        E 382 84 43 28
+        E 6 84 4f 3a
+        E 72 94 43 4f
+        E 2 94 4f 4a
+        E 451 84 43 01
+        E 28 94 42 4a
+        E 6 94 4e 4e
+        E 15 84 4f 38
+        E 467 94 4f 4e
+        E 3 94 43 55
+        E 14 84 4e 30
+        E 18 84 42 38
+        E 1643 84 43 5c
+        E 6 84 4f 60
+        E 242 b0 7b 00
+        GUID {BF81F4E2-9CDA-4041-B024-7B11FE5FCF9A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 376
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 18.4 51 12 0 0 0 0 0
+        KEYSNAP 0 0 102034050607 0 Major
+        TRACKSEL 226 1 0 "{BF81F4E2-9CDA-4041-B024-7B11FE5FCF9A}"
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 0 4 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.090909 0.090909
+      IGUID {BC373FEC-5D38-B246-8033-B5C506D3D036}
+      IID 2
+      NAME "fr. horn(s) - National_Anthems_-_Netherlands.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAB4A185-DA1B-F344-BBF5-B492382C2725}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {B4BA4724-173D-9244-8176-50DF046ADB0A}
+        <X 0 0
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 0 91 3e 45
+        E 385 81 3e 14
+        E 111 91 3b 44
+        E 0 91 3e 4a
+        E 356 81 3b 10
+        E 76 81 3e 0c
+        E 42 91 40 44
+        E 1 91 3b 3d
+        E 356 81 40 2b
+        E 42 81 3b 25
+        E 55 91 40 45
+        E 466 81 40 01
+        E 23 91 42 41
+        E 3 91 3e 45
+        E 403 81 3e 06
+        E 9 81 42 01
+        E 72 91 3e 3b
+        E 3 91 43 48
+        E 401 81 3e 26
+        E 42 81 43 2e
+        E 31 91 3e 47
+        E 461 91 3c 35
+        E 3 91 43 4a
+        E 18 81 3e 01
+        E 338 81 43 06
+        E 99 81 3c 01
+        E 26 91 3e 48
+        E 1 91 43 4d
+        E 380 81 43 2c
+        E 27 81 3e 01
+        E 76 91 40 41
+        E 483 81 40 22
+        E 0 91 3e 52
+        E 5 91 42 4a
+        E 235 91 3c 45
+        E 17 81 3e 01
+        E 198 81 42 01
+        E 10 81 3c 2f
+        E 22 91 3b 44
+        E 4 91 3e 45
+        E 1302 81 3e 2f
+        E 31 81 3b 2c
+        E 99 91 3e 44
+        E 359 81 3e 2b
+        E 124 91 3b 44
+        E 4 91 3e 44
+        E 369 81 3b 1d
+        E 104 81 3e 1a
+        E 6 91 3b 47
+        E 2 91 40 45
+        E 389 81 40 2c
+        E 28 81 3b 2b
+        E 57 91 40 45
+        E 436 81 40 14
+        E 45 91 42 4d
+        E 2 91 3e 47
+        E 369 81 3e 25
+        E 45 81 42 26
+        E 69 91 3e 47
+        E 5 91 43 4a
+        E 367 81 3e 16
+        E 83 81 43 3c
+        E 10 91 3e 4d
+        E 437 81 3e 0a
+        E 39 91 3c 4d
+        E 1 91 43 44
+        E 373 81 43 3f
+        E 74 81 3c 2e
+        E 24 91 3e 4a
+        E 7 91 43 47
+        E 454 81 43 33
+        E 16 81 3e 21
+        E 11 91 40 47
+        E 489 91 3e 4a
+        E 5 91 42 44
+        E 25 81 40 01
+        E 211 91 3c 45
+        E 4 81 3e 03
+        E 181 81 42 3f
+        E 29 81 3c 2f
+        E 25 91 3b 1f
+        E 34 91 3e 21
+        E 1064 81 3e 47
+        E 49 81 3b 4d
+        E 295 91 43 4a
+        E 406 81 43 2c
+        E 86 91 43 4b
+        E 803 81 43 27
+        E 149 91 48 41
+        E 0 91 43 44
+        E 371 81 48 1a
+        E 28 81 43 0f
+        E 81 91 42 39
+        E 9 91 45 29
+        E 736 81 45 0f
+        E 158 81 42 0a
+        E 61 91 3e 41
+        E 1 91 45 3b
+        E 347 81 3e 01
+        E 81 81 45 03
+        E 45 91 43 4b
+        E 7 91 3e 3b
+        E 832 81 43 29
+        E 8 81 3e 2d
+        E 107 91 43 48
+        E 4 91 40 45
+        E 391 81 40 16
+        E 16 81 43 27
+        E 81 91 3e 48
+        E 3 91 43 4a
+        E 376 81 3e 24
+        E 98 81 43 36
+        E 3 91 40 4d
+        E 4 91 3c 44
+        E 434 81 40 10
+        E 50 91 3e 4f
+        E 25 81 3c 01
+        E 365 81 3e 1c
+        E 91 91 42 44
+        E 0 91 3e 44
+        E 856 81 3e 2c
+        E 35 81 42 01
+        E 76 91 3e 4a
+        E 382 81 3e 24
+        E 84 91 40 3d
+        E 3 91 3b 41
+        E 847 81 3b 1a
+        E 43 81 40 28
+        E 64 91 42 44
+        E 4 91 3b 42
+        E 344 81 3b 29
+        E 127 81 42 1d
+        E 6 91 3c 48
+        E 0 91 40 45
+        E 864 81 3c 01
+        E 2 81 40 01
+        E 98 91 40 44
+        E 3 91 3c 47
+        E 273 81 3c 28
+        E 107 81 40 39
+        E 90 91 3e 5a
+        E 4 91 39 3f
+        E 386 81 39 01
+        E 61 81 3e 46
+        E 21 91 36 4d
+        E 0 91 39 62
+        E 328 81 39 35
+        E 80 81 36 48
+        E 68 91 39 4a
+        E 10 91 3e 31
+        E 327 81 3e 3a
+        E 57 81 39 3a
+        E 82 91 3e 4b
+        E 1 91 37 3d
+        E 396 81 3e 36
+        E 56 81 37 02
+        E 34 91 3c 45
+        E 0 91 40 47
+        E 448 81 3c 21
+        E 31 81 40 2a
+        E 1 91 3e 47
+        E 0 91 39 44
+        E 377 81 3e 0e
+        E 107 91 3b 41
+        E 5 91 3e 4a
+        E 4 81 39 22
+        E 1658 81 3e 50
+        E 1 81 3b 59
+        E 260 b0 7b 00
+        GUID {F95EDE2D-FE28-CA49-ADF3-12BAF2183353}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 373
+        VELLANE -1 86 6
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 ""
+      {F4CC3575-1D7D-424F-8F4B-C71B325A2484} 0 ""
+      {65BF5D08-DF3D-EA42-ADEF-5C04FE4BCE10} 0 ""
+      {533E5558-895F-AD41-AFED-94D097E72BF2} 0 ""
+      {065B3DA0-4B3F-2C43-94DD-89C0517D6715} 0 ""
+      {721D2A29-2FCD-FE49-A478-90A0224D58AB} 0 ""
+    >
+  >
+>

@@ -1,0 +1,1069 @@
+<REAPER_PROJECT 0.1 "4.76/OSX64" 1420750131
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174206 8 1 8 1 0 0
+  TIMEMODE 6 0 -1 24 2
+  PANMODE 3
+  CURSOR 0
+  ZOOM 10.05347725700505 0 0
+  VZOOMEX 11
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 88 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    PERF 0
+    AUXRECV 1 0 1 0 0 0 0 0 0 -1 32 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 0 0 -1 64 -1 ''
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1 96 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 759 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 ""
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABCAgAAAQAAAAAAEABDRUdQFAgAAHic5VXfb9owEH7vX2H5aXtoEidAhgRUjJYJaahoMGlv1ZFcU2uOwxyHtfvr
+        5zgJhdGpnrQ97V7sO3/348spd6Orx1yQPaqSF3JMmRdQcjW5GE0VhzXs8ehpEIR0ckGMjNaoNZdZSb5VILh+Mq+UZKLYglgVwqhRSEmpFUJuYI2aw+PaWqZCFMny/Zj2
+        mTEvF9eL20ovixRtFKh0kYM2Kdei0GNq6ikT88LqEwQYCyOXBOvMXpmI1jxDqVGN6SDoCtlU0uYOvMAKJX5XvQlMeGpjS8ixDumRVaWQzB74zg+nwRf/06o+yJtKCp5z
+        jelbSrYgvy6MHwuCISXJA0iJYkwvTW07S5sNKNFneXfbOwUywxp5MGpjKndFibaMvNLNpfx+J6C0vJtqbcVL4LKreA+iQtupU1qnQHYAnvE/BYauwMgV2HMF9l2BA1dg
+        7Ap85wocugJZ4Ix07g1zbg5z7g5zbg97rT8rUJC36Y8r7QfRMIp/i+09Y1n4cuQNqAx1+3MmRe6tRJFV6NVTyfs4v/WqEtXxH2K9ZlVpZsc1aCD6aWc8wzAa1HOD/zBK
+        r+55N8xMPpQph+aaGhdz6WTeHGHwd+WUot9w/FPS7D8hvVE8y1CtzZxHmaB6lTaLQzbsaPfjI9rhS7RZy7qVRo/tPZrF8+EJiVkQzf/hhxj59UZq7zf395jo8xU1zbe8
+        /hK/bqFuqX34vOgcINF8j4vD/mz0m+d9isKkwHQD22Z5mRgjv9v4k4uf1+0E3wAAEAAAAA==
+      >
+      FLOATPOS 404 36 871 509
+      FXID {8431A072-55F4-FD4E-8B7D-D2D9F1493C94}
+      WAK 0
+    >
+  >
+  <TRACK {3F48EC17-77F7-BA42-A842-FF4B708AA92D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3F48EC17-77F7-BA42-A842-FF4B708AA92D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.242424 0.05
+      IGUID {9F466646-4F21-6745-8D7F-283A67A2DB7F}
+      IID 3
+      NAME "RH Keys              - National_Anthems_-_Croatia.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E3861DA-702F-F74E-ACF8-08CBB73486A6}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {DE06EE5C-91D3-A147-8074-E51112A6EACA}
+        <X 0 0
+          /wNSSCBLZXlzICAgICAgICAgICAgIA==
+        >
+        e 0 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 110 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 178 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3a 63
+        e 0 90 3e 63
+        e 0 90 41 63
+        e 370 80 3a 40
+        e 0 80 3e 40
+        e 0 80 41 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3b 63
+        e 0 90 3e 63
+        e 82 80 3b 40
+        e 0 80 3e 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 14 90 3a 63
+        e 0 90 3f 63
+        e 0 90 43 63
+        e 370 80 3a 40
+        e 0 80 3f 40
+        e 0 80 43 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3a 63
+        e 0 90 3e 63
+        e 82 80 3a 40
+        e 0 80 3e 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3a 63
+        e 0 90 3e 63
+        e 0 90 41 63
+        e 370 80 3a 40
+        e 0 80 3e 40
+        e 0 80 41 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 274 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 178 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3a 63
+        e 0 90 3e 63
+        e 0 90 41 63
+        e 370 80 3a 40
+        e 0 80 3e 40
+        e 0 80 41 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3b 63
+        e 0 90 3e 63
+        e 82 80 3b 40
+        e 0 80 3e 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 14 90 3a 63
+        e 0 90 3f 63
+        e 0 90 43 63
+        e 370 80 3a 40
+        e 0 80 3f 40
+        e 0 80 43 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 0 80 45 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 0 80 45 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 178 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 370 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 178 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 178 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 274 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3a 63
+        e 0 90 3c 63
+        e 0 90 43 63
+        e 82 80 3a 40
+        e 0 80 3c 40
+        e 0 80 43 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 178 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3e 63
+        e 0 90 43 63
+        e 0 90 46 63
+        e 82 80 3e 40
+        e 0 80 43 40
+        e 0 80 46 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 274 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 41 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 82 80 41 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 41 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 82 80 41 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 41 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 82 80 41 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 41 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 82 80 41 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 42 63
+        e 0 90 45 63
+        e 0 90 48 63
+        e 178 80 42 40
+        e 0 80 45 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 43 63
+        e 0 90 46 63
+        e 178 80 3e 40
+        e 0 80 43 40
+        e 0 80 46 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 178 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3a 63
+        e 0 90 40 63
+        e 0 90 43 63
+        e 178 80 3a 40
+        e 0 80 40 40
+        e 0 80 43 40
+        e 14 90 39 63
+        e 0 90 3c 63
+        e 0 90 41 63
+        e 370 80 39 40
+        e 0 80 3c 40
+        e 0 80 41 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 178 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 41 63
+        e 0 90 46 63
+        e 0 90 4a 63
+        e 274 80 41 40
+        e 0 80 46 40
+        e 0 80 4a 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 82 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 178 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        e 14 90 3a 63
+        e 0 90 3e 63
+        e 0 90 41 63
+        e 370 80 3a 40
+        e 0 80 3e 40
+        e 0 80 41 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3b 63
+        e 0 90 3e 63
+        e 82 80 3b 40
+        e 0 80 3e 40
+        e 14 90 3c 63
+        e 0 90 3f 63
+        e 82 80 3c 40
+        e 0 80 3f 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 82 80 3e 40
+        e 0 80 41 40
+        e 14 90 3a 63
+        e 0 90 3f 63
+        e 0 90 43 63
+        e 370 80 3a 40
+        e 0 80 3f 40
+        e 0 80 43 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3c 63
+        e 0 90 41 63
+        e 0 90 45 63
+        e 82 80 3c 40
+        e 0 80 41 40
+        e 0 80 45 40
+        e 14 90 3f 63
+        e 0 90 41 63
+        e 0 90 48 63
+        e 178 80 3f 40
+        e 0 80 41 40
+        e 0 80 48 40
+        e 14 90 3e 63
+        e 0 90 41 63
+        e 0 90 46 63
+        e 370 80 3e 40
+        e 0 80 41 40
+        e 0 80 46 40
+        E 14 b0 7b 00
+        GUID {0B58148B-53FE-4947-90DE-3A705AAFDE5A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 846
+        VELLANE -1 86 6
+        CFGEDITVIEW -585.6 25.871833 54 13 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 16 63 1280 778 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.05
+      IGUID {8659F414-4BC2-1F43-BBF5-09E1B1465E46}
+      IID 1
+      NAME "Melody               - National_Anthems_-_Croatia.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E4CC5FE-5B32-DB42-831C-9686191CDEA0}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {4EEA1932-138C-B94D-A5D7-E3B315925124}
+        <X 0 0
+          /wNNZWxvZHkgICAgICAgICAgICAgIA==
+        >
+        <X 0 0
+          /wFUSEUgU09GVFdBUkUgVE9PTFdPUktT
+        >
+        <X 0 0
+          /wFXT1JMRCBBVExBUw==
+        >
+        <X 0 0
+          /wFNdWx0aU1lZGlhIFdpbmRvd3MgVmVyc2lvbg==
+        >
+        <X 0 0
+          /wFDb3VudHJ5OiBDcm9hdGlh
+        >
+        <X 0 0
+          /wFBbnRoZW0gTmFtZTo=
+        >
+        <X 0 0
+          /wEocCkgKGMpIFRoZSBTb2Z0d2FyZSBUb29sd29ya3MgMTk5Mg==
+        >
+        <X 0 0
+          /wFub3Rlczo=
+        >
+        <X 0 0
+          /wFkYXRlOiA3LTExLTky
+        >
+        <X 0 0
+          /wFlZGl0IGRhdGU6
+        >
+        <X 0 0
+          /wFUaGlzIGZpbGUgcHJvdmlkZWQgYnk6
+        >
+        <X 0 0
+          /wFXYWxsYWNlIE11c2ljICYgU291bmQsIEluYy4=
+        >
+        <X 0 0
+          /wEoNjAyKSA5NzktNjIxMA==
+        >
+        e 0 90 4a 73
+        e 175 80 4a 40
+        e 18 90 4a 73
+        e 177 80 4a 40
+        e 21 90 4a 74
+        e 268 80 4a 40
+        e 6 90 48 75
+        e 90 80 48 40
+        e 18 90 48 75
+        e 83 80 48 40
+        e 4 90 46 76
+        e 84 80 46 40
+        e 15 90 46 76
+        e 175 80 46 40
+        e 8 90 41 77
+        e 383 80 41 40
+        e 5 90 3f 78
+        e 90 90 3e 78
+        e 5 80 3f 40
+        e 94 90 3f 79
+        e 8 80 3e 40
+        e 93 80 3f 40
+        e 3 90 41 79
+        e 95 90 43 79
+        e 4 80 41 40
+        e 41 90 45 7a
+        e 3 80 43 40
+        e 35 80 45 40
+        e 1 90 43 7a
+        e 313 80 43 40
+        e 3 90 41 7b
+        e 77 90 3f 7b
+        e 5 80 41 40
+        e 89 90 3e 7b
+        e 5 80 3f 40
+        e 93 90 3f 7c
+        e 7 80 3e 40
+        e 84 80 3f 40
+        e 0 90 41 7c
+        e 18 80 41 40
+        e 3 90 43 7c
+        e 19 90 41 7c
+        e 12 80 43 40
+        e 6 90 3f 7c
+        e 5 80 41 40
+        e 13 80 3f 40
+        e 8 90 41 7c
+        e 311 80 41 40
+        e 3 90 4a 73
+        e 180 80 4a 40
+        e 16 90 4a 73
+        e 177 80 4a 40
+        e 13 90 4a 74
+        e 280 80 4a 40
+        e 3 90 48 75
+        e 84 80 48 40
+        e 17 90 48 75
+        e 81 80 48 40
+        e 2 90 46 76
+        e 88 80 46 40
+        e 21 90 46 76
+        e 180 80 46 40
+        e 1 90 41 77
+        e 384 90 3f 78
+        e 6 80 41 40
+        e 87 90 3e 78
+        e 1 80 3f 40
+        e 104 90 3f 79
+        e 12 80 3e 40
+        e 81 80 3f 40
+        e 2 90 41 79
+        e 101 80 41 40
+        e 2 90 43 79
+        e 384 90 45 7b
+        e 7 80 43 40
+        e 70 80 45 40
+        e 20 90 45 7b
+        e 87 80 45 40
+        e 4 90 48 7b
+        e 192 90 46 7c
+        e 7 80 48 40
+        e 336 80 46 40
+        e 40 90 45 7f
+        e 174 80 45 40
+        e 21 90 45 7f
+        e 179 80 45 40
+        e 18 90 45 7f
+        e 271 80 45 40
+        e 6 90 43 7f
+        e 94 90 45 7f
+        e 6 80 43 40
+        e 171 80 45 40
+        e 17 90 45 7f
+        e 88 80 45 40
+        e 4 90 46 7f
+        e 92 90 48 7f
+        e 7 80 46 40
+        e 279 80 48 40
+        e 6 90 45 7f
+        e 97 80 45 40
+        e 2 90 48 7f
+        e 68 80 48 40
+        e 20 90 48 7f
+        e 89 80 48 40
+        e 16 90 48 7f
+        e 72 80 48 40
+        e 24 90 48 7f
+        e 78 80 48 40
+        e 23 90 48 7f
+        e 181 80 48 40
+        e 3 90 46 7f
+        e 206 90 45 7f
+        e 3 80 46 40
+        e 173 90 43 7f
+        e 3 80 45 40
+        e 200 90 41 7f
+        e 4 80 43 40
+        e 375 80 41 40
+        e 13 90 4a 73
+        e 158 80 4a 40
+        e 14 90 4a 73
+        e 185 80 4a 40
+        e 18 90 4a 74
+        e 272 80 4a 40
+        e 11 90 48 75
+        e 89 80 48 40
+        e 15 90 48 75
+        e 83 80 48 40
+        e 3 90 46 76
+        e 84 80 46 40
+        e 18 90 46 76
+        e 177 80 46 40
+        e 2 90 41 77
+        e 399 90 3f 78
+        e 8 80 41 40
+        e 77 90 3e 78
+        e 4 80 3f 40
+        e 94 90 3f 79
+        e 12 80 3e 40
+        e 87 80 3f 40
+        e 5 90 41 79
+        e 100 90 43 79
+        e 3 80 41 40
+        e 352 80 43 40
+        e 14 90 45 7b
+        e 86 80 45 40
+        e 24 90 45 7b
+        e 86 80 45 40
+        e 8 90 48 7b
+        e 182 80 48 40
+        e 1 90 46 7c
+        e 16 80 46 40
+        e 4 90 48 7c
+        e 15 90 46 7c
+        e 7 80 48 40
+        e 18 90 45 7c
+        e 1 80 46 40
+        e 22 90 46 7c
+        e 8 80 45 40
+        e 296 80 46 40
+        E 1 b0 7b 00
+        OUTCH 1
+        GUID {B05C63B1-99AA-4B4E-977D-F0394B1351DA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 844
+        VELLANE -1 86 6
+        CFGEDITVIEW -614.4 24.659091 52 30 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 16 63 1280 778 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.484848 0.05
+      IGUID {32C80BFD-E509-C744-B0DB-FC11BD10FF15}
+      IID 5
+      NAME "Bass                 - National_Anthems_-_Croatia.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F32B829-0051-D14C-B3BF-C7A8B5553E44}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {81120CEF-5A52-224D-9CEA-9FB55BA1F103}
+        <X 0 0
+          /wNCYXNzICAgICAgICAgICAgICAgIA==
+        >
+        e 0 90 22 78
+        e 178 80 22 40
+        e 14 90 26 78
+        e 178 80 26 40
+        e 14 90 29 78
+        e 274 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 22 78
+        e 82 80 22 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 22 78
+        e 370 80 22 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 370 80 29 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 22 78
+        e 370 80 22 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 26 78
+        e 178 80 26 40
+        e 14 90 29 78
+        e 274 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 22 78
+        e 82 80 22 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 22 78
+        e 370 80 22 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 370 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 22 78
+        e 370 80 22 40
+        e 14 90 1d 78
+        e 178 80 1d 40
+        e 14 90 21 78
+        e 178 80 21 40
+        e 14 90 24 78
+        e 274 80 24 40
+        e 14 90 24 78
+        e 82 80 24 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 370 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 27 78
+        e 178 80 27 40
+        e 14 90 26 78
+        e 178 80 26 40
+        e 14 90 2b 78
+        e 178 80 2b 40
+        e 14 90 24 78
+        e 178 80 24 40
+        e 14 90 24 78
+        e 178 80 24 40
+        e 14 90 29 78
+        e 370 80 29 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 26 78
+        e 178 80 26 40
+        e 14 90 29 78
+        e 274 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 29 78
+        e 82 80 29 40
+        e 14 90 22 78
+        e 82 80 22 40
+        e 14 90 22 78
+        e 178 80 22 40
+        e 14 90 22 78
+        e 370 80 22 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 29 78
+        e 370 80 29 40
+        e 14 90 29 78
+        e 178 80 29 40
+        e 14 90 21 78
+        e 178 80 21 40
+        e 14 90 22 78
+        e 370 80 22 40
+        E 14 b0 7b 00
+        GUID {FD55B8CA-FB13-B54E-A68D-B035BEF6D39E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 848
+        VELLANE -1 86 6
+        CFGEDITVIEW -585.6 25.871833 54 13 0 0 0 0 0
+        KEYSNAP 0 3 102304056070 0 "Natural minor"
+        TRACKSEL 226 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 0.25 16 63 1280 778 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {35C471E4-3378-4144-93C8-203C32914FB1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 360 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {35C471E4-3378-4144-93C8-203C32914FB1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {CD9F5ED7-FE0D-7C4F-B9FB-30EC321128E2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CD9F5ED7-FE0D-7C4F-B9FB-30EC321128E2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {95BAFD5F-FAFD-C740-8C3A-9A99E2707291}
+    NAME "16 Croatia"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {95BAFD5F-FAFD-C740-8C3A-9A99E2707291}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 38.42041755647298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2F971762-0BF1-1145-8DC5-44A48E4EF2C3}
+      IID 12
+      NAME "16 Croatia.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25709750566893
+      PLAYRATE 1.79106156855757 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08E25E84-D919-EA47-8909-7267BFB5FA2C}
+      <SOURCE MP3
+        FILE "16 Croatia.mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 ""
+      {95BAFD5F-FAFD-C740-8C3A-9A99E2707291} 0 ""
+    >
+    <BR_CURSOR_POS 04
+      0.00000000000000
+    >
+  >
+>
