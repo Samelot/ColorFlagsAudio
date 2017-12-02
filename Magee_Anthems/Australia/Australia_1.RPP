@@ -1,23 +1,25 @@
-<REAPER_PROJECT 0.1 "4.76/OSX64" 1420764392
+<REAPER_PROJECT 0.1 "5.50rc21/OSX64" 1511878475
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 0
   ENVATTACH 1
+  POOLEDENVATTACH 0
   MIXERUIFLAGS 11 52
   PEAKGAIN 1
   FEEDBACK 0
   PANLAW 1
   PROJOFFS 0 0
   MAXPROJLEN 0 600
-  GRID 174206 8 1 8 1 0 0
+  GRID 174206 8 1 8 1 0 0 0
   TIMEMODE 6 0 -1 24 2
   PANMODE 3
-  CURSOR 0.00000000001
-  ZOOM 16.98096559997128 279 0
+  CURSOR 0
+  ZOOM 16.98096559997128 0 0
   VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
-  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1 0 0
+  MIDIEDITOR -116919545 0 0
   LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
@@ -26,10 +28,10 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/Users/samenglander/zcreate/Corona/flags 9:25:14/anthems/Australia.mp3"
+  RENDER_FILE "/Users/samenglander/_dev/colorflags/anthems/australia_1.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
-  RENDER_RANGE 2 0 0
+  RENDER_RANGE 2 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -41,7 +43,7 @@
   TAKELANE 3
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    bDNwbSAAAAABAAAA/////wAAAAAAAAAAQAEAAAAAAAA=
+    bDNwbSAAAAABAAAABQAAAAAAAAAAAAAAQAEAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -49,17 +51,18 @@
     FREQ 800 1600 1
     BEATLEN 4
     SAMPLES "" ""
+    PATTERN 2863311530 2863311529
   >
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 32 0
+  SELECTION2 32 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.524752 0.5 -1 -1 -1
+  MASTERTRACKVIEW 0 0.6667 0.524752 0.5 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -91,7 +94,7 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.524752 1 0.5 -1 -1 -1
+    SHOWINMIX 1 0.6667 0.524752 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
     REC 0 0 0 0 0 0 0
@@ -102,9 +105,9 @@
     FX 1
     TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
     PERF 0
-    AUXRECV 1 0 1 0 0 0 0 0 0 -1 32 -1 ''
-    AUXRECV 2 0 0.98827363418181 0 0 0 0 0 0 -1 64 -1 ''
-    AUXRECV 3 0 1.04209781592958 0 0 0 0 0 0 -1 96 -1 ''
+    AUXRECV 1 0 1 0 0 0 0 0 0 -1:U 32 -1 ''
+    AUXRECV 2 0 0.98827363418181 0 0 0 0 0 0 -1:U 64 -1 ''
+    AUXRECV 3 0 1.04209781592958 0 0 0 0 0 0 -1:U 96 -1 ''
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
@@ -112,17 +115,19 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 ""
-        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAC7AgAAAQAAAAAAEABDRUdQKhcAAHic7Vhdb9owFH3nV1h52h4abPORRQIqRsuENFQ0mLS3ygQ3teY4LHZYu18/
-        xyEQStsYib2M+CW2c3zvPfcmPpZ7108RBxuaSBaLvoNc6IDrQaM3TBiZkw0tvepC7AwaQLfenCrFRCjBr5Rwpp71WweEPF4SPou5HrawA6RKKIk0LB9G5GluZoacx8H0
-        c9/pID09ndxM7lI1jVfUWCGpiiOitMs5j1Xf0fHIQL/JsDIgnOgpBK4AzVy7MuDb6REViiZ9pwuLSBapMM6hC01zQLMIX1sGbGWMCxLRzKQLZmlCweiRrZt4CH80v82y
-        B/iQCs4ipujqowOWRPyc6HUIQt8BwSMRgnJjZm1oo64D1JHb9fI+ISLUbq7QblLpKbmOJTXLo1TlHfn7nhNpeOfBmoCnhIki4A3hKTWVOmR1CEQ74BH9QyC2BbZsgW1b
-        YMcW2LUFerbAT7ZA3xaIoDXSujbIujjIujrIujyoqj4zkpBoa3QfKcKvoxckCana/m9BHLkzHocpdbOdxv06vnNTSZPyV29WjVKp94MboghQz2u9EuNWVydQsj960M7q
-        WGxQ2h8VK0by7kov0Z2ijfMHhudthxSbOcdTSaMLIb1IWBjSZK63bioCmlTSRh5GfkG745Vo49dooy3rbcvHnum3Rt7YPyAxgq3xP0xEr5mJzEu9QefRG1TrTa03td68
-        rzd7tA/3ucK1Np1EutamN2j/d9qEz6NNeKdNe2nq1NJUS9OFSFNVnHtkuUI+9NoQvyl35YR23ndf9VucQ0RblVhkHYUPq6pQxnZPsOtViH4Z69vbLX0LlRnGsPyB404F
-        uCoT9TGlPqZc6DHl9uGBBur44nYYLVmWiZfnkeKq98v3SbGABIpt6CS/VsbF+HZ/zUy5dkFXC7I0Y22i1yzuwQeNv5frmngAQ2hpcEFudGhlbTJfY2hhbm5lbHMzABAA
-        AAA=
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 "" 1347176271
+        T0dMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADuAgAAAQAAAAAAEAA=
+        Q0VHUFAVAAB4nO1YXW+bMBR976+weNoeCjaEEKSkVZY2U6RFjZZM2lvlgEutGZOBydb9+l0gJN4U5jy00lrFL9iX449z4J4reXj9MxVoy/KCZ3JkERtb6PrqYjjOOV3S
+        LdNehaRvoU2exWWkZjcQwDi0ri4QtOGSKcVlUqDvJRVcPcFbCxUqZzSF8MjyXAul9OeyjoyFyKL5h5HlEwjPZzezu1LNs5jVs2ipspQq2HMpMjWysB4SbMvEyOIS1i5T
+        JpWFBN+yZjIgiwjWIF7VoYJCiKBLxKpD2UUkduEJzGP5yOrDhERkaypWpayPCQGnZQSbIx7XMUnTanlio0WZMzR55BvHHeOvzudF9UDvSil4yhWL31toTeW3WbyTR5Nv
+        4ALZ6JFKWTGAVTeZqHQCUdVh+836Pqcyge0uQYuNgkFRv0i1bhYp+DR7wpW2pdqNf9wLWtSyNURqMnPKZUtmS0XZKO0cQ5A9AncgXCPCMyJ6RoRvRPSNiMCIGBgRoRFB
+        sBliVpWYZSVmXYlZWNKp7ILmNN3tRLp+lBXNE6Z2KRFlqb0QWVIye5XzJGH5EpKNyYjl2u9Xz5uUBSTxDVUUPaqnDUzueb0qUfkv6Lu+liqgBJMxp7I+YQxTquTDdZvu
+        WjMO6r43CaYh1tsEe9M/j+005z6BSOV89qfpnV0WLMdmGn7ghy2N3kCjgY/RaNu0ebj4eduzkCZvh/TQqXz8b0snL2Lp5GzpZ0t/jZZ+AIX4QNw9zffPdvmG7PKfpF9T
+        hT/u++6L+L679/2D7ftn2z/b/v9g+51nOUA0be0QBz1MwmAQ9kM/6HUWE00o2+/cu/MfPV6WsD1okpuQ0MWhG55Sprxu0EkFr1NmHdQ/ZaWgq3TqoPCElbTv2q2bi3Xh
+        3M6PAMBOiueafq7pr7Sm3z48sEjpl3S7+tlQHKdrXhEy1PD2su/jl1m7DI0U37JZc/fotuPb/V1kwQRszOIVXbf5NHTa29Kri99Jv1ob
+        AENoaXBBbnRoZW0yX2NoYW5uZWxzMwAQAAAA
       >
+      PRESETNAME ChipAnthem2_channels3
       FLOATPOS 445 269 871 509
       FXID {8431A072-55F4-FD4E-8B7D-D2D9F1493C94}
       WAK 0
@@ -138,7 +143,7 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.524752 1 0.5 -1 -1 -1
+    SHOWINMIX 1 0.6667 0.524752 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
     REC 0 0 0 0 0 0 0
@@ -170,15 +175,15 @@
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 26173599
+      TAKECOLOR 26173599 B
       GUID {0FBF1893-303E-6842-9921-0362DF6E54DF}
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {B3A04EB7-6F74-7F4F-B932-DF28E1ED186E}
-        <X 0 0
+        <X 0 0 0 0 3 trumpet(s)
           /wN0cnVtcGV0KHMp
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         e 0 90 43 7f
@@ -326,9 +331,9 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 5
         VELLANE -1 86 6
-        CFGEDITVIEW 27112.48934 112.241475 41 20 0 0 0 0 0
-        KEYSNAP 0 0 102034050607 0 Major
-        TRACKSEL 226 0 0 ""
+        CFGEDITVIEW 27112.48934 112.241475 41 20 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 490 220 1770 994 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
       >
@@ -342,10 +347,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {E07D7CB2-5425-F64D-9E21-E0BBDBF71394}
-        <X 0 0
+        <X 0 0 0 0 3 trumpet(s)
           /wN0cnVtcGV0KHMp
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 90 43 67
@@ -506,7 +511,7 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.524752 1 0.5 -1 -1 -1
+    SHOWINMIX 1 0.6667 0.524752 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
     REC 0 0 0 0 0 0 0
@@ -537,15 +542,15 @@
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 26173599
+      TAKECOLOR 26173599 B
       GUID {2187141D-D179-6A46-BE25-AFFCE939A1B7}
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {34E23752-899E-B54F-92A9-C51A6A11BD51}
-        <X 0 0
+        <X 0 0 0 0 3 "fr. horn(s)"
           /wNmci4gaG9ybihzKQ==
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 91 37 7f
@@ -863,9 +868,9 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 6
         VELLANE -1 86 6
-        CFGEDITVIEW 30310.797269 391.841545 52 20 0 0 0 0 0
-        KEYSNAP 0 0 102034050607 0 Major
-        TRACKSEL 226 0 0 ""
+        CFGEDITVIEW 30310.797269 391.841545 52 20 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 490 220 1770 994 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
       >
@@ -879,10 +884,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {F5D94F32-F16C-324D-BCA6-847D5E3D7531}
-        <X 0 0
+        <X 0 0 0 0 3 "fr. horn(s)"
           /wNmci4gaG9ybihzKQ==
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         e 0 91 37 4a
@@ -1202,9 +1207,9 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 14
         VELLANE -1 86 6
-        CFGEDITVIEW 0 0 53 12 0 0 0 0 0
-        KEYSNAP 0 0 102034050607 0 Major
-        TRACKSEL 226 0 0 ""
+        CFGEDITVIEW 0 0 53 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 490 220 1770 994 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
       >
@@ -1220,9 +1225,9 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.524752 1 0.5 -1 -1 -1
+    SHOWINMIX 1 0.6667 0.524752 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -1251,15 +1256,15 @@
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 26173599
+      TAKECOLOR 26173599 B
       GUID {589144BE-5168-F346-A8BF-18FF702D2D42}
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {0CACE8C4-6A5C-EC47-8DC1-E4109D22F2F0}
-        <X 0 0
+        <X 0 0 0 0 3 trombone(s)
           /wN0cm9tYm9uZShzKQ==
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         e 0 92 37 7f
@@ -1387,9 +1392,9 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 7
         VELLANE -1 86 6
-        CFGEDITVIEW 23762.050128 91.12982 57 20 0 0 0 0 0
-        KEYSNAP 0 0 102034050607 0 Major
-        TRACKSEL 226 0 0 ""
+        CFGEDITVIEW 23762.050128 91.12982 57 20 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 490 220 1770 994 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
       >
@@ -1403,10 +1408,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {B77D6528-E5B0-9446-AD5A-06598D4E2468}
-        <X 0 0
+        <X 0 0 0 0 3 trombone(s)
           /wN0cm9tYm9uZShzKQ==
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 92 37 4f
@@ -1547,7 +1552,7 @@
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
-    SHOWINMIX 0 0.6667 0.524752 1 0.5 -1 -1 -1
+    SHOWINMIX 0 0.6667 0.524752 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
     REC 0 0 0 0 0 0 0
@@ -1582,10 +1587,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {433E0F96-2EBB-F842-A451-610FABDF9D42}
-        <X 0 0
+        <X 0 0 0 0 3 "strings (mid)"
           /wNzdHJpbmdzIChtaWQp
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 95 37 52
@@ -1903,10 +1908,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {29E830F8-6999-7946-86EB-435B6BD20CA3}
-        <X 0 0
+        <X 0 0 0 0 3 "strings (bass)"
           /wNzdHJpbmdzIChiYXNzKQ==
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         e 0 96 2b 52
@@ -2034,9 +2039,9 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 11
         VELLANE -1 86 6
-        CFGEDITVIEW 0 13.463415 84 12 0 0 0 0 0
-        KEYSNAP 0 0 102034050607 0 Major
-        TRACKSEL 226 0 0 ""
+        CFGEDITVIEW 0 13.463415 84 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 0 0 0 0 0 1 0 1 0 0 0.5 216 162 1496 936 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
       >
@@ -2063,10 +2068,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {851D67A7-4F04-0A4B-8D3D-6524462758F9}
-        <X 0 0
+        <X 0 0 0 0 3 "strings (hi)"
           /wNzdHJpbmdzIChoaSk=
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 94 4f 4b
@@ -2378,10 +2383,10 @@
       <SOURCE MIDI
         HASDATA 1 480 QN
         POOLEDEVTS {EE8E5816-9FC5-984C-A0D4-6A441AC4F63C}
-        <X 0 0
+        <X 0 0 0 0 3 tuba(s)
           /wN0dWJhKHMp
         >
-        <X 0 0
+        <X 0 0 0 0 4 "Sound Canvas"
           /wRTb3VuZCBDYW52YXM=
         >
         E 0 93 2b 5d
@@ -2512,61 +2517,14 @@
       >
     >
   >
-  <TRACK {6114D252-954B-CD4B-9004-80AE1C0EF062}
-    NAME "28 Australia"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 0 0.6667 0.524752 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {6114D252-954B-CD4B-9004-80AE1C0EF062}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0.00000000001
-      SNAPOFFS 0
-      LENGTH 89
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {B69FB547-1DFC-D24D-A9EC-98829A7CD119}
-      IID 12
-      NAME "28 Australia.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.22
-      PLAYRATE 1.34591760299626 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {00BA940F-BFEC-5643-9EFC-05045A46BFB1}
-      <SOURCE MP3
-        FILE "28 Australia.mp3" 1
-      >
-    >
-  >
   <EXTENSIONS
     <SWSAUTOCOLOR
-      {00000000-0000-0000-0000-000000000000} 0 ""
-      {F4CC3575-1D7D-424F-8F4B-C71B325A2484} 0 ""
-      {E867E614-637E-734B-8133-1BC8886C935D} 0 ""
-      {6114D252-954B-CD4B-9004-80AE1C0EF062} 0 ""
-      {39EDA317-BB2F-034E-99CE-1D9E88E5D701} 0 ""
-      {AFA58D8C-D0D2-2546-AEEF-5BB487F857F6} 0 ""
-      {2D2ACE26-AB55-DA4A-BD4B-B8C294A4ECFE} 0 ""
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {F4CC3575-1D7D-424F-8F4B-C71B325A2484} 0 "" "" ""
+      {E867E614-637E-734B-8133-1BC8886C935D} 0 "" "" ""
+      {39EDA317-BB2F-034E-99CE-1D9E88E5D701} 0 "" "" ""
+      {AFA58D8C-D0D2-2546-AEEF-5BB487F857F6} 0 "" "" ""
+      {2D2ACE26-AB55-DA4A-BD4B-B8C294A4ECFE} 0 "" "" ""
     >
   >
 >

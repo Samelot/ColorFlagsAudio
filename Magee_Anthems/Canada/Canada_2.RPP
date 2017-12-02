@@ -1,0 +1,2107 @@
+<REAPER_PROJECT 0.1 "5.50rc21/OSX64" 1511881521
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 436
+  PEAKGAIN 1.331
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174207 8 0.25 8 0.25 0 0 0
+  TIMEMODE 6 0 -1 24 2
+  PANMODE 3
+  CURSOR 0
+  ZOOM 12.97687269808043 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1 0 0
+  MIDIEDITOR -116919545 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/samenglander/_dev/colorflags/anthems/canada_2.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbSAAAAABAAAABQAAAAAAAAAAAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 16 0
+  SELECTION2 16 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 86
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 0 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F23F8223-271A-294D-A229-F474D58B7A97}
+    NAME "vst Gladiator"
+    PEAKCOL 27222112
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.45309238622556 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F23F8223-271A-294D-A229-F474D58B7A97}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Gladiator (Tone2.com)" Gladiator.vst 0 "" 1412581196
+        TEcyVO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABaBAAAAQAAAAAAEAA=
+        Q2NuSwAAAGBGeENrAAAAAVQyR0wAAAABAAABB0luaXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9zMzNPMzMzTw0OVg9uFH0PXnbIz+AAAA7xJumPb52yT+AAAA7xJum
+        AAAAAD6mZmY+PXCkP4AAAD7FHrk/AAAAPwAAAAAAAAA9ffO2PdDlYDy8an8/RR64AAAAAD+AAAA8NDlYPZFocz71wo87RJumPbhR6D69cKQ+PXCkP4AAAD8AAAA/A9cL
+        PwAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPtmZmj8AAAAAAAAAO+VgQj24UesAAAAAPk21xDtEm6Y/S4UeAAAAAAAAAAA+64UgPpR64T1hR7A+z1woPx64Uj49cKY/AAAA
+        PwAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAP4AAAD+AAAAAAAAAPxHrhT8AAAA/AAAAPwAAAD8AAAAAAAAAPwAAAD8AAAA/AAAAAAAAAD8AAAA/AAAAPwAAAAAAAAA6gxJv
+        P1Cj1wAAAAA/gAAAAAAAADqDEm8/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAA/gAAAAAAAAD+AAAAAAAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAA
+        PwAAAD8AAAA/EeuGPKPXCjqDEm88RJumAAAAAAAAAAAAAAAAPLxqfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAA8E3S8AAAAADw0OVgAAAAAPBN0vAAAAAA8NDlYAAAAADwTdLwAAAAAPDQ5WAAAAAA8E3S8AAAAADw0OVgAAAAAPGVgQj2HKwI8ZWBCOwMSbz2JN0w7AxJv
+        PLQ5WDyLQ5Y8k3S8PVT99D0XjVA8zMzNPoAAAD9ywjU/AAAAP1GnuT8wjT4/HLCNAAAAADsDEm86gxJvAAAAAAAAAAAAAAAAPwAAADqDEm87RJumP4AAAAAAAAA/gAAA
+        AAAAAD+AAAAAAAAAAAAAAAAAAAAAAAAAP4AAAAAAAAA/AAAAAAAAAD8AAAA/BR64PwAAAD+AAAA/AAAAPwAAAD8AAAA/gAAAP4AAAAAAAAAAAAAAAAAAAD8AAAA/gAAA
+        PwAAAAAAAAA+vXCkAAAAAAAAAAA/gAAAP4AAAD8j1wo/gAAAAAAAAAAAAAA/gAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqqusrQ==
+        AEluaXQAEAAAAA==
+      >
+      PRESETNAME Init
+      FLOATPOS 500 379 987 799
+      FXID {532372E3-5B0D-9345-A9C8-98A8EBAF9A7E}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0.000000000015
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.090909 0.090909
+      IGUID {FEEB1E8A-A4D3-1D4F-B1A6-5B3DE1E32E50}
+      IID 15
+      NAME "tuba                 - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7611058-167C-644E-9A1E-FBAE3418CECF}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {323BA179-C751-C544-90B4-670D1B6B3EB6}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        e 0 92 33 7f
+        e 358 92 33 00
+        e 27 92 32 7f
+        e 361 92 32 00
+        e 23 92 30 7f
+        e 182 92 30 00
+        e 3 92 2b 7f
+        e 182 92 2b 00
+        e 10 92 30 7f
+        e 175 92 30 00
+        e 19 92 32 7f
+        e 161 92 32 00
+        e 31 92 33 7f
+        e 184 92 33 00
+        e 8 92 30 7f
+        e 179 92 30 00
+        e 14 92 2b 7f
+        e 171 92 2b 00
+        e 21 92 2c 7f
+        e 153 92 2c 00
+        e 34 92 2e 7f
+        e 612 92 2e 00
+        e 164 92 33 7f
+        e 189 92 32 7f
+        e 4 92 33 00
+        e 188 92 32 00
+        e 1 92 30 7f
+        e 187 92 30 00
+        e 3 92 32 7f
+        e 179 92 32 00
+        e 14 92 2b 7f
+        e 184 92 2b 00
+        e 5 92 32 7f
+        e 177 92 32 00
+        e 13 92 37 7f
+        e 197 92 37 00
+        e 0 92 36 7f
+        e 186 92 36 00
+        e 7 92 35 7f
+        e 353 92 35 00
+        e 29 92 29 7f
+        e 385 92 2e 7f
+        e 2 92 29 00
+        e 182 92 2e 00
+        e 12 92 29 7f
+        e 151 92 29 00
+        e 37 92 2e 7f
+        e 325 92 2e 00
+        e 59 92 2e 7f
+        e 3 82 2e 00
+        E 0 b0 7b 00
+        GUID {DE860D60-B176-2341-9B35-ACAA45B4CDF1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1379
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 52 33 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 0 47 1280 778 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 1
+      SEL 0
+      YPOS 0.727273 0.090909
+      IGUID {5FFD317E-3E8C-B544-8FA9-6CBCA1D141E4}
+      IID 24
+      NAME "strings (alto/tenor) - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {E54C6FEF-8A33-A048-A11E-A8BCAC43B255}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {2794EB67-D934-7B4C-82D1-B2DB579E6D8F}
+        <X 0 0 0 0 3 "strings (alto/tenor)"
+          /wNzdHJpbmdzIChhbHRvL3Rlbm9yKQ==
+        >
+        E 0 98 3a 7f
+        E 0 98 3f 7f
+        E 384 98 3f 00 13
+        E 0 98 41 7f 1
+        E 384 98 3a 00 18
+        E 0 98 41 00 4
+        E 0 98 37 7f 7
+        E 0 98 3c 7f 7
+        E 576 98 37 00 -11
+        E 0 98 3c 00 -16
+        E 0 98 3a 7f -7
+        E 0 98 3e 7f -4
+        E 192 98 3e 00 7
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3f 00 11
+        E 0 98 38 7f -4
+        E 0 98 3c 7f -4
+        E 192 98 38 00 7
+        E 0 98 3c 00 17
+        E 0 98 3a 7f -2
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3c 7f 5
+        E 144 98 3f 00 11
+        E 0 98 3c 00 -3
+        E 48 98 3a 7f -7
+        E 0 98 3f 7f -4
+        E 192 98 3f 00 -1
+        E 0 98 3e 7f -5
+        E 96 98 3e 00 4
+        E 0 98 3c 7f -3
+        E 96 98 3c 00 8
+        E 0 98 3e 7f -3
+        E 288 98 3a 00 7
+        E 96 98 3e 00 -3
+        E 0 98 3a 7f -5
+        E 0 98 3f 7f -3
+        E 336 98 3f 00 17
+        E 48 98 3a 00 5
+        E 0 98 39 7f
+        E 0 98 3f 7f -3
+        E 192 98 3f 00 7
+        E 0 98 41 7f -3
+        E 192 98 39 00 -5
+        E 0 98 41 00 -3
+        E 0 98 3a 7f
+        E 0 98 3e 7f
+        E 576 98 3a 00 -2
+        E 0 98 3e 00
+        E 0 98 3a 7f -7
+        E 0 98 3f 7f -6
+        E 192 98 3a 00 -7
+        E 0 98 3f 00 -3
+        E 0 98 3a 7f
+        E 0 98 41 7f
+        E 384 98 3a 00 -5
+        E 0 98 41 00 -7
+        E 0 98 39 7f -3
+        E 0 98 3f 7f -4
+        E 384 98 39 00 -10
+        E 0 98 3f 00 -2
+        E 0 98 3a 7f -9
+        E 0 98 3e 7f -6
+        E 480 98 3a 00 23
+        E 48 98 3e 00 -17
+        E 48 98 3a 7f 2
+        E 0 98 3e 7f 2
+        E 192 88 3a 00
+        E 0 88 3e 00
+        E 0 b0 7b 00
+        GUID {D4771E75-342E-FB4B-94F4-DCC73B8836BA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1380
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 61 35 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 134 98 1414 829 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16.000000000015
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 1
+      SEL 0
+      YPOS 0 0.090909
+      IGUID {460A5A84-A451-7945-8EDE-F15BD8B691C6}
+      IID 14
+      NAME "trumpet              - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C26DEE60-3521-CC43-9E31-56338FFFD47E}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {551E1B19-7522-B147-8E6C-CCFC999F3C91}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        E 0 91 43 7f
+        E 359 91 43 00
+        E 25 91 46 7f
+        E 264 91 46 00
+        E 27 91 46 7f
+        E 59 91 46 00
+        E 39 91 3f 7f
+        E 510 91 3f 00
+        E 56 91 41 7f
+        E 169 91 41 00
+        E 23 91 43 7f
+        E 172 91 43 00
+        E 21 91 44 7d
+        E 156 91 44 00
+        E 35 91 46 7f
+        E 161 91 46 00
+        E 31 91 48 7e
+        E 146 91 48 00
+        E 46 91 41 7f
+        E 607 91 41 00
+        E 161 91 43 7f
+        E 379 91 43 00
+        E 9 91 45 7f
+        E 269 91 45 00
+        E 27 91 45 7f
+        E 61 91 45 00
+        E 28 91 46 7f
+        E 525 91 46 00
+        E 47 91 48 7f
+        E 169 91 48 00
+        E 23 91 4a 7f
+        E 151 91 4a 00
+        E 39 91 4a 79
+        E 179 91 4a 00
+        E 17 91 48 78
+        E 164 91 48 00
+        E 28 91 48 7b
+        E 154 91 48 00
+        E 40 91 46 7f
+        E 494 91 46 00
+        E 76 91 41 7f
+        E 116 91 41 00
+        E 27 91 43 7f
+        E 33 91 43 00
+        E 19 91 44 7f
+        E 3 81 44 00
+        E 0 b0 7b 00
+        GUID {1C551F15-1059-8046-9249-8F547A9F4D9A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 982
+        VELLANE -1 86 6
+        CFGEDITVIEW -307.2 50.227273 52 33 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 134 98 1414 829 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+  >
+  <TRACK {A26B8C2D-9EE6-0440-AA6B-121F89FB50DD}
+    NAME "16th pulse (mix w/ send?)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.97780055932399 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A26B8C2D-9EE6-0440-AA6B-121F89FB50DD}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 36 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 "" 1347176271
+        T0dMUO5e7f4AAAAABAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAtgMAAAEAAAAAABAA
+        Q0VHUEgfAAB4nO2ZS2/bRhDH7/4UBE/NIdS+H4DkwJGsQkCdGJB6DlbURibCh8qHmvTTd0RK1irxmnGCogXK/0XL4czu7Kw04g8cv/mcpcHellVS5JMQRygM3lxfjW/K
+        xCzN3jq3NBZhsCuLTRPXixkYENLh9VUAGi9tXSf5tgr+aEya1F/gbhhUdWlNBuZJSEkYZObzsrXcpGkR372dhByD+W4xW7xv6rtiY9so09RFZmpYc5kW9SRErim1e5tO
+        wiSHuZvM5nUYpMnedsHgWcUwB5fkMDKpARsOXgf2kFVUxenRPIVAW05CARHbtFibdNXkbZ5gGJ22BKsHyaa15SY7zI+j4L4pbTB9SHaj5WI2Elzh4Jd3q+X0VRisTf5p
+        sTnWxambIpBO/GDy/JD6a9jirkihQiwM6vOyu/WH0uRbe/So4aJqb2TOsIhrOJPHncJ5ZE3dla3680NqKqiXPJ5Ju4k7k+SnTexN2nS+o6c88KMH8niQXg/a68F6PXiv
+        h+j1kL0eqtdD93pg1O/SX1XcX1bcX1fcX1jsrey9KU32/BGfXbwLnV2c8keKcwTCGknKlKC+GLeYEdNtEGJSKCoPfcezkFPeCBPdihOKBVHMG8TcINqtxKlgDCtvjHBj
+        VBdDqIIQ7g9yvmQRbKZLTylFGOSKfWHKXYu2KyGMNUGaaG+MfnmMRhd76rKTAkNPY8R7TBT7OsnKlFtbH3tlXGTRfVpsGxsd/kqi3+bvo6ayJXK6Uxs1bSpo7jNTm+Ch
+        /rKDUC455Fwlf8GYCea0UkjY5pvEdMMNxMDgpHn3QdCgQYP+K7rsEaOuSby0a+Chawwa9P/Rj3aNVZlst7ZcAvHZPLZlf99glNFT3yDcaRvkqbaBu/TmR3XXsh3TqZzr
+        i01MEZ0/s5Hx6ICYX9Mm/odok5xpE/8sbiIHN8WAmwNu/ihu4gtAwkLI9ofDkEZUeMHF2UGkEecAOpITpajGXqhymY9IJhDXSjMuMBBmP8Z6p72gVu6dyHtyHpTlrINm
+        IZQGmvNPTN0CanYETCSBtr05X/Av7SreT9rcTa8jbYmp0lI+k573p/NztPsMhLp4e666H2fh0W/g2UGDBn2fBp4dNGjQy/Tv8KxwyfC7eLZ97JTQROa33/JsKyLp2wvD
+        HCj34Ku+cQXr7KkZELmc4SWcfPvxo41r993skUy70t1k6+RQqB4+Pr3j/fX3xWkaE9fJ3i66d874dH37+A66siksbDcrsz49T45Hp7fk11d/Awma8to=
+        AAAQAAAA
+      >
+      FLOATPOS 409 269 870 508
+      FXID {DC79668B-30D1-964C-A162-F245DBE294B0}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: 8-Bit Shaper (Xfer Records)" 8BitShaper.vst 0 "" 1148539762
+        clN1RO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAQAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAADQCAAABAAAAAAAQAA==
+        ZmaGP20MlT7dQQw/AAAAPyQAAAAAAIA/AAAAAAAAKEAXAAAAMAAAABkAAAAaAAAAGgAAABoAAAAbAAAAGwAAABwAAAAcAAAAHAAAAB0AAAAdAAAAHgAAAB4AAAAfAAAA
+        HwAAACAAAAAgAAAAIAAAACEAAAAhAAAAIQAAACIAAAAiAAAAIgAAACMAAAAjAAAAIwAAACQAAAAkAAAAJAAAACUAAAAlAAAAKAAAACgAAAApAAAAKQAAACoAAAA1AAAA
+        KgAAACoAAAA2AAAAKgAAACoAAAAqAAAAKgAAACoAAAAqAAAAKgAAACsAAAArAAAAOQAAAC0AAAA0AAAAOgAAAC0AAAAtAAAAPAAAAC4AAAAuAAAALwAAADAAAAAwAAAA
+        MQAAADEAAAAxAAAAMgAAADMAAAAzAAAAMwAAADcAAAA3AAAANwAAADgAAAA4AAAAOAAAADkAAAA5AAAAOQAAADoAAAA6AAAAOgAAADoAAAA6AAAAOwAAADsAAAA7AAAA
+        PAAAADsAAAA7AAAAOwAAADwAAAA8AAAAPAAAADwAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAD4AAAA+AAAAPwAAAEkAAABAAAAAQAAAAEgAAABAAAAAQQAAAEIAAABCAAAA
+        QgAAAEMAAABDAAAAQwAAAEQAAABEAAAARQAAAE0AAABGAAAARwAAAEYAAABHAAAASAAAAEgAAABJAAAATwAAAAAAgD+rqqo+q6qqPh0Fwz6OAm0/
+        AEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {F266B6DB-8B14-C341-B79D-2E9B88E40785}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {36A97F66-E0E4-DC40-9082-2132CEECF0FD}
+      IID 311
+      NAME "strings (melody)     - National_Anthems_-_Canada.mid glued"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA2C131D-4D65-9F49-B462-09CC64851BA1}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {43C1072D-3500-8048-B656-23A89006EB52}
+        <X 0 0 0 0 3 "strings (melody)    "
+          /wNzdHJpbmdzIChtZWxvZHkpICAgIA==
+        >
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 240 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 3f 7f
+        e 240 87 3f 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 44 7f
+        e 240 87 44 00
+        e 0 97 44 7f
+        e 240 87 44 00
+        e 0 97 44 7f
+        e 240 87 44 00
+        e 0 97 44 7f
+        e 240 87 44 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 0 97 41 7f
+        e 240 87 41 00
+        e 480 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 43 7f
+        e 240 87 43 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 240 97 45 7f
+        e 240 87 45 00
+        e 0 97 45 7f
+        e 240 87 45 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 4a 7f
+        e 240 87 4a 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 240 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 48 7f
+        e 240 87 48 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        e 0 97 46 7f
+        e 240 87 46 00
+        E 1200 b0 7b 00
+        GUID {29AA9DC4-6F22-CD4A-9A98-85346A714905}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1371
+        VELLANE -1 86 6
+        CFGEDITVIEW -1536 48.409091 52 31 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 1 166 130 1414 829 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD153495-BE01-C841-A360-F666C0523A51}
+      IID 183
+      NAME "strings (alto/tenor) - National_Anthems_-_Canada.mid glued"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19219092-1349-F14E-A244-D58ED89AC1B5}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {A062AB43-B984-124E-9D32-E81A1BEA87D8}
+        <X 0 0 0 0 3 "strings (alto/tenor)"
+          /wNzdHJpbmdzIChhbHRvL3Rlbm9yKQ==
+        >
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 37 7f
+        E 0 90 3c 7f
+        E 240 80 37 00
+        E 0 80 3c 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 38 7f
+        E 0 90 3c 7f
+        E 240 80 38 00
+        E 0 80 3c 00
+        E 0 90 38 7f
+        E 0 90 3c 7f
+        E 240 80 38 00
+        E 0 80 3c 00
+        E 0 90 38 7f
+        E 0 90 3c 7f
+        E 240 80 38 00
+        E 0 80 3c 00
+        E 0 90 38 7f
+        E 0 90 3c 7f
+        E 240 80 38 00
+        E 0 80 3c 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3f 7f
+        E 0 90 3c 7f
+        E 240 80 3c 00
+        E 0 80 3f 00
+        E 0 90 3c 7f
+        E 0 90 3f 7f
+        E 240 80 3c 00
+        E 0 80 3f 00
+        E 0 90 3c 7f
+        E 0 90 3f 7f
+        E 240 80 3c 00
+        E 0 80 3f 00
+        E 240 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3c 7f
+        E 240 80 3a 00
+        E 0 80 3c 00
+        E 0 90 3a 7f
+        E 0 90 3c 7f
+        E 240 80 3a 00
+        E 0 80 3c 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3e 7f
+        E 240 80 3e 00
+        E 0 90 3e 7f
+        E 240 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 240 80 3a 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 41 7f
+        E 240 80 39 00
+        E 0 80 41 00
+        E 0 90 39 7f
+        E 0 90 41 7f
+        E 240 80 39 00
+        E 0 80 41 00
+        E 0 90 39 7f
+        E 0 90 41 7f
+        E 240 80 39 00
+        E 0 80 41 00
+        E 0 90 39 7f
+        E 0 90 41 7f
+        E 240 80 39 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3f 7f
+        E 240 80 3a 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 3a 7f
+        E 0 90 41 7f
+        E 240 80 3a 00
+        E 0 80 41 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 39 7f
+        E 0 90 3f 7f
+        E 240 80 39 00
+        E 0 80 3f 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3e 7f
+        E 240 80 3e 00
+        E 240 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 90 3a 7f
+        E 0 90 3e 7f
+        E 240 80 3a 00
+        E 0 80 3e 00
+        E 0 b0 7b 00
+        GUID {2002B5FC-46F1-FA44-8A2F-22BCA40420A4}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1242
+        VELLANE -1 86 6
+        CFGEDITVIEW -1536 49.318182 61 34 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 1 1 1 150 114 1414 829 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {D4259754-8A5D-ED42-9EF0-7FA3B62785A4}
+    NAME "vst Plogue"
+    PEAKCOL 26779488
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 1 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 8
+    FX 1
+    TRACKID {D4259754-8A5D-ED42-9EF0-7FA3B62785A4}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 32 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 96 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 64 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 128 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 160 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Multi) (Plogue Art et Technologie, Inc) (32 out)" "chipsounds Multi.vst" 0 "" 1347241807
+        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
+        AAAQAAAA
+      >
+      FLOATPOS 275 269 870 508
+      FXID {C804D762-B992-A540-81BF-3D6C0F7FF19B}
+      WAK 0
+    >
+  >
+  <TRACK {33AD5A6D-2EE0-8449-9F1A-2F36FB5D6DDB}
+    NAME "midi "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 1 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {33AD5A6D-2EE0-8449-9F1A-2F36FB5D6DDB}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {F21395F9-F67E-E94E-A650-3CA2FF3EBDD0}
+    NAME "ch1,3 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F21395F9-F67E-E94E-A650-3CA2FF3EBDD0}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0.000000000015
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.636364 0.090909
+      IGUID {924235CD-CD41-2242-927D-C131C32CB04A}
+      IID 23
+      NAME "strings (melody)     - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {19A224AC-D66D-B145-A15A-B9DA62923E3B}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {AEB815A3-EE03-874B-8BC0-D2FF03928C6F}
+        <X 0 0 0 0 3 "strings (melody)    "
+          /wNzdHJpbmdzIChtZWxvZHkpICAgIA==
+        >
+        E 0 97 43 7c
+        E 384 97 43 00 3
+        E 0 97 46 7c -7
+        E 240 97 46 00 17
+        E 48 97 46 7c -6
+        E 96 97 46 00 10
+        E 0 97 3f 7c 1
+        E 576 97 3f 00 -17
+        E 0 97 41 7c -8
+        E 192 97 41 00 5
+        E 0 97 43 7c -5
+        E 192 97 43 00 -8
+        e 0 97 44 7c
+        e 192 97 44 00 -15
+        E 0 97 46 7c -9
+        E 192 97 46 00 2
+        E 0 97 48 7c -9
+        E 192 97 48 00 7
+        E 0 97 41 7c -5
+        E 672 97 41 00 9
+        E 96 97 43 7c 1
+        E 384 97 43 00 6
+        E 0 97 45 7c
+        E 240 97 45 00 21
+        E 48 97 45 7c -2
+        E 96 97 45 00 15
+        E 0 97 46 7c 2
+        E 576 97 46 00 -5
+        E 0 97 48 7c -5
+        E 192 97 48 00 8
+        E 0 97 4a 7c
+        E 192 97 4a 00 -18
+        E 0 97 4a 7c
+        E 192 97 4a 00 6
+        E 0 97 48 7c -1
+        E 144 97 48 00 21
+        E 48 97 48 7c -5
+        E 192 97 48 00 11
+        E 0 97 46 7c -3
+        E 528 97 46 00 -14
+        E 240 b0 7b 00
+        GUID {383EC7B5-B57F-A148-999E-CD5F247E0F0E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1020
+        VELLANE -1 86 6
+        CFGEDITVIEW -746.689418 18.912736 56 35 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 134 98 1414 829 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+      TAKE
+      NAME "strings (melody)     - National_Anthems_-_Canada.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53FEB8B4-88E7-2342-846B-CF64341BE6E7}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {A9B9E673-20F9-2349-A0E2-196AF86E7708}
+        <X 0 0 0 0 3 "strings (melody)    "
+          /wNzdHJpbmdzIChtZWxvZHkpICAgIA==
+        >
+        e 0 97 43 7c
+        e 377 97 46 7c
+        e 10 97 43 00
+        e 254 97 46 00
+        e 25 97 46 7c
+        e 103 97 3f 7c
+        e 9 97 46 00
+        e 549 97 3f 00
+        e 9 97 41 7c
+        e 195 97 43 7c
+        e 10 97 41 00
+        e 154 97 44 7c
+        e 25 97 43 00
+        e 191 97 46 7c
+        e 9 97 44 00
+        e 183 97 48 7c
+        e 11 97 46 00
+        e 185 97 41 7c
+        e 12 97 48 00
+        e 674 97 41 00
+        e 88 97 43 7c
+        e 383 97 45 7c
+        e 6 97 43 00
+        e 255 97 45 00
+        e 25 97 45 7c
+        e 100 97 46 7c
+        e 13 97 45 00
+        e 556 97 46 00
+        e 0 97 48 7c
+        e 197 97 4a 7c
+        e 8 97 48 00
+        e 166 97 4a 00
+        e 18 97 4a 7c
+        e 191 97 48 7c
+        e 7 97 4a 00
+        e 159 97 48 00
+        e 22 97 48 7c
+        e 194 97 46 7c
+        e 14 97 48 00
+        e 503 97 46 00
+        E 254 b0 7b 00
+        GUID {F2BEC651-C80C-5C49-AEBE-88A1B7CE3AD2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1099
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 52 33 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 602 326 1882 1057 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {6CCBCBB4-02B5-3C4F-AE95-8DD80AEC4A17}
+    NAME "ch2,4 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6CCBCBB4-02B5-3C4F-AE95-8DD80AEC4A17}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0.000000000015
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.727273 0.090909
+      IGUID {9EB9F048-742C-254F-A0C9-4EF41008B642}
+      IID 24
+      NAME "strings (alto/tenor) - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {C3D3D122-E8DA-904F-BCC4-DF8B767580D1}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {BE354015-8E39-7D4F-91D4-A7BF5D65A604}
+        <X 0 0 0 0 3 "strings (alto/tenor)"
+          /wNzdHJpbmdzIChhbHRvL3Rlbm9yKQ==
+        >
+        E 0 98 3a 7f
+        E 0 98 3f 7f
+        E 384 98 3f 00 13
+        E 0 98 41 7f 1
+        E 384 98 3a 00 18
+        E 0 98 41 00 4
+        E 0 98 37 7f 7
+        E 0 98 3c 7f 7
+        E 576 98 37 00 -11
+        E 0 98 3c 00 -16
+        E 0 98 3a 7f -7
+        E 0 98 3e 7f -4
+        E 192 98 3e 00 7
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3f 00 11
+        E 0 98 38 7f -4
+        E 0 98 3c 7f -4
+        E 192 98 38 00 7
+        E 0 98 3c 00 17
+        E 0 98 3a 7f -2
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3c 7f 5
+        E 144 98 3f 00 11
+        E 0 98 3c 00 -3
+        E 48 98 3a 7f -7
+        E 0 98 3f 7f -4
+        E 192 98 3f 00 -1
+        E 0 98 3e 7f -5
+        E 96 98 3e 00 4
+        E 0 98 3c 7f -3
+        E 96 98 3c 00 8
+        E 0 98 3e 7f -3
+        E 288 98 3a 00 7
+        E 96 98 3e 00 -3
+        E 0 98 3a 7f -5
+        E 0 98 3f 7f -3
+        E 336 98 3f 00 17
+        E 48 98 3a 00 5
+        E 0 98 39 7f
+        E 0 98 3f 7f -3
+        E 192 98 3f 00 7
+        E 0 98 41 7f -3
+        E 192 98 39 00 -5
+        E 0 98 41 00 -3
+        E 0 98 3a 7f
+        E 0 98 3e 7f
+        E 576 98 3a 00 -2
+        E 0 98 3e 00
+        E 0 98 3a 7f -7
+        E 0 98 3f 7f -6
+        E 192 98 3a 00 -7
+        E 0 98 3f 00 -3
+        E 0 98 3a 7f
+        E 0 98 41 7f
+        E 384 98 3a 00 -5
+        E 0 98 41 00 -7
+        E 0 98 39 7f -3
+        E 0 98 3f 7f -4
+        E 384 98 39 00 -10
+        E 0 98 3f 00 -2
+        E 0 98 3a 7f -9
+        E 0 98 3e 7f -6
+        E 480 98 3a 00 23
+        E 48 98 3e 00 -17
+        E 48 98 3a 7f 2
+        E 0 98 3e 7f 2
+        E 192 88 3a 00
+        E 0 88 3e 00
+        E 0 b0 7b 00
+        GUID {EE3D4E98-0874-4B4B-AF77-04356E2CE0A9}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1033
+        VELLANE -1 86 6
+        CFGEDITVIEW -307.2 50.227273 61 35 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 134 98 1414 829 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+      TAKE
+      NAME "strings (alto/tenor) - National_Anthems_-_Canada.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9F8010C-3626-B04D-896F-207001C9F866}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {A19C03F0-4635-194E-A4F7-C7012D1E12E5}
+        <X 0 0 0 0 3 "strings (alto/tenor)"
+          /wNzdHJpbmdzIChhbHRvL3Rlbm9yKQ==
+        >
+        E 0 98 3a 7f
+        E 0 98 3f 7f
+        E 384 98 3f 00 13
+        E 0 98 41 7f 1
+        E 384 98 3a 00 18
+        E 0 98 41 00 4
+        E 0 98 37 7f 7
+        E 0 98 3c 7f 7
+        E 576 98 37 00 -11
+        E 0 98 3c 00 -16
+        E 0 98 3a 7f -7
+        E 0 98 3e 7f -4
+        E 192 98 3e 00 7
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3f 00 11
+        e 0 98 38 7f -4
+        E 0 98 3c 7f -4
+        e 192 98 38 00 7
+        E 0 98 3c 00 17
+        E 0 98 3a 7f -2
+        E 0 98 3f 7f -2
+        E 192 98 3a 00 -9
+        E 0 98 3c 7f 5
+        E 96 98 3c 00 45
+        E 96 98 3f 00 -37
+        E 0 98 3a 7f -7
+        E 0 98 3f 7f -4
+        E 192 98 3f 00 -1
+        E 0 98 3e 7f -5
+        E 96 98 3e 00 4
+        E 0 98 3c 7f -3
+        E 96 98 3c 00 8
+        E 0 98 3e 7f -3
+        E 288 98 3a 00 7
+        E 96 98 3e 00 -3
+        E 0 98 3a 7f -5
+        E 0 98 3f 7f -3
+        E 384 98 3a 00 5
+        E 0 98 3f 00 -31
+        E 0 98 39 7f
+        E 0 98 3f 7f -3
+        E 192 98 3f 00 7
+        E 0 98 41 7f -3
+        E 192 98 39 00 -5
+        E 0 98 41 00 -3
+        E 0 98 3a 7f
+        E 0 98 3e 7f
+        E 576 98 3a 00 -2
+        E 0 98 3e 00
+        E 0 98 3a 7f -7
+        E 0 98 3f 7f -6
+        E 192 98 3a 00 -7
+        E 0 98 3f 00 -3
+        E 0 98 3a 7f
+        E 0 98 41 7f
+        E 384 98 3a 00 -5
+        E 0 98 41 00 -7
+        E 0 98 39 7f -3
+        E 0 98 3f 7f -4
+        E 384 98 39 00 -10
+        E 0 98 3f 00 -2
+        E 0 98 3a 7f -9
+        E 0 98 3e 7f -6
+        E 480 98 3a 00 23
+        E 0 98 3e 00 31
+        E 96 98 3a 7f 2
+        E 0 98 3e 7f 2
+        E 192 88 3a 00
+        E 0 88 3e 00
+        E 0 b0 7b 00
+        GUID {367CE320-C66A-A743-AE10-B006F3CDEF6A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1100
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 61 35 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 134 98 1414 829 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {BE34EA7E-2789-BE43-9D9C-227AFB60631D}
+    NAME "ch5 (send bass)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE34EA7E-2789-BE43-9D9C-227AFB60631D}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0.000000000015
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.090909 0.090909
+      IGUID {63204D04-3C55-0543-977B-0758F40BE626}
+      IID 15
+      NAME "tuba                 - National_Anthems_-_Canada.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99DEFDDE-2BB8-5945-80E8-688F0C2F843A}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {A0688A07-3483-984C-9096-498A3758E416}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        e 0 92 33 7f
+        e 358 92 33 00
+        e 27 92 32 7f
+        e 361 92 32 00
+        e 23 92 30 7f
+        e 182 92 30 00
+        e 3 92 2b 7f
+        e 182 92 2b 00
+        e 10 92 30 7f
+        e 175 92 30 00
+        e 19 92 32 7f
+        e 161 92 32 00
+        e 31 92 33 7f
+        e 184 92 33 00
+        e 8 92 30 7f
+        e 179 92 30 00
+        e 14 92 2b 7f
+        e 171 92 2b 00
+        e 21 92 2c 7f
+        e 153 92 2c 00
+        e 34 92 2e 7f
+        e 612 92 2e 00
+        e 164 92 33 7f
+        e 189 92 32 7f
+        e 4 92 33 00
+        e 188 92 32 00
+        e 1 92 30 7f
+        e 187 92 30 00
+        e 3 92 32 7f
+        e 179 92 32 00
+        e 14 92 2b 7f
+        e 184 92 2b 00
+        e 5 92 32 7f
+        e 177 92 32 00
+        e 13 92 37 7f
+        e 197 92 37 00
+        e 0 92 36 7f
+        e 186 92 36 00
+        e 7 92 35 7f
+        e 353 92 35 00
+        e 29 92 29 7f
+        e 385 92 2e 7f
+        e 2 92 29 00
+        e 182 92 2e 00
+        e 12 92 29 7f
+        e 151 92 29 00
+        e 37 92 2e 7f
+        e 325 92 2e 00
+        e 59 92 2e 7f
+        e 3 82 2e 00
+        E 0 b0 7b 00
+        GUID {32BDCA43-5F8A-D046-B20C-D93DC023AE4B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1021
+        VELLANE -1 86 6
+        CFGEDITVIEW -307.2 50.227273 52 33 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 0 47 1280 778 0 0 2 3 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+  >
+  <TRACK {B91E5163-8C2B-404F-8C78-0605AAF52936}
+    NAME ChipFront
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B91E5163-8C2B-404F-8C78-0605AAF52936}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    AUXRECV 2 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAADcCwAAAAAAAAAAEAA=
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAAA/q6qqPq2+aD8AAAA/ig0yPM3MzD0AAAAAAAAAAAAAAAAAAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj4ATrI+
+        AAAAPwAAAADBykk/XXRRPwAAAACJiIg9AACAP6oXiD4AAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqKj3ZiZ09gShWPgAAAAAAAAAA
+        v+eWPQAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcEZyb250AENoaXBGcm9udAAQAAAA
+      >
+      PRESETNAME ChipFront
+      FLOATPOS 36 32 641 529
+      FXID {4C5A6810-F3ED-0645-A06D-6758F70CB097}
+      WAK 0
+    >
+  >
+  <TRACK {4E9F66C4-38E7-4946-B39F-214CBB1CFB8B}
+    NAME ChipSide
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.32759970788183 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4E9F66C4-38E7-4946-B39F-214CBB1CFB8B}
+    PERF 0
+    LAYOUTS "07. Easy" "12. Sidebar 2"
+    AUXRECV 2 0 1.03113579563571 0 0 0 0 2 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAANwLAAAAAAAAAAAQAA==
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/q6qqPsplFD8AAAA/TxqgPc3MzD0AAAAAAAAAAEKGIj8AAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj6CdAA9
+        EObJPZgn+j4AAIA/AAAAAAAAAACJiAg+AACAP7PDtD4AAIA/AAAAAAAAAAAAAAAAq6qqPgAAAACeFR0/AAAAAAAAgD8AAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqqj3ZiZ09gShWPgAAgD8AAAAA
+        v+eWPdmJHT0WszE/AAAAAAAAAACSdiw8AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcFNpZGUAQ2hpcFNpZGUAEAAAAA==
+      >
+      PRESETNAME ChipSide
+      FLOATPOS 36 32 641 529
+      FXID {20356A84-5CFD-6E4A-AA26-2A8A49CE7A76}
+      WAK 0
+    >
+  >
+  <TRACK {B691ABA0-B659-5F43-8248-E8E2EF12D0C9}
+    NAME ChipBass
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.73679674640694 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B691ABA0-B659-5F43-8248-E8E2EF12D0C9}
+    PERF 0
+    AUXRECV 2 0 1 0 0 0 0 4 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: 8-Bit Shaper (Xfer Records)" 8BitShaper.vst 0 "" 1148539762
+        clN1RO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAQAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAADQCAAABAAAAAAAQAA==
+        ZmaGP20MlT7dQQw/AAAAPyYAAAAAAIA/gKAOIwEAAAAXAAAAMAAAABkAAAAaAAAAGgAAABoAAAAbAAAAGwAAABwAAAAcAAAAHAAAAB0AAAAdAAAAHgAAAB4AAAAfAAAA
+        HwAAACAAAAAgAAAAIAAAACEAAAAhAAAAIQAAACIAAAAiAAAAIgAAACMAAAAjAAAAIwAAACQAAAAkAAAAJAAAACUAAAAlAAAAKAAAACgAAAApAAAAKQAAACoAAAA1AAAA
+        KgAAACoAAAA2AAAAKgAAACoAAAAqAAAAKgAAACoAAAAqAAAAKgAAACsAAAArAAAAOQAAAC0AAAA0AAAAOgAAAC0AAAAtAAAAPAAAAC4AAAAuAAAALwAAADAAAAAwAAAA
+        MQAAADEAAAAxAAAAMgAAADMAAAAzAAAAMwAAADcAAAA3AAAANwAAADgAAAA4AAAAOAAAADkAAAA5AAAAOQAAADoAAAA6AAAAOgAAADoAAAA6AAAAOwAAADsAAAA7AAAA
+        PAAAADsAAAA7AAAAOwAAADwAAAA8AAAAPAAAADwAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAD4AAAA+AAAAPwAAAEkAAABAAAAAQAAAAEgAAABAAAAAQQAAAEIAAABCAAAA
+        QgAAAEMAAABDAAAAQwAAAEQAAABEAAAARQAAAE0AAABGAAAARwAAAEYAAABHAAAASAAAAEgAAABJAAAATwAAAAAAgD+rqqo+q6qqPh0Fwz6OAm0/
+        AEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {8BF46DAE-0348-BC43-8A81-A5BA9A847F39}
+      WAK 0
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {F23F8223-271A-294D-A229-F474D58B7A97} 0 "" "" ""
+    >
+    <XENAKIOSCOMMANDS
+      REFTRACK 0 3 1 "0000000000"
+    >
+    <BR_CURSOR_POS 03
+      101.00000000000000
+    >
+    <BR_CURSOR_POS 04
+      0.00000000000000
+    >
+  >
+>

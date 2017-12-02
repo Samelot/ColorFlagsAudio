@@ -1,0 +1,3573 @@
+<REAPER_PROJECT 0.1 "5.65pre18/OSX64" 1512237345
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 432
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174206 8 1 8 1 0 0 0
+  TIMEMODE 6 0 -1 24 2
+  PANMODE 3
+  CURSOR 0
+  ZOOM 23.27734711455643 0 0
+  VZOOMEX 1
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1 0 0
+  MIDIEDITOR -171672382 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/samenglander/_create/Reaper/Projects/Magee_ColorFlags/NewAnthems_Render/unitedkingdom_1.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbSAAAAABAAAABQAAAAAAAAAAAAAAQAEAAAAAAAA=
+  >
+  LOCK 0
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 20.87072725465943
+  SELECTION2 0 20.87072725465943
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.556322 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 "alternative loop" 1 30655826 1 B
+  MARKER 1 20.87072725465943 "" 1 30655826 1 B
+  <PROJBAY
+  >
+  <TRACK {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    NAME extra
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.090909
+      IGUID {4CAD88BC-E469-9A48-A9A5-ADB5CC22FBA0}
+      IID 14
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {E80F7F9B-9F14-1244-9DF8-A92500949FDA}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {BBCD7971-6A62-5547-A23B-D89889F167C7}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        e 0 91 43 7f 2
+        e 192 91 43 00 -18
+        e 0 91 43 7f 9
+        e 144 91 43 00 16
+        e 48 91 45 7f 5
+        e 144 91 45 00 20
+        e 48 91 42 7f
+        e 288 91 42 00 -6
+        e 0 91 43 7f 2
+        e 96 91 43 00 -7
+        e 0 91 45 7f 5
+        e 144 91 45 00 15
+        e 48 91 47 7f
+        e 192 91 47 00 -23
+        e 0 91 47 7f
+        e 192 91 47 00 -15
+        e 0 91 48 7f 1
+        e 144 91 48 00 23
+        e 48 91 47 7f
+        e 288 91 47 00 -17
+        e 0 91 45 7f 2
+        e 96 91 45 00 -20
+        e 0 91 43 7f 2
+        e 144 91 43 00 22
+        e 48 91 45 7f 2
+        e 192 91 45 00 -21
+        e 0 91 43 7f
+        e 192 91 43 00 -20
+        e 0 91 42 7f
+        e 192 91 42 00 -23
+        e 0 91 43 7f 2
+        e 528 91 43 00 -11
+        e 48 91 4a 7f 2
+        e 192 91 4a 00 -18
+        e 0 91 4a 7f 4
+        e 192 91 4a 00 -22
+        e 0 91 4a 7f 2
+        e 144 91 4a 00 22
+        e 48 91 4a 7f 1
+        e 288 91 4a 00 -13
+        e 0 91 48 7f
+        e 96 91 48 00 -14
+        e 0 91 47 7f 4
+        e 192 91 47 00 -24
+        e 0 91 48 7f -3
+        e 192 91 48 00 -21
+        e 0 91 48 7f 2
+        e 192 91 48 00 -23
+        e 0 91 48 7f 1
+        e 144 91 48 00 21
+        e 48 91 48 7f
+        e 288 91 48 00 -16
+        e 0 91 47 7f 2
+        e 96 91 47 00 -12
+        e 0 91 45 7f 5
+        e 192 91 45 00 -24
+        e 0 91 47 7f 1
+        e 192 91 47 00 -9
+        e 0 91 48 7f 4
+        e 96 91 48 00 -2
+        e 0 91 47 7f -1
+        e 48 91 47 00 20
+        e 48 91 45 7f -4
+        e 96 91 45 00 2
+        e 0 91 43 7f -2
+        e 96 91 43 00 -8
+        e 0 91 47 7f 5
+        e 288 91 47 00 -14
+        e 0 91 48 7f
+        e 96 91 48 00 -19
+        e 0 91 4a 7f
+        e 144 91 4a 00 9
+        e 48 91 4c 7f -7
+        e 96 91 4c 00 -1
+        e 0 91 48 7f -6
+        e 48 91 48 00 10
+        e 48 91 47 7f -3
+        e 144 91 47 00 15
+        e 48 91 45 7f -3
+        e 144 91 45 00 15
+        e 48 91 43 7f 2
+        e 480 91 43 00 -20
+        E 96 b0 7b 00
+        GUID {A14D1352-FD86-A248-9C19-DA9BC74057F5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 81
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EA3FBB4-DF25-8743-BC0A-06FBE1574081}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {F3761065-CA1C-AA4D-BCFA-7C7D6DF5DC16}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        E 2 91 43 7f
+        E 172 91 43 00
+        E 27 91 43 7f
+        E 151 91 43 00
+        E 37 91 45 7f
+        E 159 91 45 00
+        E 28 91 42 7f
+        E 282 91 42 00
+        E 8 91 43 7f
+        E 87 91 43 00
+        E 12 91 45 7f
+        E 154 91 45 00
+        E 33 91 47 7f
+        E 169 91 47 00
+        E 23 91 47 7f
+        E 177 91 47 00
+        E 16 91 48 7f
+        E 166 91 48 00
+        E 25 91 47 7f
+        E 271 91 47 00
+        E 19 91 45 7f
+        E 74 91 45 00
+        E 22 91 43 7f
+        E 164 91 43 00
+        E 28 91 45 7f
+        E 169 91 45 00
+        E 21 91 43 7f
+        E 172 91 43 00
+        E 20 91 42 7f
+        E 169 91 42 00
+        E 25 91 43 7f
+        E 515 91 43 00
+        E 61 91 4a 7f
+        E 172 91 4a 00
+        E 22 91 4a 7f
+        E 166 91 4a 00
+        E 24 91 4a 7f
+        E 164 91 4a 00
+        E 27 91 4a 7f
+        E 274 91 4a 00
+        E 13 91 48 7f
+        E 82 91 48 00
+        E 18 91 47 7f
+        E 164 91 47 00
+        E 21 91 48 7f
+        E 174 91 48 00
+        E 23 91 48 7f
+        E 167 91 48 00
+        E 24 91 48 7f
+        E 164 91 48 00
+        E 27 91 48 7f
+        E 272 91 48 00
+        E 18 91 47 7f
+        E 82 91 47 00
+        E 17 91 45 7f
+        E 163 91 45 00
+        E 25 91 47 7f
+        E 182 91 47 00
+        E 13 91 48 7f
+        E 90 91 48 00
+        E 1 91 47 7f
+        E 69 91 47 00
+        E 24 91 45 7f
+        E 98 91 43 7f
+        E 4 91 45 00
+        E 86 91 43 00
+        E 13 91 47 7f
+        E 269 91 47 00
+        E 14 91 48 7f
+        E 77 91 48 00
+        E 19 91 4a 7f
+        E 153 91 4a 00
+        E 32 91 4c 7f
+        E 97 91 48 7f
+        E 5 91 4c 00
+        E 59 91 48 00
+        E 35 91 47 7f
+        E 162 91 47 00
+        E 30 91 45 7f
+        E 162 91 45 00
+        E 35 91 43 7f
+        E 458 91 43 00
+        E 116 b0 7b 00
+        GUID {D1346111-04EF-594E-9B8E-9C2984B387E3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 93
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.090909 0.090909
+      IGUID {1A3F3E34-42B7-634A-BBCF-238CC6D0B37A}
+      IID 15
+      NAME "tuba                 - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {6ED3DE84-9257-0747-9F8A-43C6F00B7842}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {035765E8-AEAD-8E47-8D5B-8F6D3C2BEC49}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        e 0 92 2b 7f 1
+        e 192 92 2b 00 12
+        e 0 92 23 7f 6
+        e 144 92 23 00 20
+        e 48 92 24 7f -3
+        e 192 92 24 00 -19
+        e 0 92 26 7f -3
+        e 288 92 26 00 -20
+        e 0 92 28 7f -6
+        e 96 92 28 00 3
+        e 0 92 2a 7f
+        e 192 92 2a 00 -10
+        e 0 92 2b 7f -4
+        e 192 92 2b 00 1
+        e 0 92 28 7f -2
+        e 192 92 28 00 -12
+        e 0 92 24 7f -4
+        e 192 92 24 00 -19
+        e 0 92 26 7f -4
+        e 288 92 26 00 -2
+        e 0 92 27 7f -6
+        e 96 92 27 00 11
+        e 0 92 28 7f -2
+        e 192 92 28 00 -4
+        e 0 92 24 7f 1
+        e 192 92 24 00 3
+        e 0 92 26 7f
+        e 192 92 26 00 -23
+        e 0 92 26 7f 1
+        e 192 92 26 00 3
+        e 0 92 2b 7f 2
+        e 528 92 2b 00 -16
+        e 48 92 1f 7f -2
+        e 192 92 1f 00 -9
+        e 0 92 23 7f -2
+        e 192 92 23 00 -12
+        e 0 92 26 7f
+        e 192 92 26 00 8
+        e 0 92 2b 7f 1
+        e 288 92 2b 00 -6
+        e 0 92 26 7f 6
+        e 96 92 26 00 -8
+        e 0 92 2b 7f 4
+        e 192 92 2b 00 -1
+        e 0 92 26 7f 1
+        e 192 92 26 00 -2
+        e 0 92 2a 7f -3
+        e 192 92 2a 00 7
+        e 0 92 2d 7f -1
+        e 192 92 2d 00 2
+        e 0 92 26 7f
+        e 240 92 26 00 21
+        e 48 92 2b 7f 2
+        e 96 92 2b 00 -10
+        e 0 92 26 7f 1
+        e 192 92 26 00 -10
+        e 0 92 2b 7f -4
+        e 192 92 2b 00 -3
+        e 0 92 2d 7f 1
+        e 96 92 2d 00 -1
+        e 0 92 2b 7f -2
+        e 96 92 2b 00 -5
+        e 0 92 2a 7f -4
+        e 96 92 2a 00 -16
+        e 0 92 28 7f -6
+        e 96 92 28 00 13
+        e 0 92 26 7f -1
+        e 96 92 26 00
+        e 0 92 24 7f -3
+        e 96 92 24 00 -4
+        e 0 92 23 7f -4
+        e 96 92 23 00 -11
+        e 0 92 21 7f -6
+        e 96 92 21 00 -20
+        e 0 92 1f 7f -1
+        e 192 92 1f 00 -6
+        e 0 92 24 7f -1
+        e 192 92 24 00 -9
+        e 0 92 26 7f -5
+        e 144 92 26 00 7
+        e 48 92 26 7f -1
+        e 192 92 26 00 2
+        e 0 92 1f 7f
+        e 480 92 1f 00 -6
+        E 96 b0 7b 00
+        GUID {5551893B-55BB-BD44-86AD-D4BB9E8A942D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 82
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "tuba                 - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C239CDF9-B858-F742-8F89-EE843E4D44AF}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {22A85173-5189-E546-B4F8-67C57071EEAC}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        E 1 92 2b 7f
+        E 197 92 23 7f
+        E 6 92 2b 00
+        E 152 92 23 00
+        E 25 92 24 7f
+        E 176 92 24 00
+        E 16 92 26 7f
+        E 271 92 26 00
+        E 14 92 28 7f
+        E 102 92 2a 7f
+        E 3 92 28 00
+        E 179 92 2a 00
+        E 6 92 2b 7f
+        E 194 92 28 7f
+        E 3 92 2b 00
+        E 179 92 28 00
+        E 8 92 24 7f
+        E 177 92 24 00
+        E 15 92 26 7f
+        E 286 92 27 7f
+        E 4 92 26 00
+        E 96 92 28 7f
+        E 13 92 27 00
+        E 177 92 28 00
+        E 5 92 24 7f
+        E 191 92 26 7f
+        E 3 92 24 00
+        E 166 92 26 00
+        E 24 92 26 7f
+        E 193 92 2b 7f
+        E 1 92 26 00
+        E 509 92 2b 00
+        E 62 92 1f 7f
+        E 185 92 1f 00
+        E 7 92 23 7f
+        E 182 92 23 00
+        E 12 92 26 7f
+        E 193 92 2b 7f
+        E 7 92 26 00
+        E 274 92 2b 00
+        E 12 92 26 7f
+        E 82 92 26 00
+        E 12 92 2b 7f
+        E 187 92 2b 00
+        E 2 92 26 7f
+        E 188 92 2a 7f
+        E 1 92 26 00
+        E 193 92 2d 7f
+        E 8 92 2a 00
+        E 185 92 26 7f
+        E 2 92 2d 00
+        E 259 92 26 00
+        E 29 92 2b 7f
+        E 84 92 2b 00
+        E 11 92 26 7f
+        E 181 92 26 00
+        E 6 92 2b 7f
+        E 193 92 2b 00
+        E 4 92 2d 7f
+        E 93 92 2b 7f
+        E 1 92 2d 00
+        E 92 92 2b 00
+        E 1 92 2a 7f
+        E 84 92 2a 00
+        E 10 92 28 7f
+        E 101 92 26 7f
+        E 14 92 28 00
+        E 80 92 24 7f
+        E 3 92 26 00
+        E 92 92 24 00
+        E 0 92 23 7f
+        E 89 92 23 00
+        E 5 92 21 7f
+        E 82 92 21 00
+        E 19 92 1f 7f
+        E 187 92 1f 00
+        E 5 92 24 7f
+        E 184 92 24 00
+        E 4 92 26 7f
+        E 156 92 26 00
+        E 40 92 26 7f
+        E 193 92 1f 7f
+        E 2 92 26 00
+        E 472 92 1f 00
+        E 102 b0 7b 00
+        GUID {0B0E4BFB-CE54-4D40-B53B-89F79C11A88C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 94
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.181818 0.090909
+      IGUID {4AF3AA5D-36C0-4C4C-B76E-7653B330A91D}
+      IID 16
+      NAME "french horn          - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {27D31525-2EFF-D04B-A881-F7BBE63BF456}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {E956F03E-E07D-3244-93D1-BE0C4058F5D7}
+        <X 0 0 0 0 3 "french horn         "
+          /wNmcmVuY2ggaG9ybiAgICAgICAgIA==
+        >
+        e 0 93 2f 7f 1
+        e 192 93 2f 00 -17
+        e 0 93 2f 7f 4
+        e 192 93 2f 00 -12
+        e 0 93 30 7f 2
+        e 192 93 30 00 -5
+        e 0 93 2d 7f 2
+        e 240 93 2d 00 11
+        e 48 93 2b 7f -2
+        e 96 93 2b 00 -16
+        e 0 93 2d 7f -5
+        e 192 93 2d 00
+        e 0 93 32 7f
+        e 192 93 32 00 -18
+        e 0 93 34 7f -3
+        e 144 93 34 00 20
+        e 48 93 34 7f -3
+        e 192 93 34 00
+        e 0 93 32 7f -1
+        e 288 93 32 00 -10
+        e 0 93 30 7f 3
+        e 48 93 30 00 19
+        e 48 93 2f 7f -4
+        e 192 93 2f 00 4
+        e 0 93 30 7f 4
+        e 192 93 30 00 4
+        e 0 93 2f 7f -1
+        e 192 93 2f 00 -19
+        e 0 93 2d 7f -1
+        e 192 93 2d 00 1
+        e 0 93 2f 7f 2
+        e 528 93 2f 00 -14
+        e 48 93 32 7f 10
+        e 144 93 32 00 12
+        e 48 93 32 7f 3
+        e 144 93 32 00 15
+        e 48 93 32 7f 3
+        e 144 93 32 00 13
+        e 48 93 32 7f 1
+        e 288 93 32 00 -21
+        e 0 93 32 7f 5
+        e 48 93 32 00 3
+        e 48 93 32 7f 2
+        e 144 93 32 00 16
+        e 48 93 32 7f 3
+        e 144 93 32 00 18
+        e 48 93 32 7f 2
+        e 144 93 32 00 17
+        e 48 93 32 7f 1
+        e 192 93 32 00 -24
+        e 0 93 32 7f 2
+        e 288 93 32 00 -17
+        e 0 93 32 7f 7
+        e 48 93 32 00 18
+        e 48 93 32 7f 2
+        e 144 93 32 00 -1
+        e 48 93 32 7f 5
+        e 192 93 32 00 -3
+        e 0 93 30 7f 1
+        e 96 93 30 00 -8
+        e 0 93 2f 7f -4
+        e 96 93 2f 00 -2
+        e 0 93 2d 7f -3
+        e 96 93 2d 00 -12
+        e 0 93 2b 7f -7
+        e 96 93 2b 00 8
+        e 0 93 32 7f -2
+        e 240 93 32 00 22
+        e 48 93 32 7f -2
+        e 48 93 32 00 4
+        e 48 93 32 7f -2
+        e 144 93 32 00 16
+        e 240 93 32 7f -3
+        e 144 93 32 00 6
+        e 48 93 32 7f -4
+        e 96 93 32 00 3
+        e 0 93 30 7f -5
+        e 96 93 30 00 1
+        e 0 93 2f 7f 4
+        e 384 93 2f 00 9
+        E 192 b0 7b 00
+        GUID {7FD50221-FE69-6148-8121-CF11E7617E63}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 83
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "french horn          - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FAF38FB-B47E-7143-BFAB-1B5138BBB638}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {DCC905E6-F834-4646-BAA7-C60B5A5C71EA}
+        <X 0 0 0 0 3 "french horn         "
+          /wNmcmVuY2ggaG9ybiAgICAgICAgIA==
+        >
+        E 1 93 2f 7f
+        E 174 93 2f 00
+        E 21 93 2f 7f
+        E 176 93 2f 00
+        E 14 93 30 7f
+        E 185 93 30 00
+        E 7 93 2d 7f
+        E 249 93 2d 00
+        E 35 93 2b 7f
+        E 82 93 2b 00
+        E 11 93 2d 7f
+        E 197 93 2d 00
+        E 0 93 32 7f
+        E 174 93 32 00
+        E 15 93 34 7f
+        E 167 93 34 00
+        E 25 93 34 7f
+        E 194 93 32 7f
+        E 1 93 34 00
+        E 278 93 32 00
+        E 13 93 30 7f
+        E 64 93 30 00
+        E 25 93 2f 7f
+        E 200 93 2f 00
+        E 0 93 30 7f
+        E 187 93 2f 7f
+        E 5 93 30 00
+        E 169 93 2f 00
+        E 18 93 2d 7f
+        E 194 93 2d 00
+        E 1 93 2f 7f
+        E 512 93 2f 00
+        E 72 93 32 7f
+        E 146 93 32 00
+        E 39 93 32 7f
+        E 156 93 32 00
+        E 36 93 32 7f
+        E 154 93 32 00
+        E 36 93 32 7f
+        E 266 93 32 00
+        E 26 93 32 7f
+        E 46 93 32 00
+        E 47 93 32 7f
+        E 158 93 32 00
+        E 35 93 32 7f
+        E 159 93 32 00
+        E 32 93 32 7f
+        E 159 93 32 00
+        E 32 93 32 7f
+        E 167 93 32 00
+        E 26 93 32 7f
+        E 269 93 32 00
+        E 24 93 32 7f
+        E 59 93 32 00
+        E 32 93 32 7f
+        E 141 93 32 00
+        E 54 93 32 7f
+        E 184 93 32 00
+        E 4 93 30 7f
+        E 87 93 30 00
+        E 4 93 2f 7f
+        E 97 93 2d 7f
+        E 1 93 2f 00
+        E 86 93 2d 00
+        E 5 93 2b 7f
+        E 101 93 32 7f
+        E 10 93 2b 00
+        E 254 93 32 00
+        E 24 93 32 7f
+        E 54 93 32 00
+        E 42 93 32 7f
+        E 162 93 32 00
+        E 221 93 32 7f
+        E 153 93 32 00
+        E 38 93 32 7f
+        E 95 93 30 7f
+        E 8 93 32 00
+        E 94 93 30 00
+        E 3 93 2f 7f
+        E 389 93 2f 00
+        E 183 b0 7b 00
+        GUID {26B81451-DAF8-C149-8FED-9C9C94F171AD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 95
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.272727 0.090909
+      IGUID {8BD7AD3E-09B7-B646-BD0D-BF4B232D43DF}
+      IID 17
+      NAME "trumpet2             - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {F57A2F08-53D9-0443-9491-7CB6C431F969}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {90FD4544-5EE2-DC4F-8274-C1BF4C79218B}
+        <X 0 0 0 0 3 "trumpet2            "
+          /wN0cnVtcGV0MiAgICAgICAgICAgIA==
+        >
+        e 0 94 32 7f
+        e 144 94 32 00 20
+        e 48 94 32 7f 1
+        e 192 94 32 00 -9
+        e 0 94 34 7f 6
+        e 192 94 34 00 -12
+        e 0 94 32 7f 2
+        e 240 94 32 00 20
+        e 48 94 31 7f
+        e 96 94 31 00 -14
+        e 0 94 32 7f 1
+        e 192 94 32 00 -19
+        e 0 94 37 7f 1
+        e 144 94 37 00 21
+        e 48 94 37 7f 1
+        e 192 94 37 00 -11
+        e 0 94 39 7f
+        e 192 94 39 00 2
+        e 0 94 37 7f 4
+        e 288 94 37 00 5
+        e 0 94 36 7f 5
+        e 96 94 36 00 2
+        e 0 94 34 7f 10
+        e 96 94 34 00 19
+        e 96 94 34 7f
+        e 192 94 34 00 -3
+        e 0 94 32 7f
+        e 144 94 32 00 17
+        e 48 94 32 7f 2
+        e 192 94 32 00 -21
+        e 0 94 32 7f 6
+        e 528 94 32 00 -22
+        e 48 94 37 7f 1
+        e 192 94 37 00 -22
+        e 0 94 37 7f 3
+        e 144 94 37 00 23
+        e 48 94 37 7f 3
+        e 144 94 37 00 10
+        e 48 94 37 7f 1
+        e 288 94 37 00 -10
+        e 0 94 36 7f 4
+        e 96 94 36 00 -8
+        e 0 94 37 7f 5
+        e 192 94 37 00 -16
+        e 0 94 36 7f 2
+        e 144 94 36 00 19
+        e 48 94 36 7f 5
+        e 144 94 36 00 12
+        e 48 94 36 7f 2
+        e 144 94 36 00 11
+        e 48 94 36 7f 2
+        e 288 94 36 00 -23
+        e 0 94 37 7f 1
+        e 96 94 37 00 -18
+        e 0 94 36 7f -2
+        e 144 94 36 00 13
+        e 48 94 37 7f 1
+        e 192 94 37 00 -17
+        e 0 94 36 7f -3
+        e 96 94 36 00 -2
+        e 0 94 37 7f -2
+        e 96 94 37 00 7
+        e 0 94 32 7f
+        e 96 94 32 00 -17
+        e 0 94 31 7f -9
+        e 96 94 31 00 8
+        e 288 94 36 7f
+        e 96 94 36 00 -9
+        e 0 94 35 7f 1
+        e 192 94 35 00 -24
+        e 0 94 34 7f
+        e 192 94 34 00 -5
+        e 0 94 37 7f -5
+        e 192 94 37 00 -3
+        e 0 94 36 7f 2
+        e 192 94 32 7f 10
+        e 48 94 36 00 -18
+        e 336 94 32 00 20
+        E 192 b0 7b 00
+        GUID {2D3CEA8C-FFB9-F04A-8586-8A79265359A1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 84
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet2             - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB8BD499-D1A8-C543-870C-5E63B82EDE63}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {053F1D0A-7D9A-C342-9579-175853EA3E9E}
+        <X 0 0 0 0 3 "trumpet2            "
+          /wN0cnVtcGV0MiAgICAgICAgICAgIA==
+        >
+        e 0 94 32 7f
+        e 164 94 32 00
+        e 29 94 32 7f
+        e 182 94 32 00
+        e 15 94 34 7f
+        e 174 94 34 00
+        e 14 94 32 7f
+        e 258 94 32 00
+        e 28 94 31 7f
+        e 82 94 31 00
+        e 15 94 32 7f
+        e 172 94 32 00
+        e 20 94 37 7f
+        e 164 94 37 00
+        e 28 94 37 7f
+        e 180 94 37 00
+        e 11 94 39 7f
+        e 194 94 39 00
+        e 2 94 37 7f
+        e 289 94 37 00
+        e 0 94 36 7f
+        e 93 94 36 00
+        e 8 94 34 7f
+        e 105 94 34 00
+        e 77 94 34 7f
+        e 189 94 34 00
+        e 3 94 32 7f
+        e 161 94 32 00
+        e 33 94 32 7f
+        e 169 94 32 00
+        e 27 94 32 7f
+        e 500 94 32 00
+        e 71 94 37 7f
+        e 169 94 37 00
+        e 25 94 37 7f
+        e 164 94 37 00
+        e 28 94 37 7f
+        e 151 94 37 00
+        e 39 94 37 7f
+        e 277 94 37 00
+        e 14 94 36 7f
+        e 84 94 36 00
+        e 13 94 37 7f
+        e 171 94 37 00
+        e 18 94 36 7f
+        e 161 94 36 00
+        e 34 94 36 7f
+        e 151 94 36 00
+        e 38 94 36 7f
+        e 153 94 36 00
+        e 39 94 36 7f
+        e 263 94 36 00
+        e 24 94 37 7f
+        e 77 94 37 00
+        e 16 94 36 7f
+        e 159 94 36 00
+        e 36 94 37 7f
+        e 174 94 37 00
+        e 14 94 36 7f
+        e 97 94 36 00
+        e 0 94 37 7f
+        e 98 94 32 7f
+        e 7 94 37 00
+        e 72 94 32 00
+        e 8 94 31 7f
+        e 113 94 31 00
+        e 280 94 36 7f
+        e 87 94 36 00
+        e 10 94 35 7f
+        e 167 94 35 00
+        e 24 94 34 7f
+        e 187 94 34 00
+        e 0 94 37 7f
+        e 194 94 37 00
+        e 5 94 36 7f
+        e 200 94 32 7f
+        e 20 94 36 00
+        e 374 94 32 00
+        E 172 b0 7b 00
+        GUID {D6B78F9A-3662-7941-94B7-997080BDF47C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 96
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.818182 0.090909
+      IGUID {2C0E79CE-A447-404E-AAAD-AFB2C46F71BF}
+      IID 24
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {49CADD21-CFE1-EF40-A835-B7E43BE24C5B}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {20C7C548-67B9-7546-BAA3-B3C89D9E00A6}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        e 0 98 3e 7f
+        e 192 98 3e 00 -16
+        e 0 98 3e 7f 5
+        e 192 98 3e 00 18
+        e 0 98 40 7f 6
+        e 192 98 40 00 8
+        e 0 98 3e 7f 4
+        e 288 98 3e 00 18
+        e 0 98 3d 7f 5
+        e 96 98 3d 00 -4
+        e 0 98 3e 7f 2
+        e 144 98 3e 00 19
+        e 48 98 3e 7f -2
+        e 192 98 3e 00 21
+        e 0 98 43 7f 1
+        e 144 98 43 00 19
+        e 48 98 43 7f -3
+        e 144 98 43 00 19
+        e 48 98 43 7f -4
+        e 288 98 43 00 -10
+        e 0 98 42 7f -10
+        e 96 98 42 00 17
+        e 0 98 40 7f
+        e 144 98 40 00 22
+        e 48 98 40 7f -3
+        e 192 98 40 00 2
+        e 0 98 3e 7f -3
+        e 144 98 3e 00 22
+        e 48 98 3e 7f -2
+        e 144 98 3e 00 23
+        e 48 98 3e 7f 2
+        e 192 98 3e 00 -8
+        e 0 98 3b 7f -3
+        e 96 98 3b 00 14
+        e 0 98 3e 7f -3
+        e 96 98 43 7f -2
+        e 48 98 3e 00 -22
+        e 48 98 43 00 -5
+        e 0 98 45 7f -2
+        e 96 98 45 00 2
+        e 0 98 47 7f 9
+        e 192 98 47 00 -24
+        e 0 98 47 7f 2
+        e 192 98 47 00 -18
+        e 0 98 47 7f 4
+        e 192 98 47 00 -14
+        e 0 98 47 7f 5
+        e 288 98 47 00 -10
+        e 0 98 45 7f -3
+        e 96 98 45 00 8
+        e 0 98 43 7f
+        e 192 98 43 00 3
+        e 0 98 45 7f 2
+        e 192 98 45 00 -18
+        e 0 98 45 7f 4
+        e 192 98 45 00 -4
+        e 0 98 45 7f
+        e 144 98 45 00 20
+        e 48 98 45 7f 7
+        e 288 98 45 00 1
+        e 0 98 43 7f 3
+        e 96 98 43 00 7
+        e 0 98 42 7f 5
+        e 144 98 42 00 20
+        e 48 98 43 7f
+        e 192 98 43 00 -15
+        e 0 98 45 7f 2
+        e 96 98 45 00 -2
+        e 0 98 43 7f
+        e 96 98 43 00 4
+        e 0 98 42 7f
+        e 96 98 42 00 4
+        e 0 98 40 7f -1
+        e 96 98 40 00 3
+        e 0 98 43 7f 1
+        e 288 98 43 00 4
+        e 0 98 42 7f 3
+        e 96 98 42 00 -3
+        e 0 98 41 7f
+        e 192 98 41 00 3
+        e 0 98 40 7f 5
+        e 0 98 43 7f 5
+        e 192 98 40 00 -13
+        e 0 98 43 00 -13
+        e 0 98 40 7f 7
+        e 0 98 43 7f 7
+        e 144 98 40 00 14
+        e 0 98 43 00 14
+        e 48 98 3e 7f 3
+        e 0 98 42 7f 2
+        e 192 98 3e 00 -15
+        e 0 98 42 00 -1
+        e 0 98 3e 7f 7
+        e 0 98 43 7f 10
+        e 432 98 3e 00 -13
+        e 0 98 43 00 -12
+        E 144 b0 7b 00
+        GUID {4BC7AE53-6D07-1146-B7B5-19FCD5B655DD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 91
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7EA8CA31-5C22-394E-8073-D0E8CE820A7A}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {10E0AC4F-1DC5-BF4E-86D3-6BA5C2E52375}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        E 0 98 3e 7f
+        E 176 98 3e 00
+        E 21 98 3e 7f
+        E 193 98 40 7f
+        E 12 98 3e 00
+        E 178 98 3e 7f
+        E 4 98 40 00
+        E 285 98 3d 7f
+        E 13 98 3e 00
+        E 74 98 3d 00
+        E 6 98 3e 7f
+        E 161 98 3e 00
+        E 27 98 3e 7f
+        E 195 98 43 7f
+        E 20 98 3e 00
+        E 142 98 43 00
+        E 26 98 43 7f
+        E 166 98 43 00
+        E 25 98 43 7f
+        E 282 98 43 00
+        E 0 98 42 7f
+        E 106 98 40 7f
+        E 17 98 42 00
+        E 149 98 40 00
+        E 23 98 40 7f
+        E 192 98 3e 7f
+        E 5 98 40 00
+        E 164 98 3e 00
+        E 24 98 3e 7f
+        E 169 98 3e 00
+        E 27 98 3e 7f
+        E 182 98 3e 00
+        E 5 98 3b 7f
+        E 96 98 3e 7f
+        E 17 98 3b 00
+        E 80 98 43 7f
+        E 28 98 3e 00
+        E 65 98 43 00
+        E 3 98 45 7f
+        E 100 98 45 00
+        E 7 98 47 7f
+        E 159 98 47 00
+        E 26 98 47 7f
+        E 172 98 47 00
+        E 22 98 47 7f
+        E 174 98 47 00
+        E 19 98 47 7f
+        E 273 98 47 00
+        E 7 98 45 7f
+        E 99 98 43 7f
+        E 8 98 45 00
+        E 186 98 45 7f
+        E 1 98 43 00
+        E 171 98 45 00
+        E 22 98 45 7f
+        E 184 98 45 00
+        E 4 98 45 7f
+        E 164 98 45 00
+        E 35 98 45 7f
+        E 282 98 45 00
+        E 2 98 43 7f
+        E 98 98 42 7f
+        E 2 98 43 00
+        E 157 98 42 00
+        E 28 98 43 7f
+        E 177 98 43 00
+        E 17 98 45 7f
+        E 92 98 45 00
+        E 2 98 43 7f
+        E 96 98 42 7f
+        E 4 98 43 00
+        E 91 98 40 7c
+        E 5 98 42 00
+        E 93 98 43 7f
+        E 2 98 40 00
+        E 288 98 42 7f
+        E 1 98 43 00
+        E 89 98 42 00
+        E 3 98 41 7f
+        E 195 98 41 00
+        E 2 98 40 6d
+        E 0 98 43 7f
+        E 174 98 40 00
+        E 0 98 43 00
+        E 20 98 40 7b
+        E 0 98 43 7f
+        E 151 98 40 00
+        E 0 98 43 00
+        E 36 98 42 7f
+        E 1 98 3e 73
+        E 174 98 3e 00
+        E 14 98 42 00
+        E 8 98 3e 6c
+        E 3 98 43 7f
+        E 409 98 3e 00
+        E 1 98 43 00
+        E 156 b0 7b 00
+        GUID {95292AA9-B7A0-B74D-9C32-5F5F5C2CEFA8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 97
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {4A6CD977-ADCC-3A4D-927C-BB2CEF4B0809}
+    NAME "vst Gladiator"
+    PEAKCOL 27222112
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.23293747634546 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4A6CD977-ADCC-3A4D-927C-BB2CEF4B0809}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Gladiator (Tone2.com)" Gladiator.vst 0 "" 1412581196
+        TEcyVO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABaBAAAAQAAAAAAEAA=
+        Q2NuSwAAAGBGeENrAAAAAVQyR0wAAAABAAABB0luaXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9zMzNPMzMzTw0OVg9uFH0PXnbIz+AAAA7xJumPb52yT+AAAA7xJum
+        AAAAAD6mZmY+PXCkP4AAAD7FHrk/AAAAPwAAAAAAAAA9ffO2PdDlYDy8an8/RR64AAAAAD+AAAA8NDlYPZFocz71wo87RJumPbhR6D69cKQ+PXCkP4AAAD8AAAA/A9cL
+        PwAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPtmZmj8AAAAAAAAAO+VgQj24UesAAAAAPk21xDtEm6Y/S4UeAAAAAAAAAAA+64UgPpR64T1hR7A+z1woPx64Uj49cKY/AAAA
+        PwAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAP4AAAD+AAAAAAAAAPxHrhT8AAAA/AAAAPwAAAD8AAAAAAAAAPwAAAD8AAAA/AAAAAAAAAD8AAAA/AAAAPwAAAAAAAAA6gxJv
+        P1Cj1wAAAAA/gAAAAAAAADqDEm8/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAA/gAAAAAAAAD+AAAAAAAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAA
+        PwAAAD8AAAA/EeuGPKPXCjqDEm88RJumAAAAAAAAAAAAAAAAPLxqfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAA8E3S8AAAAADw0OVgAAAAAPBN0vAAAAAA8NDlYAAAAADwTdLwAAAAAPDQ5WAAAAAA8E3S8AAAAADw0OVgAAAAAPGVgQj2HKwI8ZWBCOwMSbz2JN0w7AxJv
+        PLQ5WDyLQ5Y8k3S8PVT99D0XjVA8zMzNPoAAAD9ywjU/AAAAP1GnuT8wjT4/HLCNAAAAADsDEm86gxJvAAAAAAAAAAAAAAAAPwAAADqDEm87RJumP4AAAAAAAAA/gAAA
+        AAAAAD+AAAAAAAAAAAAAAAAAAAAAAAAAP4AAAAAAAAA/AAAAAAAAAD8AAAA/BR64PwAAAD+AAAA/AAAAPwAAAD8AAAA/gAAAP4AAAAAAAAAAAAAAAAAAAD8AAAA/gAAA
+        PwAAAAAAAAA+vXCkAAAAAAAAAAA/gAAAP4AAAD8j1wo/gAAAAAAAAAAAAAA/gAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqqusrQ==
+        AEluaXQAEAAAAA==
+      >
+      PRESETNAME Init
+      FLOATPOS 500 379 987 799
+      FXID {532372E3-5B0D-9345-A9C8-98A8EBAF9A7E}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.090909
+      IGUID {A527DEA4-AC63-224B-B83B-E4476E08CF41}
+      IID 14
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {26132DC9-13E5-5A42-A74D-AB834853095C}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {5FA9DB7F-5722-964F-BEFB-0AF50ED25841}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        e 0 91 43 7f 2
+        e 192 91 43 00 -18
+        e 0 91 43 7f 9
+        e 144 91 43 00 16
+        e 48 91 45 7f 5
+        e 144 91 45 00 20
+        e 48 91 42 7f
+        e 288 91 42 00 -6
+        e 0 91 43 7f 2
+        e 96 91 43 00 -7
+        e 0 91 45 7f 5
+        e 144 91 45 00 15
+        e 48 91 47 7f
+        e 192 91 47 00 -23
+        e 0 91 47 7f
+        e 192 91 47 00 -15
+        e 0 91 48 7f 1
+        e 144 91 48 00 23
+        e 48 91 47 7f
+        e 288 91 47 00 -17
+        e 0 91 45 7f 2
+        e 96 91 45 00 -20
+        e 0 91 43 7f 2
+        e 144 91 43 00 22
+        e 48 91 45 7f 2
+        e 192 91 45 00 -21
+        e 0 91 43 7f
+        e 192 91 43 00 -20
+        e 0 91 42 7f
+        e 192 91 42 00 -23
+        e 0 91 43 7f 2
+        e 528 91 43 00 -11
+        e 48 91 4a 7f 2
+        e 192 91 4a 00 -18
+        e 0 91 4a 7f 4
+        e 192 91 4a 00 -22
+        e 0 91 4a 7f 2
+        e 144 91 4a 00 22
+        e 48 91 4a 7f 1
+        e 288 91 4a 00 -13
+        e 0 91 48 7f
+        e 96 91 48 00 -14
+        e 0 91 47 7f 4
+        e 192 91 47 00 -24
+        e 0 91 48 7f -3
+        e 192 91 48 00 -21
+        e 0 91 48 7f 2
+        e 192 91 48 00 -23
+        e 0 91 48 7f 1
+        e 144 91 48 00 21
+        e 48 91 48 7f
+        e 288 91 48 00 -16
+        e 0 91 47 7f 2
+        e 96 91 47 00 -12
+        e 0 91 45 7f 5
+        e 192 91 45 00 -24
+        e 0 91 47 7f 1
+        e 192 91 47 00 -9
+        e 0 91 48 7f 4
+        e 96 91 48 00 -2
+        e 0 91 47 7f -1
+        e 48 91 47 00 20
+        e 48 91 45 7f -4
+        e 96 91 45 00 2
+        e 0 91 43 7f -2
+        e 96 91 43 00 -8
+        e 0 91 47 7f 5
+        e 288 91 47 00 -14
+        e 0 91 48 7f
+        e 96 91 48 00 -19
+        e 0 91 4a 7f
+        e 144 91 4a 00 9
+        e 48 91 4c 7f -7
+        e 96 91 4c 00 -1
+        e 0 91 48 7f -6
+        e 48 91 48 00 10
+        e 48 91 47 7f -3
+        e 144 91 47 00 15
+        e 48 91 45 7f -3
+        e 144 91 45 00 15
+        e 48 91 43 7f 2
+        e 480 91 43 00 -20
+        E 96 b0 7b 00
+        GUID {A14D1352-FD86-A248-9C19-DA9BC74057F5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 81
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CC2DA94-25DB-A349-86FE-20DC5581229E}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {7F102EFA-2AD7-5345-914C-FBFCA33E2B0B}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        E 2 91 43 7f
+        E 172 91 43 00
+        E 27 91 43 7f
+        E 151 91 43 00
+        E 37 91 45 7f
+        E 159 91 45 00
+        E 28 91 42 7f
+        E 282 91 42 00
+        E 8 91 43 7f
+        E 87 91 43 00
+        E 12 91 45 7f
+        E 154 91 45 00
+        E 33 91 47 7f
+        E 169 91 47 00
+        E 23 91 47 7f
+        E 177 91 47 00
+        E 16 91 48 7f
+        E 166 91 48 00
+        E 25 91 47 7f
+        E 271 91 47 00
+        E 19 91 45 7f
+        E 74 91 45 00
+        E 22 91 43 7f
+        E 164 91 43 00
+        E 28 91 45 7f
+        E 169 91 45 00
+        E 21 91 43 7f
+        E 172 91 43 00
+        E 20 91 42 7f
+        E 169 91 42 00
+        E 25 91 43 7f
+        E 515 91 43 00
+        E 61 91 4a 7f
+        E 172 91 4a 00
+        E 22 91 4a 7f
+        E 166 91 4a 00
+        E 24 91 4a 7f
+        E 164 91 4a 00
+        E 27 91 4a 7f
+        E 274 91 4a 00
+        E 13 91 48 7f
+        E 82 91 48 00
+        E 18 91 47 7f
+        E 164 91 47 00
+        E 21 91 48 7f
+        E 174 91 48 00
+        E 23 91 48 7f
+        E 167 91 48 00
+        E 24 91 48 7f
+        E 164 91 48 00
+        E 27 91 48 7f
+        E 272 91 48 00
+        E 18 91 47 7f
+        E 82 91 47 00
+        E 17 91 45 7f
+        E 163 91 45 00
+        E 25 91 47 7f
+        E 182 91 47 00
+        E 13 91 48 7f
+        E 90 91 48 00
+        E 1 91 47 7f
+        E 69 91 47 00
+        E 24 91 45 7f
+        E 98 91 43 7f
+        E 4 91 45 00
+        E 86 91 43 00
+        E 13 91 47 7f
+        E 269 91 47 00
+        E 14 91 48 7f
+        E 77 91 48 00
+        E 19 91 4a 7f
+        E 153 91 4a 00
+        E 32 91 4c 7f
+        E 97 91 48 7f
+        E 5 91 4c 00
+        E 59 91 48 00
+        E 35 91 47 7f
+        E 162 91 47 00
+        E 30 91 45 7f
+        E 162 91 45 00
+        E 35 91 43 7f
+        E 458 91 43 00
+        E 116 b0 7b 00
+        GUID {D1346111-04EF-594E-9B8E-9C2984B387E3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 93
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.818182 0.090909
+      IGUID {6A8FF90B-10A7-B942-A40E-8AAB56E4201E}
+      IID 24
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {01505467-01CA-AA4B-9FB2-5932AE89F3D9}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {5A30C2D1-69A5-814B-8E13-785D56584143}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        e 0 98 3e 7f
+        e 192 98 3e 00 -16
+        e 0 98 3e 7f 5
+        e 192 98 3e 00 18
+        e 0 98 40 7f 6
+        e 192 98 40 00 8
+        e 0 98 3e 7f 4
+        e 288 98 3e 00 18
+        e 0 98 3d 7f 5
+        e 96 98 3d 00 -4
+        e 0 98 3e 7f 2
+        e 144 98 3e 00 19
+        e 48 98 3e 7f -2
+        e 192 98 3e 00 21
+        e 0 98 43 7f 1
+        e 144 98 43 00 19
+        e 48 98 43 7f -3
+        e 144 98 43 00 19
+        e 48 98 43 7f -4
+        e 288 98 43 00 -10
+        e 0 98 42 7f -10
+        e 96 98 42 00 17
+        e 0 98 40 7f
+        e 144 98 40 00 22
+        e 48 98 40 7f -3
+        e 192 98 40 00 2
+        e 0 98 3e 7f -3
+        e 144 98 3e 00 22
+        e 48 98 3e 7f -2
+        e 144 98 3e 00 23
+        e 48 98 3e 7f 2
+        e 192 98 3e 00 -8
+        e 0 98 3b 7f -3
+        e 96 98 3b 00 14
+        e 0 98 3e 7f -3
+        e 96 98 43 7f -2
+        e 48 98 3e 00 -22
+        e 48 98 43 00 -5
+        e 0 98 45 7f -2
+        e 96 98 45 00 2
+        e 0 98 47 7f 9
+        e 192 98 47 00 -24
+        e 0 98 47 7f 2
+        e 192 98 47 00 -18
+        e 0 98 47 7f 4
+        e 192 98 47 00 -14
+        e 0 98 47 7f 5
+        e 288 98 47 00 -10
+        e 0 98 45 7f -3
+        e 96 98 45 00 8
+        e 0 98 43 7f
+        e 192 98 43 00 3
+        e 0 98 45 7f 2
+        e 192 98 45 00 -18
+        e 0 98 45 7f 4
+        e 192 98 45 00 -4
+        e 0 98 45 7f
+        e 144 98 45 00 20
+        e 48 98 45 7f 7
+        e 288 98 45 00 1
+        e 0 98 43 7f 3
+        e 96 98 43 00 7
+        e 0 98 42 7f 5
+        e 144 98 42 00 20
+        e 48 98 43 7f
+        e 192 98 43 00 -15
+        e 0 98 45 7f 2
+        e 96 98 45 00 -2
+        e 0 98 43 7f
+        e 96 98 43 00 4
+        e 0 98 42 7f
+        e 96 98 42 00 4
+        e 0 98 40 7f -1
+        e 96 98 40 00 3
+        e 0 98 43 7f 1
+        e 288 98 43 00 4
+        e 0 98 42 7f 3
+        e 96 98 42 00 -3
+        e 0 98 41 7f
+        e 192 98 41 00 3
+        e 0 98 40 7f 5
+        e 0 98 43 7f 5
+        e 192 98 40 00 -13
+        e 0 98 43 00 -13
+        e 0 98 40 7f 7
+        e 0 98 43 7f 7
+        e 144 98 40 00 14
+        e 0 98 43 00 14
+        e 48 98 3e 7f 3
+        e 0 98 42 7f 2
+        e 192 98 3e 00 -15
+        e 0 98 42 00 -1
+        e 0 98 3e 7f 7
+        e 0 98 43 7f 10
+        e 432 98 3e 00 -13
+        e 0 98 43 00 -12
+        E 144 b0 7b 00
+        GUID {4BC7AE53-6D07-1146-B7B5-19FCD5B655DD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 91
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {652944DF-5266-D44B-844B-105586E8156D}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {7D8079CA-81A8-7347-A656-263B0CE974A9}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        E 0 98 3e 7f
+        E 176 98 3e 00
+        E 21 98 3e 7f
+        E 193 98 40 7f
+        E 12 98 3e 00
+        E 178 98 3e 7f
+        E 4 98 40 00
+        E 285 98 3d 7f
+        E 13 98 3e 00
+        E 74 98 3d 00
+        E 6 98 3e 7f
+        E 161 98 3e 00
+        E 27 98 3e 7f
+        E 195 98 43 7f
+        E 20 98 3e 00
+        E 142 98 43 00
+        E 26 98 43 7f
+        E 166 98 43 00
+        E 25 98 43 7f
+        E 282 98 43 00
+        E 0 98 42 7f
+        E 106 98 40 7f
+        E 17 98 42 00
+        E 149 98 40 00
+        E 23 98 40 7f
+        E 192 98 3e 7f
+        E 5 98 40 00
+        E 164 98 3e 00
+        E 24 98 3e 7f
+        E 169 98 3e 00
+        E 27 98 3e 7f
+        E 182 98 3e 00
+        E 5 98 3b 7f
+        E 96 98 3e 7f
+        E 17 98 3b 00
+        E 80 98 43 7f
+        E 28 98 3e 00
+        E 65 98 43 00
+        E 3 98 45 7f
+        E 100 98 45 00
+        E 7 98 47 7f
+        E 159 98 47 00
+        E 26 98 47 7f
+        E 172 98 47 00
+        E 22 98 47 7f
+        E 174 98 47 00
+        E 19 98 47 7f
+        E 273 98 47 00
+        E 7 98 45 7f
+        E 99 98 43 7f
+        E 8 98 45 00
+        E 186 98 45 7f
+        E 1 98 43 00
+        E 171 98 45 00
+        E 22 98 45 7f
+        E 184 98 45 00
+        E 4 98 45 7f
+        E 164 98 45 00
+        E 35 98 45 7f
+        E 282 98 45 00
+        E 2 98 43 7f
+        E 98 98 42 7f
+        E 2 98 43 00
+        E 157 98 42 00
+        E 28 98 43 7f
+        E 177 98 43 00
+        E 17 98 45 7f
+        E 92 98 45 00
+        E 2 98 43 7f
+        E 96 98 42 7f
+        E 4 98 43 00
+        E 91 98 40 7c
+        E 5 98 42 00
+        E 93 98 43 7f
+        E 2 98 40 00
+        E 288 98 42 7f
+        E 1 98 43 00
+        E 89 98 42 00
+        E 3 98 41 7f
+        E 195 98 41 00
+        E 2 98 40 6d
+        E 0 98 43 7f
+        E 174 98 40 00
+        E 0 98 43 00
+        E 20 98 40 7b
+        E 0 98 43 7f
+        E 151 98 40 00
+        E 0 98 43 00
+        E 36 98 42 7f
+        E 1 98 3e 73
+        E 174 98 3e 00
+        E 14 98 42 00
+        E 8 98 3e 6c
+        E 3 98 43 7f
+        E 409 98 3e 00
+        E 1 98 43 00
+        E 156 b0 7b 00
+        GUID {95292AA9-B7A0-B74D-9C32-5F5F5C2CEFA8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 97
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {9E2CAE92-CCC1-1F4A-BCF6-93DCFE473BDF}
+    NAME HARD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.34483987755952 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9E2CAE92-CCC1-1F4A-BCF6-93DCFE473BDF}
+    PERF 0
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 32 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 64 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 36 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 1
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 "" 1347176271
+        T0dMUO5e7f4AAAAABAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAATAQAAAEAAAAAABAA
+        Q0VHUPUjAAB4nO1aX2/bOAx/76cw/LR7mCPqjyUBSYc2bQ4BrrcC6T0PqqOlxjl25ti57T79yXbcKF0Vu0M7DDjzSaZJiaQpSvzB4w9f14m30/k2ztKJDwHyvQ/nZ+OL
+        PFYLtdPWKwmh723ybFlGxfzKMBCS/vmZZ2i80EURp6ut96VUSVx8M299b1vkWq0Ne+IT7Htr9XVRcy6SJItuLic+A8O+mV/NP5bFTbbUtZYqi2ytCrPmIsmKiY9sVqJ3
+        Opn4cWrmLtc6LXwviXe6UTaS22jiYzB2mZFKlOGB997TlVXBNkr27KlR1PnED43GKsnuVXJXprWdhjFqXTKre/Gy5qVqXc0PgXdb5tqbPsSb0WJ+NQqZAO/dn3eL6W++
+        d6/Sv+fLfVysuAlsvIweVJpWppvZNlliAkR9rzisurn/lKt0ZVZ5b2KwKczDtn6xtoZZVJhP8ugoVLyy2DP++ZSobVHN2zhQO3Gj4rR1YqeSsgnx6DkJeJRADgncKUE6
+        JWinBOuUCDsleKeE6JSQnRKAukW6owrdYYXuuEJ3YMEZ2VuVq/XTJAhIiCoCShADoNyl47T/IOI07iBiGReYDdQQ5yEVmAns0uKutLZcsr5SQCWrnaI8FIRXBc2hZFkc
+        YNJYQ0PCTtgCfYyxsioA3MzLMIEQC+p08sgDXusIiTlASKRTyf6UvHEbwlBIghBzKmH7K0jaLCUQl4g7feLE9ok2SiZOPOTUbV6PlOB2TrAmWByIMGlxwoXQ9pvRfhEW
+        9kq0ThEMlBkXsNNv4ayploxtTbOfECaCgmDcGRtxlCSNktmGEpkP7lxJoiOlxu/KfE6pM1hAoNsHiQ5TOzeMMe5RyLlDJMJ9luuRGhKFfWYSfYRknxrSx3LAiLik7lS+
+        0sX+IhFl6+A2yValDqp7VvDH7GNQbnWOrKO71pqWW3PzuVKF8h6KbxujyjirLjfxv2ZMQ2rdM0ysdLqMVTNcGh0zaGm2Tz000EAD/Sp0XCNGTZF4adWAoWoMNND/h360
+        atzl8Wql84X+Uuo00nl33aCEkse6wa2ygZ8rG/ur6mxPiFRPfIawGaNrweGpI2TKZ7KHw+Y6e8rp8ajCap7CNvCqsA20sA0+wDbwqrgNHnCbAbd5Ddym7vN5vXEokoiE
+        zkbT7vYlYgxAcoaFIBKcTc4RMMJpiJgUkrIQeCheC6VxN/fOL+cAPhjtCXzYGEZv4MOOBWki3oksHYEaGGS/lZxbxwE1kH3hBImRxM4EeHH/70RQ7P7/xExv0f+fgBt+
+        Rv//NqctEPbS4/ayPW6BoUs+u/zuGHUft+3RbHazoQtGqpv/9JflPmPv0EkNNNBAL6NXqRo/D7X9roF6QtdvEaOBBhrIpr5QxPXnzzoq7P9I2u6/KSgX6/u4uhp2YBDt
+        Dym//zVv51FREe/0/PCDTP18/fi81YlZWS/v1H17Px6P2l96zs/+A9n5BNE=
+        AAAQAAAA
+      >
+      FLOATPOS 294 269 870 508
+      FXID {DC79668B-30D1-964C-A162-F245DBE294B0}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: 8-Bit Shaper (Xfer Records)" 8BitShaper.vst 0 "" 1148539762
+        clN1RO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAANAIAAAEAAAAAABAA
+        ZmaGP+y3SD/Wxu0+KjlCPyQABAUAAIA//38AAAAAABgXAAAAMAAAABkAAAAaAAAAGgAAABoAAAAbAAAAGwAAABwAAAAcAAAAHAAAAB0AAAAdAAAAHgAAAB4AAAAfAAAA
+        HwAAACAAAAAgAAAAIAAAACEAAAAhAAAAIQAAACIAAAAiAAAAIgAAACMAAAAjAAAAIwAAACQAAAAkAAAAJAAAACUAAAAlAAAAKAAAACgAAAApAAAAKQAAACoAAAA1AAAA
+        KgAAACoAAAA2AAAAKgAAACoAAAAqAAAAKgAAACoAAAAqAAAAKgAAACsAAAArAAAAOQAAAC0AAAA0AAAAOgAAAC0AAAAtAAAAPAAAAC4AAAAuAAAALwAAADAAAAAwAAAA
+        MQAAADEAAAAxAAAAMgAAADMAAAAzAAAAMwAAADcAAAA3AAAANwAAADgAAAA4AAAAOAAAADkAAAA5AAAAOQAAADoAAAA6AAAAOgAAADoAAAA6AAAAOwAAADsAAAA7AAAA
+        PAAAADsAAAA7AAAAOwAAADwAAAA8AAAAPAAAADwAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAD4AAAA+AAAAPwAAAEkAAABAAAAAQAAAAEgAAABAAAAAQQAAAEIAAABCAAAA
+        QgAAAEMAAABDAAAAQwAAAEQAAABEAAAARQAAAE0AAABGAAAARwAAAEYAAABHAAAASAAAAEgAAABJAAAATwAAAAAAgD+rqqo+q6qqPvZo4T4AAIA/
+        AEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {B9EAAFDA-7F88-7A4C-B496-78F0C5006530}
+      WAK 0
+    >
+  >
+  <TRACK {B0448BAA-9F98-5543-9DF7-CDB8296564E0}
+    NAME "all > ch1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.64382266579432 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B0448BAA-9F98-5543-9DF7-CDB8296564E0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 36 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 1
+      SEL 0
+      YPOS 0.272727 0.090909
+      IGUID {A3D0ABBF-B1D1-0A46-81B8-0CE336552B6F}
+      IID 17
+      NAME "trumpet2             - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {8C89E8EB-F926-7348-9431-1E8463B49B32}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {112F2434-08F3-BA48-A33C-BBF916983114}
+        <X 0 0 0 0 3 "trumpet2            "
+          /wN0cnVtcGV0MiAgICAgICAgICAgIA==
+        >
+        e 0 94 32 7f
+        e 144 94 32 00 20
+        e 48 94 32 7f 1
+        e 192 94 32 00 -9
+        e 0 94 34 7f 6
+        e 192 94 34 00 -12
+        e 0 94 32 7f 2
+        e 240 94 32 00 20
+        e 48 94 31 7f
+        e 96 94 31 00 -14
+        e 0 94 32 7f 1
+        e 192 94 32 00 -19
+        e 0 94 37 7f 1
+        e 144 94 37 00 21
+        e 48 94 37 7f 1
+        e 192 94 37 00 -11
+        e 0 94 39 7f
+        e 192 94 39 00 2
+        e 0 94 37 7f 4
+        e 288 94 37 00 5
+        e 0 94 36 7f 5
+        e 96 94 36 00 2
+        e 0 94 34 7f 10
+        e 96 94 34 00 19
+        e 96 94 34 7f
+        e 192 94 34 00 -3
+        e 0 94 32 7f
+        e 144 94 32 00 17
+        e 48 94 32 7f 2
+        e 192 94 32 00 -21
+        e 0 94 32 7f 6
+        e 528 94 32 00 -22
+        e 48 94 37 7f 1
+        e 192 94 37 00 -22
+        e 0 94 37 7f 3
+        e 144 94 37 00 23
+        e 48 94 37 7f 3
+        e 144 94 37 00 10
+        e 48 94 37 7f 1
+        e 288 94 37 00 -10
+        e 0 94 36 7f 4
+        e 96 94 36 00 -8
+        e 0 94 37 7f 5
+        e 192 94 37 00 -16
+        e 0 94 36 7f 2
+        e 144 94 36 00 19
+        e 48 94 36 7f 5
+        e 144 94 36 00 12
+        e 48 94 36 7f 2
+        e 144 94 36 00 11
+        e 48 94 36 7f 2
+        e 288 94 36 00 -23
+        e 0 94 37 7f 1
+        e 96 94 37 00 -18
+        e 0 94 36 7f -2
+        e 144 94 36 00 13
+        e 48 94 37 7f 1
+        e 192 94 37 00 -17
+        e 0 94 36 7f -3
+        e 96 94 36 00 -2
+        e 0 94 37 7f -2
+        e 96 94 37 00 7
+        e 0 94 32 7f
+        e 96 94 32 00 -17
+        e 0 94 31 7f -9
+        e 96 94 31 00 8
+        e 288 94 36 7f
+        e 96 94 36 00 -9
+        e 0 94 35 7f 1
+        e 192 94 35 00 -24
+        e 0 94 34 7f
+        e 192 94 34 00 -5
+        e 0 94 37 7f -5
+        e 192 94 37 00 -3
+        e 0 94 36 7f 2
+        e 192 94 32 7f 10
+        e 48 94 36 00 -18
+        e 336 94 32 00 20
+        E 192 b0 7b 00
+        GUID {2D3CEA8C-FFB9-F04A-8586-8A79265359A1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 84
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE SEL
+      NAME "trumpet2             - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14E3F210-531B-2648-8724-F64724CC4A46}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {AC094FB0-FF6D-F14C-9C6F-3B5E8C856878}
+        <X 0 0 0 0 3 "trumpet2            "
+          /wN0cnVtcGV0MiAgICAgICAgICAgIA==
+        >
+        e 0 94 32 7f
+        e 164 94 32 00
+        e 29 94 32 7f
+        e 182 94 32 00
+        e 15 94 34 7f
+        e 174 94 34 00
+        e 14 94 32 7f
+        e 258 94 32 00
+        e 28 94 31 7f
+        e 82 94 31 00
+        e 15 94 32 7f
+        e 172 94 32 00
+        e 20 94 37 7f
+        e 164 94 37 00
+        e 28 94 37 7f
+        e 180 94 37 00
+        e 11 94 39 7f
+        e 194 94 39 00
+        e 2 94 37 7f
+        e 289 94 37 00
+        e 0 94 36 7f
+        e 93 94 36 00
+        e 8 94 34 7f
+        e 105 94 34 00
+        e 77 94 34 7f
+        e 189 94 34 00
+        e 3 94 32 7f
+        e 161 94 32 00
+        e 33 94 32 7f
+        e 169 94 32 00
+        e 27 94 32 7f
+        e 500 94 32 00
+        e 71 94 37 7f
+        e 169 94 37 00
+        e 25 94 37 7f
+        e 164 94 37 00
+        e 28 94 37 7f
+        e 151 94 37 00
+        e 39 94 37 7f
+        e 277 94 37 00
+        e 14 94 36 7f
+        e 84 94 36 00
+        e 13 94 37 7f
+        e 171 94 37 00
+        e 18 94 36 7f
+        e 161 94 36 00
+        e 34 94 36 7f
+        e 151 94 36 00
+        e 38 94 36 7f
+        e 153 94 36 00
+        e 39 94 36 7f
+        e 263 94 36 00
+        e 24 94 37 7f
+        e 77 94 37 00
+        e 16 94 36 7f
+        e 159 94 36 00
+        e 36 94 37 7f
+        e 174 94 37 00
+        e 14 94 36 7f
+        e 97 94 36 00
+        e 0 94 37 7f
+        e 98 94 32 7f
+        e 7 94 37 00
+        e 72 94 32 00
+        e 8 94 31 7f
+        e 113 94 31 00
+        e 280 94 36 7f
+        e 87 94 36 00
+        e 10 94 35 7f
+        e 167 94 35 00
+        e 24 94 34 7f
+        e 187 94 34 00
+        e 0 94 37 7f
+        e 194 94 37 00
+        e 5 94 36 7f
+        e 200 94 32 7f
+        e 20 94 36 00
+        e 374 94 32 00
+        E 172 b0 7b 00
+        GUID {D6B78F9A-3662-7941-94B7-997080BDF47C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 96
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0 0.090909
+      IGUID {3C7C1555-BA80-044B-ADAC-AFC26EE37B28}
+      IID 14
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {2C64BD7E-CFFC-B948-A9F3-FF8CB9B22C05}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {0FD34FF2-BAD0-3C48-A6E3-D0495220E49C}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        e 0 91 43 7f 2
+        e 192 91 43 00 -18
+        e 0 91 43 7f 9
+        e 144 91 43 00 16
+        e 48 91 45 7f 5
+        e 144 91 45 00 20
+        e 48 91 42 7f
+        e 288 91 42 00 -6
+        e 0 91 43 7f 2
+        e 96 91 43 00 -7
+        e 0 91 45 7f 5
+        e 144 91 45 00 15
+        e 48 91 47 7f
+        e 192 91 47 00 -23
+        e 0 91 47 7f
+        e 192 91 47 00 -15
+        e 0 91 48 7f 1
+        e 144 91 48 00 23
+        e 48 91 47 7f
+        e 288 91 47 00 -17
+        e 0 91 45 7f 2
+        e 96 91 45 00 -20
+        e 0 91 43 7f 2
+        e 144 91 43 00 22
+        e 48 91 45 7f 2
+        e 192 91 45 00 -21
+        e 0 91 43 7f
+        e 192 91 43 00 -20
+        e 0 91 42 7f
+        e 192 91 42 00 -23
+        e 0 91 43 7f 2
+        e 528 91 43 00 -11
+        e 48 91 4a 7f 2
+        e 192 91 4a 00 -18
+        e 0 91 4a 7f 4
+        e 192 91 4a 00 -22
+        e 0 91 4a 7f 2
+        e 144 91 4a 00 22
+        e 48 91 4a 7f 1
+        e 288 91 4a 00 -13
+        e 0 91 48 7f
+        e 96 91 48 00 -14
+        e 0 91 47 7f 4
+        e 192 91 47 00 -24
+        e 0 91 48 7f -3
+        e 192 91 48 00 -21
+        e 0 91 48 7f 2
+        e 192 91 48 00 -23
+        e 0 91 48 7f 1
+        e 144 91 48 00 21
+        e 48 91 48 7f
+        e 288 91 48 00 -16
+        e 0 91 47 7f 2
+        e 96 91 47 00 -12
+        e 0 91 45 7f 5
+        e 192 91 45 00 -24
+        e 0 91 47 7f 1
+        e 192 91 47 00 -9
+        e 0 91 48 7f 4
+        e 96 91 48 00 -2
+        e 0 91 47 7f -1
+        e 48 91 47 00 20
+        e 48 91 45 7f -4
+        e 96 91 45 00 2
+        e 0 91 43 7f -2
+        e 96 91 43 00 -8
+        e 0 91 47 7f 5
+        e 288 91 47 00 -14
+        e 0 91 48 7f
+        e 96 91 48 00 -19
+        e 0 91 4a 7f
+        e 144 91 4a 00 9
+        e 48 91 4c 7f -7
+        e 96 91 4c 00 -1
+        e 0 91 48 7f -6
+        e 48 91 48 00 10
+        e 48 91 47 7f -3
+        e 144 91 47 00 15
+        e 48 91 45 7f -3
+        e 144 91 45 00 15
+        e 48 91 43 7f 2
+        e 480 91 43 00 -20
+        E 96 b0 7b 00
+        GUID {A14D1352-FD86-A248-9C19-DA9BC74057F5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 81
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE SEL
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C5B6687-3BC3-4F40-9EEA-6D7D6947F206}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {7A975E7C-B6FD-5B4C-936D-1070A2B10849}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        E 2 91 43 7f
+        E 172 91 43 00
+        E 27 91 43 7f
+        E 151 91 43 00
+        E 37 91 45 7f
+        E 159 91 45 00
+        E 28 91 42 7f
+        E 282 91 42 00
+        E 8 91 43 7f
+        E 87 91 43 00
+        E 12 91 45 7f
+        E 154 91 45 00
+        E 33 91 47 7f
+        E 169 91 47 00
+        E 23 91 47 7f
+        E 177 91 47 00
+        E 16 91 48 7f
+        E 166 91 48 00
+        E 25 91 47 7f
+        E 271 91 47 00
+        E 19 91 45 7f
+        E 74 91 45 00
+        E 22 91 43 7f
+        E 164 91 43 00
+        E 28 91 45 7f
+        E 169 91 45 00
+        E 21 91 43 7f
+        E 172 91 43 00
+        E 20 91 42 7f
+        E 169 91 42 00
+        E 25 91 43 7f
+        E 515 91 43 00
+        E 61 91 4a 7f
+        E 172 91 4a 00
+        E 22 91 4a 7f
+        E 166 91 4a 00
+        E 24 91 4a 7f
+        E 164 91 4a 00
+        E 27 91 4a 7f
+        E 274 91 4a 00
+        E 13 91 48 7f
+        E 82 91 48 00
+        E 18 91 47 7f
+        E 164 91 47 00
+        E 21 91 48 7f
+        E 174 91 48 00
+        E 23 91 48 7f
+        E 167 91 48 00
+        E 24 91 48 7f
+        E 164 91 48 00
+        E 27 91 48 7f
+        E 272 91 48 00
+        E 18 91 47 7f
+        E 82 91 47 00
+        E 17 91 45 7f
+        E 163 91 45 00
+        E 25 91 47 7f
+        E 182 91 47 00
+        E 13 91 48 7f
+        E 90 91 48 00
+        E 1 91 47 7f
+        E 69 91 47 00
+        E 24 91 45 7f
+        E 98 91 43 7f
+        E 4 91 45 00
+        E 86 91 43 00
+        E 13 91 47 7f
+        E 269 91 47 00
+        E 14 91 48 7f
+        E 77 91 48 00
+        E 19 91 4a 7f
+        E 153 91 4a 00
+        E 32 91 4c 7f
+        E 97 91 48 7f
+        E 5 91 4c 00
+        E 59 91 48 00
+        E 35 91 47 7f
+        E 162 91 47 00
+        E 30 91 45 7f
+        E 162 91 45 00
+        E 35 91 43 7f
+        E 458 91 43 00
+        E 116 b0 7b 00
+        GUID {D1346111-04EF-594E-9B8E-9C2984B387E3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 93
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {4FCA358B-3FAC-3749-9BC2-11E94F70145F}
+    NAME "all > ch2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4FCA358B-3FAC-3749-9BC2-11E94F70145F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {3CF13A00-0AFC-8542-AD98-73B6D91102DB}
+    NAME "vst Plogue"
+    PEAKCOL 26779488
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 1 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {3CF13A00-0AFC-8542-AD98-73B6D91102DB}
+    PERF 0
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 32 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 96 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 64 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 128 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Multi) (Plogue Art et Technologie, Inc) (32 out)" "chipsounds Multi.vst" 0 "" 1347241807
+        T0dNUO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAA
+        AABAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAdBwAAAQAAAAAAEAA=
+        Q0VHUFw7AAB4nO1b3XPiNhB/z1/h4al9OFvfHzNJbgIJbWaaXmbITR9vFHCIW2OobdK7/vVdbEjkBGFxkDa9wy8YsbvSrmT9fto1x+8/T9LgIc6LZJqddHCIOsH706Pj
+        szwxA/MQWz9pLDrBLJ+O5sPy8hwaENKd06MAruNBXJZJNi6CP+cmTcov8GsnKMo8NhNoPulQ0gkm5vOgajlL0+nwqnvS4Riary7PLz/My6vpKK60zLycTkwJfQ7SaXnS
+        QXZTGj/E6UknycD2fBJnZSdIk4e4VgbJYghWRXVjUgNNOHgXxItBhcUwXTb3QC/OTzoLuXE6vTXpzTyrhgkN0coj6DxIRlVbZiYL8zgMrud5HPTuk1k0uDyPBFc4+OHX
+        m0Hvx05wa7I/LkfLsFhhUwScHN6bLFuMHKzNpinEh3WC8qnX2e2n3GRj6OUdhGBWwpei+mFi3U6HJczIo5940TYvlw1/fUpNUS7s1g5UTlyZJFs58WDSeR3haJ0EfpRA
+        DgnSKkFbJVirBG+VEK0SslVCtUroVgmM2kXao4rbw4rb44rbA4udkb02uZlsnuInEWdHTyJW+EPFOYILayQpU4K6dOxghkxXSohJoahcbDuOjqzwhpjo6uKEYkEUcyox
+        W4nWPXEqGMPKqSNsHVXrEKpAhbuVrEUWgjP18JRShMFYsUtN2X3RqieEsSZIE+3U0dvraNTwqR6dFBj2NEac00Sxaye5Mfk4Lpd75XA6Ca/T6XgehwskCX/pfwjnRZwj
+        a3eqtHrzAvb2c1Oa4L78MgNVLjmMuUj+hnumrJ0Uxhtno8TUtyNQgZvV1a8/CNrv1XQxqn3c1mn8nTh9kyfjcZwPAG/jbBjn7W4zyujKbcItt8k6t/HS6+VVf5fVPe3J
+        vm440UO0v8GR42gB8M+xHu8V6/EK68krYT3GB7A/gP3Xgj1uwBMWQlYPDkMaUeGEDeJaXP8uReBuhGofIHGCmINbeBMSm1twUWMqcBHJGHErcY/ROJ8DS0a32/kacrEB
+        820hj941eppCN8VAyPmsNaScK/F18EmhbfFJ1PgE+NxFXdnvvgDal6i1uuTSlkAcri6nC6iXzdazurW3VnaNhb1wmQOB+387vZ73kL3yHrbiPfiVeA9qoT1OVNyC9rio
+        04H2PBf5zmgPCiVhDCm9OP0DrHMn3FkuhXh5/heSYGADTvpiEwjJ/FgHb3iklyd5KZgiXDlxVnqA+raMC5gS9UwkMI/uG1mXiq1oTQXSbEN6B/v4ZadL2JJ+UgxdEOxc
+        AdIOBq3zJQo4HlOKOzmr9GGadvzQMn4aI64pom7L9koRvFpdEsO4pETOqZL2UoEZqpaX5lRIRt0LxZ4GTpg9vRuonqWka4CDZ02BT+7heTFNm0Q6o6Pd7NAW8jipaCR8
+        LHmsOo08KPImXmtJYXvoIa0nRSkkYSRuLYLszY+454G4I/O9EaaNTu92oljkgLc7UVRQBScK1L9AhHR9ThTniPZpDyHlIVtdhPeadruoefpYjgk1Tx+7B/NbPWesp9x0
+        r5Sb/NdlxXbK7SLUh0zjs4h9e5T7bZQVD1XEQxXxzYGDv9MHTuVy+61VEdleoZ2ugXZ+gPYDtL8JaN89m6YR54AykhOlqMY+VcWQSCYQ10ozLrAUbvDcjTL4FQd5naZr
+        zW40KAOt49ReUfQo/L1aUc+3Xrd1Je6A5gc0d7lto7nQ26J59SjWGRJXfkPSZn6jX2VIZH9thuR8nQVEmha+iiXIR5ZAwqAOQ/AboPXdNJ8U0c8mHwWDL9nQlybwx6Kb
+        2GsKYFdu0F5pa+cGLn5x4AYvRN4sN8DLugbnRAvuBjybGiDNtFdi2+5JIEGAGSiKtERSuAtFdtmFq7qsoTgjlEg3bDYYBfZ7wQc3jvBytYtoBYd/4sZV+zTum5YgHuSF
+        eBQYpHM1blnbakynYI30gGdFjC9THnB2Upozd4Fuy/eoQkypXvAwTIiidEM5hNpeCFYXW4BdwTqmcifyZNepNpRY91mpUj5CPi9zYY94Y+L1MhdBHm/tNatSIa1rnkoT
+        ibGg7keWIOcef+CnB366U7aJ0C0Jav0aQ51u2u2lwPWv/1WtXclf2t3OglhTXNzSAt7VApe7WmDnu1nwJfUXd3fxsLT/Mrii0fWCO5vcJovl1ULml50d//TxcmXHDMvk
+        Ib6s/wqJV98vHv8aWcQp9ByPbsztM7Z+ncdFXF7F2TxIipV6WXmw+QkIyvgziNwld+U9nBhMeX/Sic5mszQZVv/BLKJaE84eyayYzrMRtFSdFdEGu1EvNUWRDIOzfBaP
+        x8m0iKouQgP7zuzZ7v1i7GSrsU/M79Ia/EfY0IqogKnIxqnJRjCYT8M8NmUcDcxklsZFdLH6Jegni+91B70nD1d9FAsVXt4Xz8Z9HMGsnR4dR6t/zp4e/QPXw3Zn
+        AAAQAAAA
+      >
+      FLOATPOS 227 269 871 509
+      FXID {C804D762-B992-A540-81BF-3D6C0F7FF19B}
+      WAK 0
+    >
+  >
+  <TRACK {2BB5EACD-C1BC-284E-92F6-33B7023B768F}
+    NAME "ch1,3 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2BB5EACD-C1BC-284E-92F6-33B7023B768F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 1
+      SEL 0
+      YPOS 0 0.090909
+      IGUID {B745FA7A-97DA-684F-871E-3856D461E89F}
+      IID 14
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {45A2757B-FD93-0749-92F5-83F59473FDBC}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {485DC20E-863D-A046-8CB9-8E3ACC6600EB}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        e 0 91 43 7f 2
+        e 192 91 43 00 -18
+        e 0 91 43 7f 9
+        e 144 91 43 00 16
+        e 48 91 45 7f 5
+        e 144 91 45 00 20
+        e 48 91 42 7f
+        e 288 91 42 00 -6
+        e 0 91 43 7f 2
+        e 96 91 43 00 -7
+        e 0 91 45 7f 5
+        e 144 91 45 00 15
+        e 48 91 47 7f
+        e 192 91 47 00 -23
+        e 0 91 47 7f
+        e 192 91 47 00 -15
+        e 0 91 48 7f 1
+        e 144 91 48 00 23
+        e 48 91 47 7f
+        e 288 91 47 00 -17
+        e 0 91 45 7f 2
+        e 96 91 45 00 -20
+        e 0 91 43 7f 2
+        e 144 91 43 00 22
+        e 48 91 45 7f 2
+        e 192 91 45 00 -21
+        e 0 91 43 7f
+        e 192 91 43 00 -20
+        e 0 91 42 7f
+        e 192 91 42 00 -23
+        e 0 91 43 7f 2
+        e 528 91 43 00 -11
+        e 48 91 4a 7f 2
+        e 192 91 4a 00 -18
+        e 0 91 4a 7f 4
+        e 192 91 4a 00 -22
+        e 0 91 4a 7f 2
+        e 144 91 4a 00 22
+        e 48 91 4a 7f 1
+        e 288 91 4a 00 -13
+        e 0 91 48 7f
+        e 96 91 48 00 -14
+        e 0 91 47 7f 4
+        e 192 91 47 00 -24
+        e 0 91 48 7f -3
+        e 192 91 48 00 -21
+        e 0 91 48 7f 2
+        e 192 91 48 00 -23
+        e 0 91 48 7f 1
+        e 144 91 48 00 21
+        e 48 91 48 7f
+        e 288 91 48 00 -16
+        e 0 91 47 7f 2
+        e 96 91 47 00 -12
+        e 0 91 45 7f 5
+        e 192 91 45 00 -24
+        e 0 91 47 7f 1
+        e 192 91 47 00 -9
+        e 0 91 48 7f 4
+        e 96 91 48 00 -2
+        e 0 91 47 7f -1
+        e 48 91 47 00 20
+        e 48 91 45 7f -4
+        e 96 91 45 00 2
+        e 0 91 43 7f -2
+        e 96 91 43 00 -8
+        e 0 91 47 7f 5
+        e 288 91 47 00 -14
+        e 0 91 48 7f
+        e 96 91 48 00 -19
+        e 0 91 4a 7f
+        e 144 91 4a 00 9
+        e 48 91 4c 7f -7
+        e 96 91 4c 00 -1
+        e 0 91 48 7f -6
+        e 48 91 48 00 10
+        e 48 91 47 7f -3
+        e 144 91 47 00 15
+        e 48 91 45 7f -3
+        e 144 91 45 00 15
+        e 48 91 43 7f 2
+        e 480 91 43 00 -20
+        E 96 b0 7b 00
+        GUID {A14D1352-FD86-A248-9C19-DA9BC74057F5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 81
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "trumpet              - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD915D7B-1476-D644-9AB7-B423BC605C64}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {CD3A6784-6929-EA47-BDE6-DB8C05923282}
+        <X 0 0 0 0 3 "trumpet             "
+          /wN0cnVtcGV0ICAgICAgICAgICAgIA==
+        >
+        E 2 91 43 7f
+        E 172 91 43 00
+        E 27 91 43 7f
+        E 151 91 43 00
+        E 37 91 45 7f
+        E 159 91 45 00
+        E 28 91 42 7f
+        E 282 91 42 00
+        E 8 91 43 7f
+        E 87 91 43 00
+        E 12 91 45 7f
+        E 154 91 45 00
+        E 33 91 47 7f
+        E 169 91 47 00
+        E 23 91 47 7f
+        E 177 91 47 00
+        E 16 91 48 7f
+        E 166 91 48 00
+        E 25 91 47 7f
+        E 271 91 47 00
+        E 19 91 45 7f
+        E 74 91 45 00
+        E 22 91 43 7f
+        E 164 91 43 00
+        E 28 91 45 7f
+        E 169 91 45 00
+        E 21 91 43 7f
+        E 172 91 43 00
+        E 20 91 42 7f
+        E 169 91 42 00
+        E 25 91 43 7f
+        E 515 91 43 00
+        E 61 91 4a 7f
+        E 172 91 4a 00
+        E 22 91 4a 7f
+        E 166 91 4a 00
+        E 24 91 4a 7f
+        E 164 91 4a 00
+        E 27 91 4a 7f
+        E 274 91 4a 00
+        E 13 91 48 7f
+        E 82 91 48 00
+        E 18 91 47 7f
+        E 164 91 47 00
+        E 21 91 48 7f
+        E 174 91 48 00
+        E 23 91 48 7f
+        E 167 91 48 00
+        E 24 91 48 7f
+        E 164 91 48 00
+        E 27 91 48 7f
+        E 272 91 48 00
+        E 18 91 47 7f
+        E 82 91 47 00
+        E 17 91 45 7f
+        E 163 91 45 00
+        E 25 91 47 7f
+        E 182 91 47 00
+        E 13 91 48 7f
+        E 90 91 48 00
+        E 1 91 47 7f
+        E 69 91 47 00
+        E 24 91 45 7f
+        E 98 91 43 7f
+        E 4 91 45 00
+        E 86 91 43 00
+        E 13 91 47 7f
+        E 269 91 47 00
+        E 14 91 48 7f
+        E 77 91 48 00
+        E 19 91 4a 7f
+        E 153 91 4a 00
+        E 32 91 4c 7f
+        E 97 91 48 7f
+        E 5 91 4c 00
+        E 59 91 48 00
+        E 35 91 47 7f
+        E 162 91 47 00
+        E 30 91 45 7f
+        E 162 91 45 00
+        E 35 91 43 7f
+        E 458 91 43 00
+        E 116 b0 7b 00
+        GUID {D1346111-04EF-594E-9B8E-9C2984B387E3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 93
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.181818 0.090909
+      IGUID {9FF38D6C-3FAA-5A42-AE5F-E863D507050B}
+      IID 16
+      NAME "french horn          - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {21C0433C-36D7-D745-A575-0983A5BE7400}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {75A989EF-1D73-8E4A-A69E-81104760014C}
+        <X 0 0 0 0 3 "french horn         "
+          /wNmcmVuY2ggaG9ybiAgICAgICAgIA==
+        >
+        e 0 93 2f 7f 1
+        e 192 93 2f 00 -17
+        e 0 93 2f 7f 4
+        e 192 93 2f 00 -12
+        e 0 93 30 7f 2
+        e 192 93 30 00 -5
+        e 0 93 2d 7f 2
+        e 240 93 2d 00 11
+        e 48 93 2b 7f -2
+        e 96 93 2b 00 -16
+        e 0 93 2d 7f -5
+        e 192 93 2d 00
+        e 0 93 32 7f
+        e 192 93 32 00 -18
+        e 0 93 34 7f -3
+        e 144 93 34 00 20
+        e 48 93 34 7f -3
+        e 192 93 34 00
+        e 0 93 32 7f -1
+        e 288 93 32 00 -10
+        e 0 93 30 7f 3
+        e 48 93 30 00 19
+        e 48 93 2f 7f -4
+        e 192 93 2f 00 4
+        e 0 93 30 7f 4
+        e 192 93 30 00 4
+        e 0 93 2f 7f -1
+        e 192 93 2f 00 -19
+        e 0 93 2d 7f -1
+        e 192 93 2d 00 1
+        e 0 93 2f 7f 2
+        e 528 93 2f 00 -14
+        e 48 93 32 7f 10
+        e 144 93 32 00 12
+        e 48 93 32 7f 3
+        e 144 93 32 00 15
+        e 48 93 32 7f 3
+        e 144 93 32 00 13
+        e 48 93 32 7f 1
+        e 288 93 32 00 -21
+        e 0 93 32 7f 5
+        e 48 93 32 00 3
+        e 48 93 32 7f 2
+        e 144 93 32 00 16
+        e 48 93 32 7f 3
+        e 144 93 32 00 18
+        e 48 93 32 7f 2
+        e 144 93 32 00 17
+        e 48 93 32 7f 1
+        e 192 93 32 00 -24
+        e 0 93 32 7f 2
+        e 288 93 32 00 -17
+        e 0 93 32 7f 7
+        e 48 93 32 00 18
+        e 48 93 32 7f 2
+        e 144 93 32 00 -1
+        e 48 93 32 7f 5
+        e 192 93 32 00 -3
+        e 0 93 30 7f 1
+        e 96 93 30 00 -8
+        e 0 93 2f 7f -4
+        e 96 93 2f 00 -2
+        e 0 93 2d 7f -3
+        e 96 93 2d 00 -12
+        e 0 93 2b 7f -7
+        e 96 93 2b 00 8
+        e 0 93 32 7f -2
+        e 240 93 32 00 22
+        e 48 93 32 7f -2
+        e 48 93 32 00 4
+        e 48 93 32 7f -2
+        e 144 93 32 00 16
+        e 240 93 32 7f -3
+        e 144 93 32 00 6
+        e 48 93 32 7f -4
+        e 96 93 32 00 3
+        e 0 93 30 7f -5
+        e 96 93 30 00 1
+        e 0 93 2f 7f 4
+        e 384 93 2f 00 9
+        E 192 b0 7b 00
+        GUID {7FD50221-FE69-6148-8121-CF11E7617E63}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 83
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "french horn          - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D94E1F9-A052-9243-8AAF-456A77CFA47A}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {887C2A63-D608-7B48-8DCA-9A35AADE6F1F}
+        <X 0 0 0 0 3 "french horn         "
+          /wNmcmVuY2ggaG9ybiAgICAgICAgIA==
+        >
+        E 1 93 2f 7f
+        E 174 93 2f 00
+        E 21 93 2f 7f
+        E 176 93 2f 00
+        E 14 93 30 7f
+        E 185 93 30 00
+        E 7 93 2d 7f
+        E 249 93 2d 00
+        E 35 93 2b 7f
+        E 82 93 2b 00
+        E 11 93 2d 7f
+        E 197 93 2d 00
+        E 0 93 32 7f
+        E 174 93 32 00
+        E 15 93 34 7f
+        E 167 93 34 00
+        E 25 93 34 7f
+        E 194 93 32 7f
+        E 1 93 34 00
+        E 278 93 32 00
+        E 13 93 30 7f
+        E 64 93 30 00
+        E 25 93 2f 7f
+        E 200 93 2f 00
+        E 0 93 30 7f
+        E 187 93 2f 7f
+        E 5 93 30 00
+        E 169 93 2f 00
+        E 18 93 2d 7f
+        E 194 93 2d 00
+        E 1 93 2f 7f
+        E 512 93 2f 00
+        E 72 93 32 7f
+        E 146 93 32 00
+        E 39 93 32 7f
+        E 156 93 32 00
+        E 36 93 32 7f
+        E 154 93 32 00
+        E 36 93 32 7f
+        E 266 93 32 00
+        E 26 93 32 7f
+        E 46 93 32 00
+        E 47 93 32 7f
+        E 158 93 32 00
+        E 35 93 32 7f
+        E 159 93 32 00
+        E 32 93 32 7f
+        E 159 93 32 00
+        E 32 93 32 7f
+        E 167 93 32 00
+        E 26 93 32 7f
+        E 269 93 32 00
+        E 24 93 32 7f
+        E 59 93 32 00
+        E 32 93 32 7f
+        E 141 93 32 00
+        E 54 93 32 7f
+        E 184 93 32 00
+        E 4 93 30 7f
+        E 87 93 30 00
+        E 4 93 2f 7f
+        E 97 93 2d 7f
+        E 1 93 2f 00
+        E 86 93 2d 00
+        E 5 93 2b 7f
+        E 101 93 32 7f
+        E 10 93 2b 00
+        E 254 93 32 00
+        E 24 93 32 7f
+        E 54 93 32 00
+        E 42 93 32 7f
+        E 162 93 32 00
+        E 221 93 32 7f
+        E 153 93 32 00
+        E 38 93 32 7f
+        E 95 93 30 7f
+        E 8 93 32 00
+        E 94 93 30 00
+        E 3 93 2f 7f
+        E 389 93 2f 00
+        E 183 b0 7b 00
+        GUID {26B81451-DAF8-C149-8FED-9C9C94F171AD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 95
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {3C494A2B-9670-9740-AD22-E42CC5065FE1}
+    NAME "ch2,4 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C494A2B-9670-9740-AD22-E42CC5065FE1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.090909 0.090909
+      IGUID {F4D2D463-5195-D64F-B368-4AC000DD3F20}
+      IID 15
+      NAME "tuba                 - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {69C21D92-6281-D44B-9E54-BFA8F26C7875}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {0FB55C63-9AD2-074F-93A4-A8391338CC82}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        e 0 92 2b 7f 1
+        e 192 92 2b 00 12
+        e 0 92 23 7f 6
+        e 144 92 23 00 20
+        e 48 92 24 7f -3
+        e 192 92 24 00 -19
+        e 0 92 26 7f -3
+        e 288 92 26 00 -20
+        e 0 92 28 7f -6
+        e 96 92 28 00 3
+        e 0 92 2a 7f
+        e 192 92 2a 00 -10
+        e 0 92 2b 7f -4
+        e 192 92 2b 00 1
+        e 0 92 28 7f -2
+        e 192 92 28 00 -12
+        e 0 92 24 7f -4
+        e 192 92 24 00 -19
+        e 0 92 26 7f -4
+        e 288 92 26 00 -2
+        e 0 92 27 7f -6
+        e 96 92 27 00 11
+        e 0 92 28 7f -2
+        e 192 92 28 00 -4
+        e 0 92 24 7f 1
+        e 192 92 24 00 3
+        e 0 92 26 7f
+        e 192 92 26 00 -23
+        e 0 92 26 7f 1
+        e 192 92 26 00 3
+        e 0 92 2b 7f 2
+        e 528 92 2b 00 -16
+        e 48 92 1f 7f -2
+        e 192 92 1f 00 -9
+        e 0 92 23 7f -2
+        e 192 92 23 00 -12
+        e 0 92 26 7f
+        e 192 92 26 00 8
+        e 0 92 2b 7f 1
+        e 288 92 2b 00 -6
+        e 0 92 26 7f 6
+        e 96 92 26 00 -8
+        e 0 92 2b 7f 4
+        e 192 92 2b 00 -1
+        e 0 92 26 7f 1
+        e 192 92 26 00 -2
+        e 0 92 2a 7f -3
+        e 192 92 2a 00 7
+        e 0 92 2d 7f -1
+        e 192 92 2d 00 2
+        e 0 92 26 7f
+        e 240 92 26 00 21
+        e 48 92 2b 7f 2
+        e 96 92 2b 00 -10
+        e 0 92 26 7f 1
+        e 192 92 26 00 -10
+        e 0 92 2b 7f -4
+        e 192 92 2b 00 -3
+        e 0 92 2d 7f 1
+        e 96 92 2d 00 -1
+        e 0 92 2b 7f -2
+        e 96 92 2b 00 -5
+        e 0 92 2a 7f -4
+        e 96 92 2a 00 -16
+        e 0 92 28 7f -6
+        e 96 92 28 00 13
+        e 0 92 26 7f -1
+        e 96 92 26 00
+        e 0 92 24 7f -3
+        e 96 92 24 00 -4
+        e 0 92 23 7f -4
+        e 96 92 23 00 -11
+        e 0 92 21 7f -6
+        e 96 92 21 00 -20
+        e 0 92 1f 7f -1
+        e 192 92 1f 00 -6
+        e 0 92 24 7f -1
+        e 192 92 24 00 -9
+        e 0 92 26 7f -5
+        e 144 92 26 00 7
+        e 48 92 26 7f -1
+        e 192 92 26 00 2
+        e 0 92 1f 7f
+        e 480 92 1f 00 -6
+        E 96 b0 7b 00
+        GUID {5551893B-55BB-BD44-86AD-D4BB9E8A942D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 82
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "tuba                 - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE87FC0D-414B-4648-B3BF-96254CE60501}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {8EA9C7EC-3067-424A-B209-7391E729D744}
+        <X 0 0 0 0 3 "tuba                "
+          /wN0dWJhICAgICAgICAgICAgICAgIA==
+        >
+        E 1 92 2b 7f
+        E 197 92 23 7f
+        E 6 92 2b 00
+        E 152 92 23 00
+        E 25 92 24 7f
+        E 176 92 24 00
+        E 16 92 26 7f
+        E 271 92 26 00
+        E 14 92 28 7f
+        E 102 92 2a 7f
+        E 3 92 28 00
+        E 179 92 2a 00
+        E 6 92 2b 7f
+        E 194 92 28 7f
+        E 3 92 2b 00
+        E 179 92 28 00
+        E 8 92 24 7f
+        E 177 92 24 00
+        E 15 92 26 7f
+        E 286 92 27 7f
+        E 4 92 26 00
+        E 96 92 28 7f
+        E 13 92 27 00
+        E 177 92 28 00
+        E 5 92 24 7f
+        E 191 92 26 7f
+        E 3 92 24 00
+        E 166 92 26 00
+        E 24 92 26 7f
+        E 193 92 2b 7f
+        E 1 92 26 00
+        E 509 92 2b 00
+        E 62 92 1f 7f
+        E 185 92 1f 00
+        E 7 92 23 7f
+        E 182 92 23 00
+        E 12 92 26 7f
+        E 193 92 2b 7f
+        E 7 92 26 00
+        E 274 92 2b 00
+        E 12 92 26 7f
+        E 82 92 26 00
+        E 12 92 2b 7f
+        E 187 92 2b 00
+        E 2 92 26 7f
+        E 188 92 2a 7f
+        E 1 92 26 00
+        E 193 92 2d 7f
+        E 8 92 2a 00
+        E 185 92 26 7f
+        E 2 92 2d 00
+        E 259 92 26 00
+        E 29 92 2b 7f
+        E 84 92 2b 00
+        E 11 92 26 7f
+        E 181 92 26 00
+        E 6 92 2b 7f
+        E 193 92 2b 00
+        E 4 92 2d 7f
+        E 93 92 2b 7f
+        E 1 92 2d 00
+        E 92 92 2b 00
+        E 1 92 2a 7f
+        E 84 92 2a 00
+        E 10 92 28 7f
+        E 101 92 26 7f
+        E 14 92 28 00
+        E 80 92 24 7f
+        E 3 92 26 00
+        E 92 92 24 00
+        E 0 92 23 7f
+        E 89 92 23 00
+        E 5 92 21 7f
+        E 82 92 21 00
+        E 19 92 1f 7f
+        E 187 92 1f 00
+        E 5 92 24 7f
+        E 184 92 24 00
+        E 4 92 26 7f
+        E 156 92 26 00
+        E 40 92 26 7f
+        E 193 92 1f 7f
+        E 2 92 26 00
+        E 472 92 1f 00
+        E 102 b0 7b 00
+        GUID {0B0E4BFB-CE54-4D40-B53B-89F79C11A88C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 94
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.818182 0.090909
+      IGUID {A7F4794A-E52D-674D-A038-F6DB43DA0B50}
+      IID 24
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26173599 B
+      GUID {E232B8FD-ECB2-3942-BB83-9A7105F777DF}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {6BBE665A-8C8F-D447-9826-B8E3892EE9A1}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        e 0 98 3e 7f
+        e 192 98 3e 00 -16
+        e 0 98 3e 7f 5
+        e 192 98 3e 00 18
+        e 0 98 40 7f 6
+        e 192 98 40 00 8
+        e 0 98 3e 7f 4
+        e 288 98 3e 00 18
+        e 0 98 3d 7f 5
+        e 96 98 3d 00 -4
+        e 0 98 3e 7f 2
+        e 144 98 3e 00 19
+        e 48 98 3e 7f -2
+        e 192 98 3e 00 21
+        e 0 98 43 7f 1
+        e 144 98 43 00 19
+        e 48 98 43 7f -3
+        e 144 98 43 00 19
+        e 48 98 43 7f -4
+        e 288 98 43 00 -10
+        e 0 98 42 7f -10
+        e 96 98 42 00 17
+        e 0 98 40 7f
+        e 144 98 40 00 22
+        e 48 98 40 7f -3
+        e 192 98 40 00 2
+        e 0 98 3e 7f -3
+        e 144 98 3e 00 22
+        e 48 98 3e 7f -2
+        e 144 98 3e 00 23
+        e 48 98 3e 7f 2
+        e 192 98 3e 00 -8
+        e 0 98 3b 7f -3
+        e 96 98 3b 00 14
+        e 0 98 3e 7f -3
+        e 96 98 43 7f -2
+        e 48 98 3e 00 -22
+        e 48 98 43 00 -5
+        e 0 98 45 7f -2
+        e 96 98 45 00 2
+        e 0 98 47 7f 9
+        e 192 98 47 00 -24
+        e 0 98 47 7f 2
+        e 192 98 47 00 -18
+        e 0 98 47 7f 4
+        e 192 98 47 00 -14
+        e 0 98 47 7f 5
+        e 288 98 47 00 -10
+        e 0 98 45 7f -3
+        e 96 98 45 00 8
+        e 0 98 43 7f
+        e 192 98 43 00 3
+        e 0 98 45 7f 2
+        e 192 98 45 00 -18
+        e 0 98 45 7f 4
+        e 192 98 45 00 -4
+        e 0 98 45 7f
+        e 144 98 45 00 20
+        e 48 98 45 7f 7
+        e 288 98 45 00 1
+        e 0 98 43 7f 3
+        e 96 98 43 00 7
+        e 0 98 42 7f 5
+        e 144 98 42 00 20
+        e 48 98 43 7f
+        e 192 98 43 00 -15
+        e 0 98 45 7f 2
+        e 96 98 45 00 -2
+        e 0 98 43 7f
+        e 96 98 43 00 4
+        e 0 98 42 7f
+        e 96 98 42 00 4
+        e 0 98 40 7f -1
+        e 96 98 40 00 3
+        e 0 98 43 7f 1
+        e 288 98 43 00 4
+        e 0 98 42 7f 3
+        e 96 98 42 00 -3
+        e 0 98 41 7f
+        e 192 98 41 00 3
+        e 0 98 40 7f 5
+        e 0 98 43 7f 5
+        e 192 98 40 00 -13
+        e 0 98 43 00 -13
+        e 0 98 40 7f 7
+        e 0 98 43 7f 7
+        e 144 98 40 00 14
+        e 0 98 43 00 14
+        e 48 98 3e 7f 3
+        e 0 98 42 7f 2
+        e 192 98 3e 00 -15
+        e 0 98 42 00 -1
+        e 0 98 3e 7f 7
+        e 0 98 43 7f 10
+        e 432 98 3e 00 -13
+        e 0 98 43 00 -12
+        E 144 b0 7b 00
+        GUID {4BC7AE53-6D07-1146-B7B5-19FCD5B655DD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 91
+        VELLANE -1 86 6
+        CFGEDITVIEW -403.2 25.497835 83 24 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.25 269 4 1280 633 0 0 2 3 0 0 0 0 0 0.5 0 0 1 64
+      >
+      TAKE
+      NAME "strings (alto)       - National_Anthems_-_United_Kingdom.mid"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9342658-0A26-0C42-A8F4-DAEC7BBAFAD6}
+      <SOURCE MIDI
+        HASDATA 1 192 QN
+        POOLEDEVTS {E67090DA-03D8-4446-B616-F86699FEF41A}
+        <X 0 0 0 0 3 "strings (alto)      "
+          /wNzdHJpbmdzIChhbHRvKSAgICAgIA==
+        >
+        E 0 98 3e 7f
+        E 176 98 3e 00
+        E 21 98 3e 7f
+        E 193 98 40 7f
+        E 12 98 3e 00
+        E 178 98 3e 7f
+        E 4 98 40 00
+        E 285 98 3d 7f
+        E 13 98 3e 00
+        E 74 98 3d 00
+        E 6 98 3e 7f
+        E 161 98 3e 00
+        E 27 98 3e 7f
+        E 195 98 43 7f
+        E 20 98 3e 00
+        E 142 98 43 00
+        E 26 98 43 7f
+        E 166 98 43 00
+        E 25 98 43 7f
+        E 282 98 43 00
+        E 0 98 42 7f
+        E 106 98 40 7f
+        E 17 98 42 00
+        E 149 98 40 00
+        E 23 98 40 7f
+        E 192 98 3e 7f
+        E 5 98 40 00
+        E 164 98 3e 00
+        E 24 98 3e 7f
+        E 169 98 3e 00
+        E 27 98 3e 7f
+        E 182 98 3e 00
+        E 5 98 3b 7f
+        E 96 98 3e 7f
+        E 17 98 3b 00
+        E 80 98 43 7f
+        E 28 98 3e 00
+        E 65 98 43 00
+        E 3 98 45 7f
+        E 100 98 45 00
+        E 7 98 47 7f
+        E 159 98 47 00
+        E 26 98 47 7f
+        E 172 98 47 00
+        E 22 98 47 7f
+        E 174 98 47 00
+        E 19 98 47 7f
+        E 273 98 47 00
+        E 7 98 45 7f
+        E 99 98 43 7f
+        E 8 98 45 00
+        E 186 98 45 7f
+        E 1 98 43 00
+        E 171 98 45 00
+        E 22 98 45 7f
+        E 184 98 45 00
+        E 4 98 45 7f
+        E 164 98 45 00
+        E 35 98 45 7f
+        E 282 98 45 00
+        E 2 98 43 7f
+        E 98 98 42 7f
+        E 2 98 43 00
+        E 157 98 42 00
+        E 28 98 43 7f
+        E 177 98 43 00
+        E 17 98 45 7f
+        E 92 98 45 00
+        E 2 98 43 7f
+        E 96 98 42 7f
+        E 4 98 43 00
+        E 91 98 40 7c
+        E 5 98 42 00
+        E 93 98 43 7f
+        E 2 98 40 00
+        E 288 98 42 7f
+        E 1 98 43 00
+        E 89 98 42 00
+        E 3 98 41 7f
+        E 195 98 41 00
+        E 2 98 40 6d
+        E 0 98 43 7f
+        E 174 98 40 00
+        E 0 98 43 00
+        E 20 98 40 7b
+        E 0 98 43 7f
+        E 151 98 40 00
+        E 0 98 43 00
+        E 36 98 42 7f
+        E 1 98 3e 73
+        E 174 98 3e 00
+        E 14 98 42 00
+        E 8 98 3e 6c
+        E 3 98 43 7f
+        E 409 98 3e 00
+        E 1 98 43 00
+        E 156 b0 7b 00
+        GUID {95292AA9-B7A0-B74D-9C32-5F5F5C2CEFA8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 97
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 0 55 22 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 0 0 0 0 0 1 0 1 0 1 0.5 721 346 1732 975 0 0 2 4 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {97C14EE2-C273-C940-9D68-54C062C3CBCA}
+    NAME ChipFront
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.30501425801 -0.058 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {97C14EE2-C273-C940-9D68-54C062C3CBCA}
+    PERF 0
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAADcCwAAAAAAAAAAEAA=
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAAA/q6qqPq2+aD8AAAA/ig0yPM3MzD0AAAAAAAAAAAAAAAAAAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj4ATrI+
+        AAAAPwAAAADBykk/XXRRPwAAAACJiIg9AACAP6oXiD4AAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqKj3ZiZ09gShWPgAAAAAAAAAA
+        v+eWPQAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcEZyb250AENoaXBGcm9udAAQAAAA
+      >
+      PRESETNAME ChipFront
+      FLOATPOS 36 32 927 529
+      FXID {4C5A6810-F3ED-0645-A06D-6758F70CB097}
+      WAK 0
+    >
+  >
+  <TRACK {1B564899-9ACC-8C4B-8FBF-925A5A247A13}
+    NAME ChipSide
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.41241590683977 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.556322 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B564899-9ACC-8C4B-8FBF-925A5A247A13}
+    PERF 0
+    AUXRECV 5 0 1.03113579563571 0 0 0 0 2 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAANwLAAAAAAAAAAAQAA==
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/q6qqPsplFD8AAAA/TxqgPc3MzD0AAAAAAAAAAEKGIj8AAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj6CdAA9
+        EObJPZgn+j4AAIA/AAAAAAAAAACJiAg+AACAP7PDtD4AAIA/AAAAAAAAAAAAAAAAq6qqPgAAAACeFR0/AAAAAAAAgD8AAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqqj3ZiZ09gShWPgAAgD8AAAAA
+        v+eWPdmJHT0WszE/AAAAAAAAAACSdiw8AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcFNpZGUAQ2hpcFNpZGUAEAAAAA==
+      >
+      PRESETNAME ChipSide
+      FLOATPOS 36 32 641 529
+      FXID {20356A84-5CFD-6E4A-AA26-2A8A49CE7A76}
+      WAK 0
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {F4CC3575-1D7D-424F-8F4B-C71B325A2484} 0 "" "" ""
+    >
+    <BR_CURSOR_POS 00
+      11.00000000000000
+    >
+  >
+  <EXTSTATE
+  >
+>
