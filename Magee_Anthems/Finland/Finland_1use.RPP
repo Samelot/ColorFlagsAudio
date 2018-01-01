@@ -1,0 +1,2010 @@
+<REAPER_PROJECT 0.1 "5.50rc21/OSX64" 1511921626
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 436
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 174207 8 1 8 1 0 0 0
+  TIMEMODE 6 0 -1 24 2
+  PANMODE 3
+  CURSOR 0
+  ZOOM 57.8703703703704 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1 0 0
+  MIDIEDITOR 1662728987 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/samenglander/_dev/colorflags/anthems/finland_1.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824
+  TAKELANE 3
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbSAAAAABAAAABQAAAAAAAAAAAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 18 0
+  SELECTION2 18 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    NAME midi
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4CC3575-1D7D-424F-8F4B-C71B325A2484}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 0 4 1102 537
+      SHOW 0
+      LASTSEL 0
+      DOCKED 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.142857 0.142857
+      IGUID {2ABB18CA-7610-044B-9C90-DAD8D5516841}
+      IID 34
+      NAME "fr. horn(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1B961B0-784F-824C-8456-215725612105}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {A8775F93-651F-CA4A-87A8-A8E0202217BF}
+        <X 0 0 0 0 3 "fr. horn(s)"
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 241 91 40 5d
+        E 174 81 40 27
+        E 52 91 3d 5d
+        E 176 81 3d 25
+        E 49 91 3e 4d
+        E 215 81 3e 2a
+        E 61 91 40 57
+        E 444 81 40 01
+        E 51 91 39 4f
+        E 414 81 39 01
+        E 44 91 44 55
+        E 423 81 44 01
+        E 45 91 45 4f
+        E 443 81 45 22
+        E 19 91 40 39
+        E 435 81 40 2d
+        E 75 91 40 35
+        E 437 81 40 04
+        E 42 91 3e 4e
+        E 418 81 3e 01
+        E 53 91 3d 4b
+        E 0 91 40 47
+        E 409 81 3d 01
+        E 8 81 40 2a
+        E 58 91 3e 4d
+        E 6 91 3b 1d
+        E 429 81 3b 01
+        E 17 81 3e 1c
+        E 45 91 3d 41
+        E 2 91 40 42
+        E 802 81 3d 1b
+        E 15 81 40 21
+        E 124 91 40 44
+        E 393 81 40 38
+        E 92 91 3e 4e
+        E 9 91 40 35
+        E 298 81 3e 2d
+        E 47 91 3d 48
+        E 119 81 3d 2b
+        E 22 91 3b 4a
+        E 207 81 3b 15
+        E 7 91 3e 52
+        E 91 81 40 01
+        E 137 81 3e 2b
+        E 12 91 3d 4d
+        E 214 81 3d 2d
+        E 14 91 3b 47
+        E 217 81 3b 26
+        E 35 91 39 4d
+        E 239 81 39 2b
+        E 1 91 3e 4b
+        E 240 81 3e 2a
+        E 9 91 3d 45
+        E 766 81 3d 2c
+        E 216 91 40 41
+        E 6 91 3e 4d
+        E 315 81 3e 1a
+        E 6 91 3d 42
+        E 129 81 3d 39
+        E 11 91 3b 44
+        E 15 81 40 48
+        E 205 91 3e 4d
+        E 9 81 3b 01
+        E 206 81 3e 2a
+        E 11 91 3d 45
+        E 238 81 3d 34
+        E 13 91 3b 4a
+        E 208 81 3b 25
+        E 34 91 39 4a
+        E 246 91 3e 4a
+        E 4 81 39 01
+        E 241 81 3e 29
+        E 7 91 3d 45
+        E 689 81 3d 43
+        E 32 91 40 4b
+        E 192 81 40 13
+        E 22 91 45 5f
+        E 320 81 45 3d
+        E 26 91 40 5a
+        E 110 81 40 3b
+        E 9 91 3d 4d
+        E 195 81 3d 4c
+        E 33 91 40 55
+        E 227 81 40 01
+        E 23 91 45 62
+        E 223 81 45 01
+        E 28 91 44 5a
+        E 0 91 40 5a
+        E 232 81 44 01
+        E 0 81 40 01
+        E 17 91 45 4d
+        E 0 91 40 4d
+        E 804 81 45 40
+        E 0 81 40 40
+        E 199 91 40 47
+        E 398 81 40 33
+        E 71 91 3e 4a
+        E 412 81 3e 14
+        E 50 91 3d 4a
+        E 9 91 40 4f
+        E 433 81 3d 32
+        E 13 81 40 1c
+        E 43 91 3e 5a
+        E 2 91 3b 44
+        E 424 81 3e 2d
+        E 2 81 3b 18
+        E 39 91 3d 55
+        E 24 91 40 4a
+        E 1449 81 40 43
+        E 7 81 3d 5a
+        E 448 b0 7b 00
+        GUID {891F7BE1-99AC-FD49-B0C3-86B8ACE60437}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 639
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.285714 0.142857
+      IGUID {11091EAD-FC47-CC41-B06F-A5C03FD2A33D}
+      IID 35
+      NAME "trombone(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F42473A3-99AE-044A-B176-F3318A23DC25}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {A740F3C5-F2FE-E546-854D-91ADBFC89582}
+        <X 0 0 0 0 3 trombone(s)
+          /wN0cm9tYm9uZShzKQ==
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 238 92 34 6a
+        E 184 82 34 27
+        E 54 92 31 6a
+        E 191 82 31 47
+        E 51 92 32 65
+        E 155 82 32 1f
+        E 102 92 34 67
+        E 477 82 34 2b
+        E 4 92 31 62
+        E 410 82 31 2d
+        E 59 92 34 62
+        E 433 82 34 10
+        E 57 92 39 5a
+        E 395 82 39 01
+        E 84 92 2d 65
+        E 421 82 2d 20
+        E 61 92 31 62
+        E 409 82 31 2a
+        E 65 92 32 4f
+        E 391 82 32 2c
+        E 66 92 34 5f
+        E 387 82 34 01
+        E 116 92 28 5d
+        E 377 82 28 16
+        E 97 92 2d 5f
+        E 796 82 2d 43
+        E 163 92 34 5a
+        E 400 82 34 01
+        E 67 92 28 4f
+        E 462 82 28 04
+        E 33 92 34 4f
+        E 364 82 34 01
+        E 76 92 28 4b
+        E 441 82 28 01
+        E 50 92 2d 5d
+        E 382 82 2d 3e
+        E 101 92 2d 5d
+        E 393 82 2d 2b
+        E 90 92 34 57
+        E 418 82 34 01
+        E 85 92 28 5a
+        E 382 82 28 1d
+        E 82 92 34 4d
+        E 328 82 34 17
+        E 151 92 28 5a
+        E 352 82 28 01
+        E 121 92 2d 5d
+        E 366 82 2d 17
+        E 113 92 2d 62
+        E 623 82 2d 24
+        E 81 92 34 5f
+        E 173 82 34 13
+        E 93 92 39 57
+        E 318 82 39 01
+        E 14 92 34 55
+        E 117 92 31 62
+        E 18 82 34 3f
+        E 178 82 31 09
+        E 48 92 34 5d
+        E 171 82 34 01
+        E 92 92 39 4a
+        E 179 82 39 05
+        E 64 92 34 65
+        E 133 82 34 05
+        E 118 92 2d 65
+        E 871 82 2d 01
+        E 81 92 31 62
+        E 439 82 31 1d
+        E 52 92 32 5a
+        E 417 82 32 25
+        E 60 92 34 4f
+        E 386 82 34 0d
+        E 114 92 28 4b
+        E 450 82 28 16
+        E 29 92 2d 55
+        E 1516 82 2d 60
+        E 385 b0 7b 00
+        GUID {C8EC207D-739A-9F46-9878-40306210A541}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 640
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.428571 0.142857
+      IGUID {0BDC7366-0B91-B343-B7DB-0E1FC4D688CE}
+      IID 36
+      NAME "tuba(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DC9D1F9-0029-C34C-B36E-09AA643FAB03}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {0BE8BC64-0929-F544-9DAB-1F7D6CFE9615}
+        <X 0 0 0 0 3 tuba(s)
+          /wN0dWJhKHMp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 256 93 28 6d
+        E 181 83 28 17
+        E 52 93 25 6a
+        E 193 83 25 48
+        E 38 93 26 6a
+        E 172 83 26 44
+        E 88 93 28 6a
+        E 424 83 28 19
+        E 47 93 25 6d
+        E 412 83 25 28
+        E 58 93 28 6a
+        E 397 83 28 02
+        E 108 93 2d 6a
+        E 423 83 2d 01
+        E 44 93 21 6f
+        E 439 83 21 18
+        E 28 93 25 6f
+        E 422 83 25 48
+        E 56 93 26 6d
+        E 407 83 26 07
+        E 71 93 28 6a
+        E 418 83 28 07
+        E 78 93 1c 6a
+        E 433 83 1c 24
+        E 63 93 21 73
+        E 817 83 21 3e
+        E 136 93 28 67
+        E 418 83 28 04
+        E 69 93 1c 6d
+        E 435 83 1c 23
+        E 22 93 28 6a
+        E 343 83 28 01
+        E 114 93 1c 67
+        E 476 83 1c 01
+        E 10 93 21 6d
+        E 388 83 21 4c
+        E 75 93 21 6a
+        E 500 83 21 4a
+        E 12 93 28 6a
+        E 395 83 28 07
+        E 97 93 1c 6d
+        E 439 83 1c 36
+        E 29 93 28 6f
+        E 419 83 28 01
+        E 60 93 1c 62
+        E 461 83 1c 01
+        E 10 93 21 6f
+        E 390 83 21 4c
+        E 94 93 21 6f
+        E 527 83 21 44
+        E 177 93 28 67
+        E 214 83 28 20
+        E 45 93 2d 67
+        E 303 83 2d 1c
+        E 15 93 28 65
+        E 118 83 28 2a
+        E 28 93 25 6a
+        E 207 83 25 28
+        E 25 93 28 67
+        E 229 83 28 41
+        E 17 93 2d 62
+        E 185 83 2d 1a
+        E 52 93 28 67
+        E 194 83 28 18
+        E 57 93 21 6f
+        E 874 83 21 34
+        E 94 93 25 6d
+        E 392 83 25 3a
+        E 101 93 26 6f
+        E 441 83 26 2f
+        E 49 93 28 65
+        E 422 83 28 01
+        E 42 93 1c 6a
+        E 455 83 1c 16
+        E 31 93 21 6d
+        E 1442 83 21 66
+        E 467 b0 7b 00
+        GUID {8FA99E7D-2B96-694D-AB9C-07D077332338}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 641
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.571429 0.142857
+      IGUID {EAB4CD2A-AD39-D34C-A6BE-7CAD9DDBE43E}
+      IID 38
+      NAME "strings (mid) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A83DB5D-1CC3-EA43-9883-5F521C228288}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {8D45123F-7818-1044-A99E-AF3CBD37FE90}
+        <X 0 0 0 0 3 "strings (mid)"
+          /wNzdHJpbmdzIChtaWQp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 227 95 40 4f
+        E 237 85 40 43
+        E 3 95 3d 55
+        E 218 95 3e 55
+        E 2 85 3d 48
+        E 247 85 3e 37
+        E 10 95 40 55
+        E 499 95 39 4f
+        E 4 85 40 48
+        E 455 95 44 55
+        E 25 85 39 01
+        E 457 95 45 57
+        E 3 85 44 18
+        E 464 95 40 47
+        E 472 85 45 01
+        E 523 85 40 3a
+        E 3 95 3e 4d
+        E 436 85 3e 3e
+        E 5 95 3d 4d
+        E 3 95 40 4f
+        E 429 85 3d 01
+        E 23 85 40 38
+        E 7 95 3e 4b
+        E 7 95 3b 44
+        E 496 95 40 4d
+        E 4 85 3b 27
+        E 1 95 3d 44
+        E 10 85 3e 28
+        E 948 85 3d 45
+        E 20 85 40 43
+        E 463 95 3e 5f
+        E 338 95 3d 62
+        E 10 85 3e 23
+        E 123 85 3d 3e
+        E 3 95 3b 4d
+        E 220 95 3e 5f
+        E 15 85 3b 35
+        E 238 95 3d 65
+        E 15 85 3e 28
+        E 200 95 3b 5a
+        E 17 85 3d 18
+        E 240 85 3b 43
+        E 6 95 39 5a
+        E 244 95 3e 5a
+        E 14 85 39 1d
+        E 251 95 3d 4d
+        E 2 85 3e 2b
+        E 522 85 3d 4b
+        E 418 95 3e 5d
+        E 336 95 3d 5d
+        E 19 85 3e 2b
+        E 109 95 3b 4f
+        E 6 85 3d 34
+        E 242 95 3e 5a
+        E 18 85 3b 36
+        E 218 95 3d 55
+        E 24 85 3e 1d
+        E 220 95 3b 55
+        E 19 85 3d 10
+        E 236 85 3b 3e
+        E 7 95 39 5a
+        E 235 95 3e 5d
+        E 22 85 39 22
+        E 237 95 3d 4d
+        E 1 85 3e 31
+        E 495 85 3d 51
+        E 214 95 40 5a
+        E 222 95 45 57
+        E 21 85 40 42
+        E 328 95 40 4e
+        E 12 85 45 41
+        E 121 85 40 47
+        E 2 95 3d 4f
+        E 200 95 40 55
+        E 10 85 3d 2e
+        E 225 95 45 5a
+        E 14 85 40 33
+        E 226 85 45 3a
+        E 9 95 44 55
+        E 11 95 40 4b
+        E 256 95 45 5d
+        E 15 85 44 2f
+        E 865 85 40 01
+        E 109 85 45 41
+        E 7 95 40 55
+        E 450 85 40 3b
+        E 13 95 3e 52
+        E 459 85 3e 37
+        E 12 95 3d 4f
+        E 0 95 40 4b
+        E 422 85 3d 01
+        E 28 85 40 3c
+        E 19 95 3b 3f
+        E 1 95 3e 55
+        E 510 95 40 4a
+        E 1 95 3d 4d
+        E 5 85 3b 2b
+        E 9 85 3e 17
+        E 1474 85 3d 53
+        E 7 85 40 54
+        E 422 b0 7b 00
+        GUID {BA7C9CF7-F3B1-FA47-9ED9-132F17551910}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 643
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.714286 0.142857
+      IGUID {74F00D5D-60FE-CD4E-89C4-198B8A6FD99E}
+      IID 39
+      NAME "strings (bass) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2ABF41B-0C0D-6B44-86DD-FB808074262A}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {B209347E-C6AD-6B4E-AC91-CD5716ECD441}
+        <X 0 0 0 0 3 "strings (bass)"
+          /wNzdHJpbmdzIChiYXNzKQ==
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 237 96 28 67
+        E 224 86 28 3c
+        E 5 96 25 5f
+        E 224 86 25 46
+        E 18 96 26 62
+        E 194 86 26 0a
+        E 74 96 28 5a
+        E 444 86 28 3a
+        E 32 96 25 67
+        E 439 86 25 32
+        E 24 96 28 62
+        E 474 86 28 4a
+        E 3 96 2d 57
+        E 469 86 2d 21
+        E 4 96 21 5f
+        E 476 86 21 4a
+        E 4 96 25 67
+        E 467 86 25 16
+        E 7 96 26 5f
+        E 462 86 26 15
+        E 16 96 28 62
+        E 456 96 1c 55
+        E 4 86 28 23
+        E 527 86 1c 43
+        E 7 96 21 5f
+        E 813 86 21 3f
+        E 133 96 28 52
+        E 450 96 1c 52
+        E 7 86 28 37
+        E 488 96 28 4d
+        E 7 86 1c 49
+        E 463 86 28 17
+        E 1 96 1c 4e
+        E 466 96 21 55
+        E 4 86 1c 43
+        E 388 86 21 3c
+        E 94 96 21 55
+        E 503 86 21 48
+        E 3 96 28 52
+        E 474 96 1c 5d
+        E 8 86 28 40
+        E 465 96 28 4f
+        E 4 86 1c 2e
+        E 448 86 28 1f
+        E 9 96 1c 5a
+        E 492 86 1c 42
+        E 2 96 21 4f
+        E 372 86 21 46
+        E 125 96 21 5d
+        E 617 86 21 12
+        E 82 96 28 5a
+        E 241 86 28 3b
+        E 9 96 2d 55
+        E 340 86 2d 17
+        E 8 96 28 4f
+        E 115 96 25 62
+        E 5 86 28 41
+        E 231 86 25 24
+        E 5 96 28 62
+        E 239 86 28 43
+        E 2 96 2d 52
+        E 214 86 2d 10
+        E 23 96 28 5a
+        E 251 86 28 01
+        E 6 96 21 65
+        E 968 86 21 23
+        E 8 96 25 62
+        E 447 86 25 27
+        E 36 96 26 62
+        E 471 86 26 3e
+        E 7 96 28 5f
+        E 478 86 28 29
+        E 0 96 1c 5a
+        E 486 86 1c 48
+        E 12 96 21 62
+        E 1430 86 21 65
+        E 479 b0 7b 00
+        GUID {C8F05F56-B641-B54A-9035-EAB4B05A38E5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 644
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.142857
+      IGUID {7EC20C56-4C67-DE43-898E-8D3616C00EC0}
+      IID 33
+      NAME "trumpet(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D40DCD8D-9374-CC44-8E4C-5933E6B3DBE8}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {01BBF6FE-C81D-BE40-9AFF-F863F73456DB}
+        <X 0 0 0 0 3 trumpet(s)
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 247 90 40 65
+        E 179 80 40 0c
+        E 52 90 3d 62
+        E 168 80 3d 56
+        E 47 90 3e 5a
+        E 188 80 3e 1e
+        E 60 90 40 5a
+        E 727 90 45 65
+        E 6 80 40 01
+        E 209 80 45 2f
+        E 37 90 47 65
+        E 288 80 47 3f
+        E 64 90 40 55
+        E 121 80 40 39
+        E 1 90 49 67
+        E 894 80 49 30
+        E 71 90 45 67
+        E 372 80 45 01
+        E 104 90 42 67
+        E 327 80 42 27
+        E 15 90 47 57
+        E 121 80 47 2b
+        E 30 90 45 67
+        E 435 80 45 20
+        E 45 90 44 67
+        E 417 80 44 3f
+        E 54 90 45 5f
+        E 834 80 45 07
+        E 137 90 40 5a
+        E 413 80 40 05
+        E 41 90 47 62
+        E 312 80 47 3d
+        E 16 90 45 55
+        E 137 90 44 5d
+        E 2 80 45 2b
+        E 242 80 44 37
+        E 1 90 42 5a
+        E 245 80 42 48
+        E 7 90 40 62
+        E 227 90 3e 62
+        E 1 80 40 44
+        E 215 80 3e 2b
+        E 27 90 3d 5a
+        E 245 90 42 5f
+        E 25 80 3d 30
+        E 229 80 42 42
+        E 7 90 40 5d
+        E 408 80 40 2c
+        E 87 90 40 5d
+        E 426 80 40 0b
+        E 44 90 47 5f
+        E 341 90 45 57
+        E 15 80 47 41
+        E 95 90 44 55
+        E 13 80 45 33
+        E 224 90 42 5f
+        E 9 80 44 19
+        E 228 80 42 4e
+        E 9 90 40 5f
+        E 239 80 40 22
+        E 0 90 3e 52
+        E 237 80 3e 28
+        E 7 90 3d 5f
+        E 240 90 42 67
+        E 16 80 3d 32
+        E 233 80 42 2f
+        E 8 90 40 62
+        E 665 80 40 29
+        E 67 90 40 5d
+        E 235 80 40 01
+        E 0 90 45 65
+        E 367 90 40 52
+        E 7 80 45 4a
+        E 116 90 3d 65
+        E 17 80 40 49
+        E 193 90 40 62
+        E 8 80 3d 2e
+        E 232 80 40 4b
+        E 2 90 45 65
+        E 198 80 45 22
+        E 35 90 47 5f
+        E 165 80 47 22
+        E 88 90 49 5f
+        E 918 80 49 14
+        E 47 90 45 65
+        E 375 80 45 24
+        E 95 90 42 67
+        E 328 80 42 1a
+        E 12 90 47 57
+        E 112 80 47 41
+        E 35 90 45 65
+        E 424 80 45 12
+        E 38 90 44 5f
+        E 474 80 44 3a
+        E 27 90 45 65
+        E 1507 80 45 59
+        E 412 b0 7b 00
+        GUID {F55D704B-BDFF-7B4C-81B8-B3B025DB306F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 638
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 28.307692 54 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 0.25 96 143 1280 778 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.857143 0.142857
+      IGUID {164C8ABA-E750-6348-9F51-3476B16E1B32}
+      IID 37
+      NAME "strings (hi) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A4DB9CA-D2E6-EA4A-9869-6D816862F492}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {8EF3DF65-DDCE-A64F-8FC5-404D425EF284}
+        <X 0 0 0 0 3 "strings (hi)"
+          /wNzdHJpbmdzIChoaSk=
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 220 94 40 57
+        E 7 94 4c 5d
+        E 211 84 4c 01
+        E 19 94 3d 4d
+        E 13 94 49 5a
+        E 2 84 40 18
+        E 195 84 3d 4c
+        E 20 94 3e 4b
+        E 14 94 4a 55
+        E 29 84 49 33
+        E 213 94 4c 55
+        E 1 84 4a 42
+        E 1 84 3e 29
+        E 10 94 40 4d
+        E 707 84 4c 01
+        E 1 94 45 4d
+        E 1 94 51 52
+        E 1 84 40 45
+        E 231 84 51 3d
+        E 3 84 45 3e
+        E 4 94 53 4e
+        E 3 94 47 4f
+        E 327 94 40 4e
+        E 4 84 47 3c
+        E 3 94 4c 45
+        E 3 84 53 0d
+        E 138 94 55 5a
+        E 4 94 49 65
+        E 33 84 40 01
+        E 0 84 4c 1f
+        E 761 84 49 0a
+        E 98 84 55 37
+        E 57 94 45 65
+        E 4 94 51 4d
+        E 475 84 51 09
+        E 3 84 45 01
+        E 6 94 42 62
+        E 0 94 4e 62
+        E 332 94 47 4f
+        E 1 94 53 4b
+        E 12 84 42 1c
+        E 11 84 4e 47
+        E 120 94 45 62
+        E 3 94 51 52
+        E 6 84 47 3a
+        E 4 84 53 42
+        E 455 84 45 01
+        E 5 94 50 55
+        E 4 84 51 28
+        E 2 94 44 4d
+        E 498 94 51 4a
+        E 5 94 45 4b
+        E 13 84 50 46
+        E 6 84 44 22
+        E 762 84 51 13
+        E 16 84 45 29
+        E 147 94 4c 4b
+        E 10 94 40 5f
+        E 448 94 47 55
+        E 2 84 40 37
+        E 0 94 53 4b
+        E 3 84 4c 1c
+        E 372 94 51 4b
+        E 3 94 45 52
+        E 1 84 47 27
+        E 12 84 53 23
+        E 102 94 44 4e
+        E 2 94 50 55
+        E 16 84 45 2f
+        E 9 84 51 37
+        E 186 94 42 5a
+        E 5 84 44 2b
+        E 4 94 4e 55
+        E 20 84 50 15
+        E 207 84 42 3f
+        E 10 94 40 57
+        E 1 84 4e 4b
+        E 4 94 4c 4f
+        E 225 94 4a 48
+        E 18 84 4c 26
+        E 175 84 40 2a
+        E 62 84 4a 3d
+        E 5 94 49 5a
+        E 0 94 3d 17
+        E 235 94 42 47
+        E 4 94 4e 4e
+        E 10 84 49 2a
+        E 47 84 3d 37
+        E 160 84 4e 1d
+        E 16 84 42 2b
+        E 6 94 4c 48
+        E 5 94 40 4d
+        E 388 84 40 20
+        E 35 84 4c 1f
+        E 80 94 40 4b
+        E 4 94 4c 4e
+        E 467 94 53 4d
+        E 6 84 40 48
+        E 2 94 47 52
+        E 2 84 4c 1c
+        E 351 94 45 57
+        E 1 94 51 4d
+        E 6 84 47 31
+        E 3 84 53 2a
+        E 77 94 50 4f
+        E 15 84 51 2c
+        E 11 94 44 4e
+        E 18 84 45 2f
+        E 194 94 42 5f
+        E 20 94 4e 4d
+        E 5 84 44 27
+        E 21 84 50 06
+        E 195 84 42 40
+        E 19 84 4e 4d
+        E 6 94 4c 4f
+        E 1 94 40 5a
+        E 216 84 4c 26
+        E 6 94 3e 5a
+        E 1 84 40 36
+        E 7 94 4a 47
+        E 198 84 3e 0b
+        E 29 84 4a 0f
+        E 17 94 3d 55
+        E 6 94 49 4e
+        E 243 94 42 44
+        E 10 94 4e 4e
+        E 24 84 49 2c
+        E 4 84 3d 01
+        E 186 84 4e 22
+        E 13 84 42 24
+        E 6 94 4c 4a
+        E 7 94 40 55
+        E 578 84 40 3a
+        E 17 84 4c 2c
+        E 86 94 40 4f
+        E 5 94 4c 4d
+        E 246 84 40 26
+        E 9 84 4c 25
+        E 2 94 51 55
+        E 5 94 45 52
+        E 306 84 51 45
+        E 1 94 40 4a
+        E 16 94 4c 3d
+        E 12 84 45 18
+        E 89 94 3d 5f
+        E 12 84 4c 32
+        E 7 94 49 4a
+        E 7 84 40 40
+        E 217 94 40 62
+        E 13 84 49 39
+        E 3 94 4c 52
+        E 6 84 3d 2e
+        E 233 84 40 2d
+        E 1 94 45 45
+        E 16 94 51 4f
+        E 14 84 4c 28
+        E 201 84 51 2e
+        E 6 94 53 4e
+        E 7 84 45 3b
+        E 2 94 47 4d
+        E 243 94 55 57
+        E 18 84 53 24
+        E 3 94 49 58
+        E 15 84 47 28
+        E 856 84 49 12
+        E 43 84 55 1e
+        E 41 94 45 55
+        E 2 94 51 47
+        E 475 84 45 28
+        E 7 94 42 55
+        E 5 84 51 3f
+        E 6 94 4e 4d
+        E 310 84 42 33
+        E 7 94 47 4d
+        E 9 84 4e 36
+        E 12 94 53 47
+        E 150 94 51 4a
+        E 6 94 45 5f
+        E 1 84 53 25
+        E 5 84 47 2b
+        E 424 84 45 01
+        E 23 94 44 47
+        E 2 84 51 2f
+        E 2 94 50 5a
+        E 489 84 44 27
+        E 3 84 50 43
+        E 1 94 51 55
+        E 7 94 45 57
+        E 1396 84 51 41
+        E 18 84 45 45
+        E 35 b0 7b 00
+        GUID {7B4B956E-D9B4-A942-A931-35C8A2DD59F4}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 642
+        VELLANE -1 86 6
+      >
+    >
+  >
+  <TRACK {4A6CD977-ADCC-3A4D-927C-BB2CEF4B0809}
+    NAME "vst Gladiator"
+    PEAKCOL 27222112
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.46976747615165 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4A6CD977-ADCC-3A4D-927C-BB2CEF4B0809}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Gladiator (Tone2.com)" Gladiator.vst 0 "" 1412581196
+        TEcyVO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABaBAAAAQAAADwAEAA=
+        Q2NuSwAAAGBGeENrAAAAAVQyR0wAAAABAAABB0FSIFBhbmljIE1GAAAAAAAAAAAAAAAAAAAAAAA8tDlYAAAAAAAAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAA7AxJv
+        AAAAAD9LhR4/GuFIAAAAAD8AAAA/AAAAPwAAAAAAAAA7xJumAAAAAD3MzM0/OuFHAAAAAD8AAAAAAAAAAAAAAD8AAAA7AxJvAAAAAD8AAAA/AAAAAAAAAD6zMzM/AAAA
+        PwAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPoAAAD8AAAA7o9cKO+VgQj61VBgAAAAAPk21xD1ItDo9TMzMPoo9cQAAAAA/I9cLAAAAAD8AAAA/AAAAP2Uetz8AAAA/XXCk
+        PwAAAAAAAAAAAAAAPwAAAD8AAAAAAAAAPxCj1gAAAAAAAAAAPvCj1j8AAAA/EeuFPwAAAD8HrhQ9QIMSP3mZmT6AAAA+3Cj1O+VgQj8HrhQ/QAAAPso9cQAAAAA6gxJv
+        PwAAAAAAAAAAAAAAAAAAADqDEm8/AAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAA
+        PwAAAD8AAAA/AAAAAAAAAAAAAAAAAAAAO8SbpgAAAAAAAAAAPKwIMQAAAAAAAAAAPPXCjzz1wo889cKPAAAAAAAAAAAAAAAAPPXCjwAAAAA89cKPAAAAAAAAAAAAAAAA
+        PPXCjwAAAAA8E3S8AAAAADwTdLwAAAAAPBN0vAAAAAA8E3S8AAAAADwTdLwAAAAAPBN0vAAAAAA8E3S8AAAAADwTdLwAAAAAPDQ5WDw0OVg9hR64AAAAAAAAAAAAAAAA
+        OwMSbztEm6Y7AxJvAAAAAAAAAAAAAAAAPqwjTz9GnuY/AjT3PwAAAD8AAAA/AAAAAAAAADsDEm87gxJvAAAAAAAAAAAAAAAAPyPXCzqDEm8AAAAAP4AAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP4AAADybpeM/J64VAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/gAAAP4AAAAAAAAAAAAAAAAAAAD7R64U+tcKP
+        PwAAAD8AAAA/AAAAPwAAAAAAAAA/AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAA/AAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8qqusrQ==
+        AEFSIFBhbmljIE1GABAAAAA=
+      >
+      PRESETNAME "AR Panic MF"
+      FLOATPOS 500 379 987 799
+      FXID {532372E3-5B0D-9345-A9C8-98A8EBAF9A7E}
+      WAK 0
+    >
+  >
+  <TRACK {9E2CAE92-CCC1-1F4A-BCF6-93DCFE473BDF}
+    NAME "16th pulse (mix w/ send?)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.3233982038285 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9E2CAE92-CCC1-1F4A-BCF6-93DCFE473BDF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 36 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Plogue Art et Technologie, Inc)" chipsounds.vst 0 "" 1347176271
+        T0dMUO5e7f4AAAAABAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAhAQAAAEAAAAAABAA
+        Q0VHUA8YAAB4nO1YXW+jOBR9769APO0+DNjGxraUdJSm7SrSdqdSus8jl3hSNARYMNnO/Pq9QNI4bR1StTMaaeuXmJtzP861sY8YfbxfZd5aV3Va5GMfB8j3Pp6ejCZV
+        quZqra2/JI59r6yKRZOY2TkYEJL+6YkHYzTXxqT5svb+aVSWmm/wr+/VptJqBeaxHxHfW6n7eWeZZFmRXJ2NfYbBfDU7n31qzFWx0J2XakyxUgZyzrPCjH1kmzK91tnY
+        T3OI3ax0bnwvS9e6dwZknbSF0m6mMgU27H3wdFtVUCfZxjwFR12N/Rhwy6y4VdlNk3d1giHcUoLsXrrobLlatfFx4F03lfamd2kZzmfnYcwE9n7762Y+/d33blX+dbbY
+        9MXqmyDAMrlTed6WDtHKIoMGUd8zu6zl7edK5UvI8gF6UBp4qLs/Vta0SAwsyQPRtqeN2Tz/+zlTtWnD9vV3HK5Umm85rFXW9B0On0PgBwRyIMggIhpE0EEEG0TEgwg+
+        iBCDCDmIwGgYMtxVPNxWPNxXPNxY7OzstarU6vAS7yDORDsId222HcSmFBDmhFEbFslu0DhiTBCnzzHprdUNMOnjMhLhmAjqpGWtdxDh3gnwnFISO52sHRBQ1DvFlESc
+        tD1wOBG7PIG6wTEjjHF3eXstjXonijmJCHM2gtsNjvsGCxZLKgRzl2ftpID3mbBEPKIidjvFe5xY50UiQWEunE7WexoAm759QghCYdWcrISda9MJjCVBkkinj3y5j0R7
+        nPrqeIzhVqDu/RnZW0JgDF1gkIQKiSPnPpJol+sAaBfamV8iMvyCSHTEey5RfEwkcQxIHvHSomMqxwRFLtSNqpbabG7zpFgF11mxbHTQip3gz8tPQVPrClkXaOc1bWqQ
+        H+fKKO/OfCvBlXEG9dbpd5hTYd310CqdL1LVTxfgApPtuOx/CHrbsU8x7Dm+lDT+n5C+qdLlUldzUIQ6T3Q1TJtGNHqgzS3a5DnaeMN6M1B3kPBLRGCOLgTHj4lEU34p
+        jyCMET1EehS2cvWxcsVvqlzxVrmSnXLFbyldybt0fZeubyBdA4kYg7ubMyJEJLHzrthTl5zGiEkhKYsxj92SZPgK4s7uOnQho50cwnEsJJwYTjm8J/GQpBs1hDiIr+Mk
+        XsT744QCw4hjt2y1JR7B8rhMzu39Omlmax+n/LW1zwGd8SO0zwGp9TO0z6+lap7ccI/GxRGXHXpXNT9R1eCIvVTWnLVPrazBDJ3xy7MnTNyyZiuB4LCFMWFR28vpL2t9
+        pt5jZdjFly86MfZnxI3y6ddvsrpN29UakF/bz5F//D3bhlGJSdd6tvs82j1fPDzXOoPEenGjbttn+0CpdK3Nlc4bL623cNMROLyhPKPvAXKm6hoknjJ3Yz+clGWWJt1n
+        2TrsHUEspmVdNPkCLF2uOjwQNuw3pgf25GsdttEDBS9w+egYfFI1frbqSVXq5TJVptgVnKXlKwq2IoZtqNdU5+opVLDSlfoBbd1UXwC4z/Go/FEIm+r0ZBRuP/afnvwH
+        ubMUmQ==
+        AAAQAAAA
+      >
+      FLOATPOS 409 269 871 509
+      FXID {DC79668B-30D1-964C-A162-F245DBE294B0}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: 8-Bit Shaper (Xfer Records)" 8BitShaper.vst 0 "" 1148539762
+        clN1RO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAQAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAADQCAAABAAAAAAAQAA==
+        ZmaGP20MlT7dQQw/AAAAPzwA//8AAIA/L1VzZXJzL3MXAAAAMAAAABkAAAAaAAAAGgAAABoAAAAbAAAAGwAAABwAAAAcAAAAHAAAAB0AAAAdAAAAHgAAAB4AAAAfAAAA
+        HwAAACAAAAAgAAAAIAAAACEAAAAhAAAAIQAAACIAAAAiAAAAIgAAACMAAAAjAAAAIwAAACQAAAAkAAAAJAAAACUAAAAlAAAAKAAAACgAAAApAAAAKQAAACoAAAA1AAAA
+        KgAAACoAAAA2AAAAKgAAACoAAAAqAAAAKgAAACoAAAAqAAAAKgAAACsAAAArAAAAOQAAAC0AAAA0AAAAOgAAAC0AAAAtAAAAPAAAAC4AAAAuAAAALwAAADAAAAAwAAAA
+        MQAAADEAAAAxAAAAMgAAADMAAAAzAAAAMwAAADcAAAA3AAAANwAAADgAAAA4AAAAOAAAADkAAAA5AAAAOQAAADoAAAA6AAAAOgAAADoAAAA6AAAAOwAAADsAAAA7AAAA
+        PAAAADsAAAA7AAAAOwAAADwAAAA8AAAAPAAAADwAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAD4AAAA+AAAAPwAAAEkAAABAAAAAQAAAAEgAAABAAAAAQQAAAEIAAABCAAAA
+        QgAAAEMAAABDAAAAQwAAAEQAAABEAAAARQAAAE0AAABGAAAARwAAAEYAAABHAAAASAAAAEgAAABJAAAATwAAAAAAgD+rqqo+q6qqPh0Fwz6OAm0/
+        AEluaXQgMQAQAAAA
+      >
+      PRESETNAME "Init 1"
+      FLOATPOS 0 0 0 0
+      FXID {8D41C7C8-FDD9-0B46-8F32-7407BD5E7789}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.142857
+      IGUID {9F527AE0-B4B7-7048-A69B-185344357027}
+      IID 33
+      NAME "trumpet(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE311E87-372A-024E-BCD9-D87B9436BBFA}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {2E631D75-DF6E-CD4E-A253-B4AF52592ECC}
+        <X 0 0 0 0 3 trumpet(s)
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 247 90 40 65
+        E 179 80 40 0c
+        E 52 90 3d 62
+        E 168 80 3d 56
+        E 47 90 3e 5a
+        E 188 80 3e 1e
+        E 60 90 40 5a
+        E 727 90 45 65
+        E 6 80 40 01
+        E 209 80 45 2f
+        E 37 90 47 65
+        E 288 80 47 3f
+        E 64 90 40 55
+        E 121 80 40 39
+        E 1 90 49 67
+        E 894 80 49 30
+        E 71 90 45 67
+        E 372 80 45 01
+        E 104 90 42 67
+        E 327 80 42 27
+        E 15 90 47 57
+        E 121 80 47 2b
+        E 30 90 45 67
+        E 435 80 45 20
+        E 45 90 44 67
+        E 417 80 44 3f
+        E 54 90 45 5f
+        E 834 80 45 07
+        E 137 90 40 5a
+        E 413 80 40 05
+        E 41 90 47 62
+        E 312 80 47 3d
+        E 16 90 45 55
+        E 137 90 44 5d
+        E 2 80 45 2b
+        E 242 80 44 37
+        E 1 90 42 5a
+        E 245 80 42 48
+        E 7 90 40 62
+        E 227 90 3e 62
+        E 1 80 40 44
+        E 215 80 3e 2b
+        E 27 90 3d 5a
+        E 245 90 42 5f
+        E 25 80 3d 30
+        E 229 80 42 42
+        E 7 90 40 5d
+        E 408 80 40 2c
+        E 87 90 40 5d
+        E 426 80 40 0b
+        E 44 90 47 5f
+        E 341 90 45 57
+        E 15 80 47 41
+        E 95 90 44 55
+        E 13 80 45 33
+        E 224 90 42 5f
+        E 9 80 44 19
+        E 228 80 42 4e
+        E 9 90 40 5f
+        E 239 80 40 22
+        E 0 90 3e 52
+        E 237 80 3e 28
+        E 7 90 3d 5f
+        E 240 90 42 67
+        E 16 80 3d 32
+        E 233 80 42 2f
+        E 8 90 40 62
+        E 665 80 40 29
+        E 67 90 40 5d
+        E 235 80 40 01
+        E 0 90 45 65
+        E 367 90 40 52
+        E 7 80 45 4a
+        E 116 90 3d 65
+        E 17 80 40 49
+        E 193 90 40 62
+        E 8 80 3d 2e
+        E 232 80 40 4b
+        E 2 90 45 65
+        E 198 80 45 22
+        E 35 90 47 5f
+        E 165 80 47 22
+        E 88 90 49 5f
+        E 918 80 49 14
+        E 47 90 45 65
+        E 375 80 45 24
+        E 95 90 42 67
+        E 328 80 42 1a
+        E 12 90 47 57
+        E 112 80 47 41
+        E 35 90 45 65
+        E 424 80 45 12
+        E 38 90 44 5f
+        E 474 80 44 3a
+        E 27 90 45 65
+        E 1507 80 45 59
+        E 412 b0 7b 00
+        GUID {F55D704B-BDFF-7B4C-81B8-B3B025DB306F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 638
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 28.307692 54 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 0.25 96 143 1280 778 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {3CF13A00-0AFC-8542-AD98-73B6D91102DB}
+    NAME "vst Plogue"
+    PEAKCOL 26779488
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 1 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {3CF13A00-0AFC-8542-AD98-73B6D91102DB}
+    PERF 0
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 32 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 96 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 64 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 128 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: chipsounds (Multi) (Plogue Art et Technologie, Inc) (32 out)" "chipsounds Multi.vst" 0 "" 1347241807
+        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
+        AAAQAAAA
+      >
+      FLOATPOS 275 269 871 509
+      FXID {C804D762-B992-A540-81BF-3D6C0F7FF19B}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0.142857 0.142857
+      IGUID {79D231A2-3745-614A-A7D7-F85C838E98E8}
+      IID 34
+      NAME "fr. horn(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6EBBB62-6D28-D642-B7C2-E5A15D09E2D7}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {22448CC9-5FC6-6841-95AE-97AADAAEF5F2}
+        <X 0 0 0 0 3 "fr. horn(s)"
+          /wNmci4gaG9ybihzKQ==
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 241 91 40 5d
+        E 174 81 40 27
+        E 52 91 3d 5d
+        E 176 81 3d 25
+        E 49 91 3e 4d
+        E 215 81 3e 2a
+        E 61 91 40 57
+        E 444 81 40 01
+        E 51 91 39 4f
+        E 414 81 39 01
+        E 44 91 44 55
+        E 423 81 44 01
+        E 45 91 45 4f
+        E 443 81 45 22
+        E 19 91 40 39
+        E 435 81 40 2d
+        E 75 91 40 35
+        E 437 81 40 04
+        E 42 91 3e 4e
+        E 418 81 3e 01
+        E 53 91 3d 4b
+        E 0 91 40 47
+        E 409 81 3d 01
+        E 8 81 40 2a
+        E 58 91 3e 4d
+        E 6 91 3b 1d
+        E 429 81 3b 01
+        E 17 81 3e 1c
+        E 45 91 3d 41
+        E 2 91 40 42
+        E 802 81 3d 1b
+        E 15 81 40 21
+        E 124 91 40 44
+        E 393 81 40 38
+        E 92 91 3e 4e
+        E 9 91 40 35
+        E 298 81 3e 2d
+        E 47 91 3d 48
+        E 119 81 3d 2b
+        E 22 91 3b 4a
+        E 207 81 3b 15
+        E 7 91 3e 52
+        E 91 81 40 01
+        E 137 81 3e 2b
+        E 12 91 3d 4d
+        E 214 81 3d 2d
+        E 14 91 3b 47
+        E 217 81 3b 26
+        E 35 91 39 4d
+        E 239 81 39 2b
+        E 1 91 3e 4b
+        E 240 81 3e 2a
+        E 9 91 3d 45
+        E 766 81 3d 2c
+        E 216 91 40 41
+        E 6 91 3e 4d
+        E 315 81 3e 1a
+        E 6 91 3d 42
+        E 129 81 3d 39
+        E 11 91 3b 44
+        E 15 81 40 48
+        E 205 91 3e 4d
+        E 9 81 3b 01
+        E 206 81 3e 2a
+        E 11 91 3d 45
+        E 238 81 3d 34
+        E 13 91 3b 4a
+        E 208 81 3b 25
+        E 34 91 39 4a
+        E 246 91 3e 4a
+        E 4 81 39 01
+        E 241 81 3e 29
+        E 7 91 3d 45
+        E 689 81 3d 43
+        E 32 91 40 4b
+        E 192 81 40 13
+        E 22 91 45 5f
+        E 320 81 45 3d
+        E 26 91 40 5a
+        E 110 81 40 3b
+        E 9 91 3d 4d
+        E 195 81 3d 4c
+        E 33 91 40 55
+        E 227 81 40 01
+        E 23 91 45 62
+        E 223 81 45 01
+        E 28 91 44 5a
+        E 0 91 40 5a
+        E 232 81 44 01
+        E 0 81 40 01
+        E 17 91 45 4d
+        E 0 91 40 4d
+        E 804 81 45 40
+        E 0 81 40 40
+        E 199 91 40 47
+        E 398 81 40 33
+        E 71 91 3e 4a
+        E 412 81 3e 14
+        E 50 91 3d 4a
+        E 9 91 40 4f
+        E 433 81 3d 32
+        E 13 81 40 1c
+        E 43 91 3e 5a
+        E 2 91 3b 44
+        E 424 81 3e 2d
+        E 2 81 3b 18
+        E 39 91 3d 55
+        E 24 91 40 4a
+        E 1449 81 40 43
+        E 7 81 3d 5a
+        E 448 b0 7b 00
+        GUID {891F7BE1-99AC-FD49-B0C3-86B8ACE60437}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 639
+        VELLANE -1 86 6
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      YPOS 0 0.142857
+      IGUID {81D30C71-DCCE-7044-8B5A-C50153008B04}
+      IID 33
+      NAME "trumpet(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC7BFB4B-03AE-7B47-9144-E8BC8FE5E4E5}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {A046A536-FA04-D943-B5FD-74B39170EAEC}
+        <X 0 0 0 0 3 trumpet(s)
+          /wN0cnVtcGV0KHMp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 247 90 40 65
+        E 179 80 40 0c
+        E 52 90 3d 62
+        E 168 80 3d 56
+        E 47 90 3e 5a
+        E 188 80 3e 1e
+        E 60 90 40 5a
+        E 727 90 45 65
+        E 6 80 40 01
+        E 209 80 45 2f
+        E 37 90 47 65
+        E 288 80 47 3f
+        E 64 90 40 55
+        E 121 80 40 39
+        E 1 90 49 67
+        E 894 80 49 30
+        E 71 90 45 67
+        E 372 80 45 01
+        E 104 90 42 67
+        E 327 80 42 27
+        E 15 90 47 57
+        E 121 80 47 2b
+        E 30 90 45 67
+        E 435 80 45 20
+        E 45 90 44 67
+        E 417 80 44 3f
+        E 54 90 45 5f
+        E 834 80 45 07
+        E 137 90 40 5a
+        E 413 80 40 05
+        E 41 90 47 62
+        E 312 80 47 3d
+        E 16 90 45 55
+        E 137 90 44 5d
+        E 2 80 45 2b
+        E 242 80 44 37
+        E 1 90 42 5a
+        E 245 80 42 48
+        E 7 90 40 62
+        E 227 90 3e 62
+        E 1 80 40 44
+        E 215 80 3e 2b
+        E 27 90 3d 5a
+        E 245 90 42 5f
+        E 25 80 3d 30
+        E 229 80 42 42
+        E 7 90 40 5d
+        E 408 80 40 2c
+        E 87 90 40 5d
+        E 426 80 40 0b
+        E 44 90 47 5f
+        E 341 90 45 57
+        E 15 80 47 41
+        E 95 90 44 55
+        E 13 80 45 33
+        E 224 90 42 5f
+        E 9 80 44 19
+        E 228 80 42 4e
+        E 9 90 40 5f
+        E 239 80 40 22
+        E 0 90 3e 52
+        E 237 80 3e 28
+        E 7 90 3d 5f
+        E 240 90 42 67
+        E 16 80 3d 32
+        E 233 80 42 2f
+        E 8 90 40 62
+        E 665 80 40 29
+        E 67 90 40 5d
+        E 235 80 40 01
+        E 0 90 45 65
+        E 367 90 40 52
+        E 7 80 45 4a
+        E 116 90 3d 65
+        E 17 80 40 49
+        E 193 90 40 62
+        E 8 80 3d 2e
+        E 232 80 40 4b
+        E 2 90 45 65
+        E 198 80 45 22
+        E 35 90 47 5f
+        E 165 80 47 22
+        E 88 90 49 5f
+        E 918 80 49 14
+        E 47 90 45 65
+        E 375 80 45 24
+        E 95 90 42 67
+        E 328 80 42 1a
+        E 12 90 47 57
+        E 112 80 47 41
+        E 35 90 45 65
+        E 424 80 45 12
+        E 38 90 44 5f
+        E 474 80 44 3a
+        E 27 90 45 65
+        E 1507 80 45 59
+        E 412 b0 7b 00
+        GUID {F55D704B-BDFF-7B4C-81B8-B3B025DB306F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 638
+        VELLANE -1 86 6
+        CFGEDITVIEW 0 28.307692 54 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 0.25 96 143 1280 778 0 0 2 3 0 0 0 0 0 -1 0 0 1 64
+      >
+    >
+  >
+  <TRACK {2BB5EACD-C1BC-284E-92F6-33B7023B768F}
+    NAME "ch1,3 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2BB5EACD-C1BC-284E-92F6-33B7023B768F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {3C494A2B-9670-9740-AD22-E42CC5065FE1}
+    NAME "ch2,4 (send)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    MIDICTL -1 1
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C494A2B-9670-9740-AD22-E42CC5065FE1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 359 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      YPOS 0.428571 0.142857
+      IGUID {F13403F3-EB09-694A-9C54-26441B7FF08F}
+      IID 36
+      NAME "tuba(s) - National_Anthems_-_Finland.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF805C17-2F84-8F43-9FEE-C53D3B51DEB8}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {01BEC2EC-AB8C-7843-A45C-294B2D701ADC}
+        <X 0 0 0 0 3 tuba(s)
+          /wN0dWJhKHMp
+        >
+        <X 0 0 0 0 4 "Sound Canvas"
+          /wRTb3VuZCBDYW52YXM=
+        >
+        E 256 93 28 6d
+        E 181 83 28 17
+        E 52 93 25 6a
+        E 193 83 25 48
+        E 38 93 26 6a
+        E 172 83 26 44
+        E 88 93 28 6a
+        E 424 83 28 19
+        E 47 93 25 6d
+        E 412 83 25 28
+        E 58 93 28 6a
+        E 397 83 28 02
+        E 108 93 2d 6a
+        E 423 83 2d 01
+        E 44 93 21 6f
+        E 439 83 21 18
+        E 28 93 25 6f
+        E 422 83 25 48
+        E 56 93 26 6d
+        E 407 83 26 07
+        E 71 93 28 6a
+        E 418 83 28 07
+        E 78 93 1c 6a
+        E 433 83 1c 24
+        E 63 93 21 73
+        E 817 83 21 3e
+        E 136 93 28 67
+        E 418 83 28 04
+        E 69 93 1c 6d
+        E 435 83 1c 23
+        E 22 93 28 6a
+        E 343 83 28 01
+        E 114 93 1c 67
+        E 476 83 1c 01
+        E 10 93 21 6d
+        E 388 83 21 4c
+        E 75 93 21 6a
+        E 500 83 21 4a
+        E 12 93 28 6a
+        E 395 83 28 07
+        E 97 93 1c 6d
+        E 439 83 1c 36
+        E 29 93 28 6f
+        E 419 83 28 01
+        E 60 93 1c 62
+        E 461 83 1c 01
+        E 10 93 21 6f
+        E 390 83 21 4c
+        E 94 93 21 6f
+        E 527 83 21 44
+        E 177 93 28 67
+        E 214 83 28 20
+        E 45 93 2d 67
+        E 303 83 2d 1c
+        E 15 93 28 65
+        E 118 83 28 2a
+        E 28 93 25 6a
+        E 207 83 25 28
+        E 25 93 28 67
+        E 229 83 28 41
+        E 17 93 2d 62
+        E 185 83 2d 1a
+        E 52 93 28 67
+        E 194 83 28 18
+        E 57 93 21 6f
+        E 874 83 21 34
+        E 94 93 25 6d
+        E 392 83 25 3a
+        E 101 93 26 6f
+        E 441 83 26 2f
+        E 49 93 28 65
+        E 422 83 28 01
+        E 42 93 1c 6a
+        E 455 83 1c 16
+        E 31 93 21 6d
+        E 1442 83 21 66
+        E 467 b0 7b 00
+        GUID {8FA99E7D-2B96-694D-AB9C-07D077332338}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 641
+        VELLANE -1 86 6
+      >
+    >
+  >
+  <TRACK {97C14EE2-C273-C940-9D68-54C062C3CBCA}
+    NAME ChipFront
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.3981071705535 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {97C14EE2-C273-C940-9D68-54C062C3CBCA}
+    PERF 0
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAADcCwAAAAAAAAAAEAA=
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAAA/q6qqPq2+aD8AAAA/ig0yPM3MzD0AAAAAAAAAAAAAAAAAAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj4ATrI+
+        AAAAPwAAAADBykk/XXRRPwAAAACJiIg9AACAP6oXiD4AAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqKj3ZiZ09gShWPgAAAAAAAAAA
+        v+eWPQAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcEZyb250AENoaXBGcm9udAAQAAAA
+      >
+      PRESETNAME ChipFront
+      FLOATPOS 36 32 641 529
+      FXID {4C5A6810-F3ED-0645-A06D-6758F70CB097}
+      WAK 0
+    >
+  >
+  <TRACK {1B564899-9ACC-8C4B-8FBF-925A5A247A13}
+    NAME ChipSide
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.3981071705535 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B564899-9ACC-8C4B-8FBF-925A5A247A13}
+    PERF 0
+    AUXRECV 3 0 1.03113579563571 0 0 0 0 2 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: FabFilter Volcano 2 (SC) (FabFilter)" "FabFilter Volcano 2 (SC).vst" 0 "" 1180054068
+        NDJWRu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA
+        QAAAAAAAAACAAAAAAAAAANwLAAAAAAAAAAAQAA==
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AACAPwAAAAAAAIA/q6qqPsplFD8AAAA/TxqgPc3MzD0AAAAAAAAAAEKGIj8AAIA/AACAP0Isdj8AAAA/bbDgPZqZGT8AAAAA
+        AAAAAOev3zwAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAAA/AAAAAJqZGT8AAAAAAAAAAAAAAAAAAIA/AAAAAKuqqj6CdAA9
+        EObJPZgn+j4AAIA/AAAAAAAAAACJiAg+AACAP7PDtD4AAIA/AAAAAAAAAAAAAAAAq6qqPgAAAACeFR0/AAAAAAAAgD8AAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAHwZED4AAAA/
+        KKO3PQAAgD8AAAAAAAAAAImIiD3y0iU/AAAAAAAAgD8AAAAAdGjRPQAAAAAAAIA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/
+        AAAAPwAAAAAAAAAAiYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA
+        AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAC+9H0+AAAAPwAAAD8AAAA/
+        AAAAAAAAAACJiIg9AAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/
+        AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAL70fT4AAAA/AAAAPwAAAD8AAAAA
+        AAAAAImIiD0AAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAA
+        AAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAvvR9PgAAAD8AAAA/AAAAPwAAAAAAAAAA
+        iYiIPQAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAA
+        AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAmpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAA
+        mpmZPgAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqqj3ZiZ09gShWPgAAgD8AAAAA
+        v+eWPdmJHT0WszE/AAAAAAAAAACSdiw8AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAD8AAAA/
+        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        Q2hpcFNpZGUAQ2hpcFNpZGUAEAAAAA==
+      >
+      PRESETNAME ChipSide
+      FLOATPOS 36 32 641 529
+      FXID {20356A84-5CFD-6E4A-AA26-2A8A49CE7A76}
+      WAK 0
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+    >
+    <BR_CURSOR_POS 04
+      0.00000000000000
+    >
+  >
+>
